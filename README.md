@@ -1,10 +1,18 @@
-# Opera Graeca Adnotata v0.1.0
+# Opera Graeca Adnotata
 
-This repository contains an open access and scalable annotated collection
-of Greek texts,
-**Opera Graeca Adnotata** (base texts: 1,687 files and 34,172,140 tokens)
+This repository contains some files used to create 
+a multilayer corpus
+of Greek texts, **Opera Graeca Adnotata** 
+(base texts: 1,687 files and 34,172,140 tokens)
 (see also
-the website http://oga.informatik.uni-leipzig.de/it/index.html). 🏋️‍❤️😃
+the website http://oga.informatik.uni-leipzig.de/en/index.html). 🏋️‍❤️😃
+
+Because of the large size of the data, this repository contains a few
+manually annotated files used to create the annotations, 
+whose version control can be useful. 
+The actual corpus data are made available on Zenodo at
+
+* https://doi.org/10.5281/zenodo.8158675
 
 The original Greek texts (see `original_Greek_files/merge`)
 have been tokenized, sentence segmented, morphosyntactically annotated
@@ -16,18 +24,11 @@ author, work title, CTS URN, and passage.
 The repository is organized thus (further details within each folder):
 1. `abbreviations` contains a file useful for tokenization.
 2. `annotation_example` contains an unzipped example of the
-annotation layers, which is useful for inspection (given that all other
-files are zipped for space reasons).
+annotation layers, which is useful for inspection.
 3. `elision` contains a file used for tokenization.
 4. `tokenize` contains files used for tokenization.
 5. `urn_cts` contains files with bibliographic information
 about the texts in *Opera Graeca Adnotata*.
-
-Because of the large size of the data, this repository contains a few
-manually annotated files used to create the annotations. 
-All the data are made available on Zenodo at
-
-https://doi.org/10.5281/zenodo.8158675
 
 The present work should be cited so:
 
