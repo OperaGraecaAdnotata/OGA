@@ -19,10 +19,8 @@ The repository is organized thus (further details within each folder):
 annotation layers, which is useful for inspection (given that all other
 files are zipped for space reasons).
 3. `elision` contains a file used for tokenization.
-5. `original-Greek-files` contains the original TEI XML texts,
-which *Opera Graeca Adnotata* builds on.
-6. `tokenize` contains files used for tokenization.
-7. `urn_cts` contains files with bibliographic information
+4. `tokenize` contains files used for tokenization.
+5. `urn_cts` contains files with bibliographic information
 about the texts in *Opera Graeca Adnotata*.
 
 Because of the large size of the data, this repository contains a few
