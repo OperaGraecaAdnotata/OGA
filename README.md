@@ -16,7 +16,7 @@ An overview can also be read in the accompanying website at
 
 * http://oga.informatik.uni-leipzig.de/en/index.html
 
-The data can also be queries via annis search tool at:
+The data can also be queries via the Annis search tool at:
 
 * https://annis.varro.informatik.uni-leipzig.de/
 
@@ -43,6 +43,10 @@ about the texts in OGA.
 ## Citation
 
 If you use OGA or material within this repository, please cite it so:
+
+```
+Giuseppe G. A. Celano. Opera Graeca Adnotata: Building a 34M+ Token Multilayer Corpus for Ancient Greek. arXiv https://arxiv.org/abs/2404.00739.
+```
 
 ```
 @misc{celano2024operagraecaadnotatabuilding,
