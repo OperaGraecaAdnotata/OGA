@@ -1,4 +1,3 @@
 # Annotation example
 
-This folder contains an annotation example for inspection, in that all other
-annotation files are zipped for space reasons.
+This folder contains an annotation example just for inspection. Data are hosted on Zenodo.
