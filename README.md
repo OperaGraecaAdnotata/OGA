@@ -8,7 +8,7 @@ of Greek texts, **Opera Graeca Adnotata**
 the website http://oga.informatik.uni-leipzig.de/en/index.html). 🏋️‍❤️😃
 
 Because of the large size of the data, this repository contains a few
-manually annotated files used to create the annotations, 
+manually annotated files used to create annotations, 
 whose version control can be useful. 
 The actual corpus data are made available on Zenodo at
 
@@ -17,11 +17,10 @@ The actual corpus data are made available on Zenodo at
 The original Greek texts (see `original_Greek_files/merge`)
 have been tokenized, sentence segmented, morphosyntactically annotated
 using a standoff format, which allows for smooth
-expansion of the corpus via addition of any kind of annotation layer.
-The current release also contains annotation layers that allow searching for
+expansion of the corpus via addition of any kind of annotation layer. The current release (v0.1.0) also contains annotation layers that allow searching for
 author, work title, CTS URN, and passage.
 
-The repository is organized thus (further details within each folder):
+The present repository is organized thus (further details within each folder):
 1. `abbreviations` contains a file useful for tokenization.
 2. `annotation_example` contains an unzipped example of the
 annotation layers, which is useful for inspection.
@@ -30,7 +29,7 @@ annotation layers, which is useful for inspection.
 5. `urn_cts` contains files with bibliographic information
 about the texts in *Opera Graeca Adnotata*.
 
-The present work should be cited so:
+If you use OGA, please cite it so:
 
 ```
 Giuseppe G. A. Celano. 2023. Opera Graeca Adnotata (v0.1.0). Zenodo.
