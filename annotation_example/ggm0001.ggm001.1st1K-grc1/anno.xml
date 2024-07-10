@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE laula SYSTEM "../../laula_dtd/laula_struct.dtd">
+<laula version="1.0">
+  <header laula_id="anno.xml" type="STRUCT"/>
+  <structList xmlns:x="http://www.w3.org/1999/xlink" type="annoSet">
+    <s i="anno"/>
+  </structList>
+</laula>
