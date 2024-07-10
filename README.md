@@ -12,9 +12,13 @@ the actual corpus data are made available on Zenodo at
 Detailed information on the corpus can be found 
 in the article https://arxiv.org/abs/2404.00739.
 
-An overview can also be read in the accompanying website at:
+An overview can also be read in the accompanying website at
 
 * http://oga.informatik.uni-leipzig.de/en/index.html
+
+The data can also be queries via annis search tool at:
+
+* https://annis.varro.informatik.uni-leipzig.de/
 
 The present repository only contains a few
 useful manually annotated files used to create annotations in OGA, 
@@ -34,7 +38,7 @@ annotation layers, which is useful for inspection.
 3. `elision` contains a file used for tokenization.
 4. `tokenize` contains files used for tokenization.
 5. `urn_cts` contains files with bibliographic information
-about the texts in *Opera Graeca Adnotata*.
+about the texts in OGA.
 
 ## Citation
 
