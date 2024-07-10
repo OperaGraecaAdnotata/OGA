@@ -3,9 +3,11 @@
 This repository contains some files used to create 
 a multilayer corpus
 of Greek texts, **Opera Graeca Adnotata** 
-(base texts: 1,687 files and 34,172,140 tokens)
-(see also
-the website http://oga.informatik.uni-leipzig.de/en/index.html). 🏋️‍❤️😃
+(base texts: 1,687 files and 34,172,140 tokens) 🏋️‍❤️😃
+
+General information on the corpus can be found at:
+
+* http://oga.informatik.uni-leipzig.de/en/index.html
 
 Because of the large size of the data, this repository contains a few
 manually annotated files used to create annotations, 
