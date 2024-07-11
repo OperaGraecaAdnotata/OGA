@@ -16,11 +16,11 @@ An overview can also be read in the accompanying website at
 
 * http://oga.informatik.uni-leipzig.de/en/index.html
 
-The data can also be queries via the Annis search tool at:
+The data can also be queried via the Annis search tool at:
 
 * https://annis.varro.informatik.uni-leipzig.de/
 
-The present repository only contains a few
+The present repository contains a few
 useful manually annotated files used to create annotations in OGA, 
 whose error correction anyone can contribute to here. 
 
