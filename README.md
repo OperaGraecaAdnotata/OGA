@@ -1,4 +1,4 @@
-# Opera Graeca Adnotata
+# Opera Graeca Adnotata v0.1.0
 
 This repository contains some files used to create 
 **Opera Graeca Adnotata** (OGA), a multilayer corpus
