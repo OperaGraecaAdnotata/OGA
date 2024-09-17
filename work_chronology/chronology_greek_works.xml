@@ -3860,7 +3860,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>(2007). Isaeus. New York, USA: University of Texas Press</date_source>
     <date_source_link>https://doi.org/10.7560/716452</date_source_link>
-    <comment_on_chronology>Approximate date. Based on Wevers's statistical analysis</comment_on_chronology>
+    <comment_on_chronology>Approximate date. Based on Wever's statistical analysis</comment_on_chronology>
     <formatted_work_date>—0349-01/—0349-12</formatted_work_date>
   </record>
   <record>
@@ -3888,7 +3888,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>(2007). Isaeus. New York, USA: University of Texas Press</date_source>
     <date_source_link>https://doi.org/10.7560/716452</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>This date is supported by a passage inside the speech, which states that 50 years had passed since the Sicelian Expedition by the Athenians,according to Edwards.</comment_on_chronology>
     <formatted_work_date>—0364-01/—0362-12</formatted_work_date>
   </record>
   <record>
@@ -3916,8 +3916,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>(2007). Isaeus. New York, USA: University of Texas Press</date_source>
     <date_source_link>https://doi.org/10.7560/716452</date_source_link>
-    <comment_on_chronology>Upper and lower limits.</comment_on_chronology>
-    <formatted_work_date>—0382-02/—0364-12</formatted_work_date>
+    <comment_on_chronology>Upper and lower limits according to Edwards.tted_work_date>
   </record>
   <record>
     <id>281</id>
