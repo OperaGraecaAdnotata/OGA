@@ -4937,8 +4937,8 @@
     <estimated_work_date>80 AD -90 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Wikipedia</date_source>
-    <date_source_link/>
-    <comment_on_chronology>None</comment_on_chronology>
+    <date_source_link>https://en.wikipedia.org/wiki/Acts_of_the_Apostles</date_source_link
+    <comment_on_chronology>Generally accepted date.</comment_on_chronology>
     <formatted_work_date>+0080-01/+0090-12</formatted_work_date>
   </record>
   <record>
@@ -4951,8 +4951,8 @@
     <estimated_work_date>55 AD - 57 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Wikipedia</date_source>
-    <date_source_link/>
-    <comment_on_chronology>None</comment_on_chronology>
+    <date_source_link>https://en.wikipedia.org/wiki/Epistle_to_the_Romans</date_source_link>
+    <comment_on_chronology>Safe date.</comment_on_chronology>
     <formatted_work_date>+0055-01/+0057-12</formatted_work_date>
   </record>
   <record>
@@ -4962,12 +4962,12 @@
     <title_from_print_edition>1 Corinthians</title_from_print_edition>
     <print_edition>The New Testament in the original Greek. The text revised by. Brooke Foss Westcott, D.D. Fenton John Anthony Hort, D.D. New York. Harper and Brothers, Franklin Square. 1885.</print_edition>
     <author>New Testament</author>
-    <estimated_work_date>53 AD - 54 AD</estimated_work_date>
+    <estimated_work_date>53 AD - 57 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Wikipedia</date_source>
-    <date_source_link/>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>+0053-01/+0054-12</formatted_work_date>
+    <date_source_link>https://en.wikipedia.org/wiki/First_Epistle_to_the_Corinthians</date_source_link>
+    <comment_on_chronology>This letter was written during Paul's extended stay in Ephesus.</comment_on_chronology>
+    <formatted_work_date>+0053-01/+0057-12</formatted_work_date>
   </record>
   <record>
     <id>356</id>
