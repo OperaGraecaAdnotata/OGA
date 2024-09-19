@@ -4881,7 +4881,7 @@
     <estimated_work_date>75 AD - 100 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Wikipedia</date_source>
-    <date_source_link/>
+    <date_source_link>https://en.wikipedia.org/wiki/Gospel_of_Matthew</date_source_link>
     <comment_on_chronology>Some scholars disagree with this consensus.</comment_on_chronology>
     <formatted_work_date>+0075-01/+0100-12</formatted_work_date>
   </record>
@@ -4893,9 +4893,9 @@
     <print_edition>New Testament, Gospel of Mark 1, Schroeder and Zeldes, Coptic Scriptorium, 2016</print_edition>
     <author>New Testament</author>
     <estimated_work_date>c. 70 AD</estimated_work_date>
-    <is_temporary_work_date>No</is_temporary_work_date>
+    <is_temporary_work_date>No.</is_temporary_work_date>
     <date_source>Wikipedia</date_source>
-    <date_source_link/>
+    <date_source_link>https://en.wikipedia.org/wiki/Gospel_of_Mark</date_source_link>
     <comment_on_chronology>Contextualized within the Jewish-Roman War of 66-74 AD and the destruction of the Temple in 70, the Gospel was written either immediately before or after 70 AD.</comment_on_chronology>
     <formatted_work_date>+0070-01/+0070-12</formatted_work_date>
   </record>
@@ -4909,7 +4909,7 @@
     <estimated_work_date>80 AD -90 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Wikipedia</date_source>
-    <date_source_link/>
+    <date_source_link>https://en.wikipedia.org/wiki/Gospel_of_Luke</date_source_link>
     <comment_on_chronology>Some scholars also suggest a date of betwenn 90 AD and 110 AD.</comment_on_chronology>
     <formatted_work_date>+0080-01/+0090-12</formatted_work_date>
   </record>
@@ -4923,7 +4923,7 @@
     <estimated_work_date>90 AD - 110 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Wikipedia</date_source>
-    <date_source_link/>
+    <date_source_link>https://en.wikipedia.org/wiki/Gospel_of_John</date_source_link>
     <comment_on_chronology>Some early elements date already from 70 AD.</comment_on_chronology>
     <formatted_work_date>+0090-01/+0110-12</formatted_work_date>
   </record>
