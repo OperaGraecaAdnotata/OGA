@@ -5091,8 +5091,8 @@
     <estimated_work_date>90 AD - 140 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Wikipedia</date_source>
-    <date_source_link/>
-    <comment_on_chronology>None</comment_on_chronology>
+    <date_source_link>https://en.wikipedia.org/wiki/Second_Epistle_to_Timothy</date_source_link>
+    <comment_on_chronology>Most scholars agree that this letter was composed after Paul's death, between 90 and 140 AD.</comment_on_chronology>
     <formatted_work_date>+0090-01/+0140-12</formatted_work_date>
   </record>
   <record>
@@ -5105,8 +5105,8 @@
     <estimated_work_date>80 AD - 100 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Wikipedia</date_source>
-    <date_source_link/>
-    <comment_on_chronology>None</comment_on_chronology>
+    <date_source_link>https://en.wikipedia.org/wiki/Epistle_to_Titus</date_source_link>
+    <comment_on_chronology>Most scholars agree that this letter was written between 80 and 100 AD.</comment_on_chronology>
     <formatted_work_date>+0080-01/+0100-12</formatted_work_date>
   </record>
   <record>
@@ -5119,7 +5119,7 @@
     <estimated_work_date>57 AD - 62 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Wikipedia</date_source>
-    <date_source_link/>
+    <date_source_link>https://en.wikipedia.org/wiki/Epistle_to_Philemon</date_source_link>
     <comment_on_chronology>Some scholars also propose that it was written after 62 AD, during Paul's imprisonement in Rome.</comment_on_chronology>
     <formatted_work_date>+0057-01/+0062-12</formatted_work_date>
   </record>
@@ -5133,7 +5133,7 @@
     <estimated_work_date>63 AD - 64 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Wikipedia</date_source>
-    <date_source_link/>
+    <date_source_link>https://en.wikipedia.org/wiki/Epistle_to_the_Hebrews</date_source_link>
     <comment_on_chronology>Most scholars agree on the basis that if it had been written after the destruction of the Temple, there would have been evidence of influence in the letter. A few scholars propose a later date between 70 and 100 AD.</comment_on_chronology>
     <formatted_work_date>+0063-01/+0064-12</formatted_work_date>
   </record>
@@ -5147,7 +5147,7 @@
     <estimated_work_date>60 AD - 150 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Wikipedia</date_source>
-    <date_source_link/>
+    <date_source_link>https://en.wikipedia.org/wiki/Second_Epistle_of_Peter</date_source_link>
     <comment_on_chronology>Hotly debated by scholars, this is the date range given by aggregating dates given by various scholars.</comment_on_chronology>
     <formatted_work_date>+0060-01/+0150-12</formatted_work_date>
   </record>
@@ -5161,8 +5161,8 @@
     <estimated_work_date>95 AD - 110 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Wikipedia</date_source>
-    <date_source_link/>
-    <comment_on_chronology>None</comment_on_chronology>
+    <date_source_link>https://en.wikipedia.org/wiki/First_Epistle_of_John</date_source_link>
+    <comment_on_chronology>Moste scholars agree that this letter was composed in Ephesus between 95 and 110 AD.</comment_on_chronology>
     <formatted_work_date>+0095-01/+0110-12</formatted_work_date>
   </record>
   <record>
