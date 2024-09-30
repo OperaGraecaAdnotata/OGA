@@ -5872,11 +5872,11 @@
     <title_from_print_edition>Περὶ τοῦ πῶς χρὴ πολιορκουμένους ἀντέχειν</title_from_print_edition>
     <print_edition>Aeneas Tacticus. Aeneas Tacticus, Asclepiodotus, Onasander. William Abbott Oldfather, editor. New York: G. P. Putnam's Sons. London: William Heinemann Ltd. 1923 (printing).</print_edition>
     <author>Aeneas Tacticus</author>
-    <estimated_work_date>475 BC - 450 BC</estimated_work_date>
+    <estimated_work_date>375 BC - 350 BC</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Whitehead, D.  (2015, December 22). Aeneas Tacticus. Oxford Classical Dictionary</date_source>
     <date_source_link>https://doi.org/10.1093/acrefore/9780199381135.013.131</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Whitehead argues that this date range is attributed to internal elements of the text, via the clustering of contemporary illustrations of its precepts.</comment_on_chronology>
     <formatted_work_date>—0374-01/—0349-12</formatted_work_date>
   </record>
   <record>
@@ -5914,12 +5914,12 @@
     <title_from_print_edition>Ion</title_from_print_edition>
     <print_edition>Plato, creator. Platonis Opera Tomvs III Tetralogia V-VII, Burnet, John, 1863-1928, editor. Oxford University Press. 1903.</print_edition>
     <author>Plato</author>
-    <estimated_work_date>394 BC - 391 BC</estimated_work_date>
+    <estimated_work_date>395 BC - 387 BC</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Routledge Encyclopedia of Philosophy: Plato</date_source>
     <date_source_link>https://www.rep.routledge.com/articles/biographical/plato-427-347-bc/v-1#</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>—0393-01/—0390-12</formatted_work_date>
+    <comment_on_chronology>Mostly safe date range according to the Routledge Encyclopedia of Philosophy.</comment_on_chronology>
+    <formatted_work_date>—0394-01/—0386-12</formatted_work_date>
   </record>
   <record>
     <id>424</id>
@@ -5928,12 +5928,12 @@
     <title_from_print_edition>Menexenus</title_from_print_edition>
     <print_edition>Plato, creator. Platonis Opera Tomvs III Tetralogia V-VII, Burnet, John, 1863-1928, editor. Oxford University Press. 1903.</print_edition>
     <author>Plato</author>
-    <estimated_work_date>386 BC</estimated_work_date>
+    <estimated_work_date>386 BC-380 BC</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Routledge Encyclopedia of Philosophy: Plato</date_source>
     <date_source_link>https://www.rep.routledge.com/articles/biographical/plato-427-347-bc/v-1#</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>—0385-01/—0385-12</formatted_work_date>
+    <comment_on_chronology>Mostly safe date range according to the Routledge Encyclopedia of Philosophy.</comment_on_chronology>
+    <formatted_work_date>—0385-01/—0379-12</formatted_work_date>
   </record>
   <record>
     <id>425</id>
@@ -5960,7 +5960,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Waterfield, Robin, Plato of Athens: A Life in Philosophy (New York, 2023; online edn, Oxford Academic, 20 Apr. 2023)</date_source>
     <date_source_link>https://doi.org/10.1093/oso/9780197564752.001.0001</date_source_link>
-    <comment_on_chronology>circa 386 BC. Most recent work on Plato.</comment_on_chronology>
+    <comment_on_chronology>Composed around 386 BC, because it precedes Phaedo, Symposium and the Republic according to Waterfield. Most recent work on Plato.</comment_on_chronology>
     <formatted_work_date>—0385-01/—0385-12</formatted_work_date>
   </record>
   <record>
@@ -5970,12 +5970,12 @@
     <title_from_print_edition>Phaedo</title_from_print_edition>
     <print_edition>Plato, creator. Platonis Opera Tomvs I Tetralogia I-II, Burnet, John, 1863-1928, editor. Oxford University Press. 1900-06.</print_edition>
     <author>Plato</author>
-    <estimated_work_date/>
+    <estimated_work_date>383 BC-380 BC</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Waterfield, Robin, Plato of Athens: A Life in Philosophy (New York, 2023; online edn, Oxford Academic, 20 Apr. 2023)</date_source>
     <date_source_link>https://doi.org/10.1093/oso/9780197564752.001.0001</date_source_link>
-    <comment_on_chronology>Most recent work written on Plato.</comment_on_chronology>
-    <formatted_work_date>—0382-01/—0374-12</formatted_work_date>
+    <comment_on_chronology>Most recent work written on Plato, its content explores relevant themes with other works of the same period according to Waterfield.</comment_on_chronology>
+    <formatted_work_date>—0382-01/—0379-12</formatted_work_date>
   </record>
   <record>
     <id>428</id>
@@ -5988,7 +5988,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Waterfield, Robin, Plato of Athens: A Life in Philosophy (New York, 2023; online edn, Oxford Academic, 20 Apr. 2023)</date_source>
     <date_source_link>https://doi.org/10.1093/oso/9780197564752.001.0001</date_source_link>
-    <comment_on_chronology>Most recent work written on Plato.</comment_on_chronology>
+    <comment_on_chronology>Waterfield mentions that Gorgias and Meno precede Phaedo.</comment_on_chronology>
     <formatted_work_date>—0382-01/—0374-12</formatted_work_date>
   </record>
   <record>
@@ -6002,7 +6002,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Waterfield, Robin, Plato of Athens: A Life in Philosophy (New York, 2023; online edn, Oxford Academic, 20 Apr. 2023)</date_source>
     <date_source_link>https://doi.org/10.1093/oso/9780197564752.001.0001</date_source_link>
-    <comment_on_chronology>Most recent work written on Plato.</comment_on_chronology>
+    <comment_on_chronology>Waterfield mentions that Gorgias and Meno precede Phaedo.</comment_on_chronology>
     <formatted_work_date>—0382-01/—0374-12</formatted_work_date>
   </record>
   <record>
@@ -6044,7 +6044,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Waterfield, Robin, Plato of Athens: A Life in Philosophy (New York, 2023; online edn, Oxford Academic, 20 Apr. 2023)</date_source>
     <date_source_link>https://doi.org/10.1093/oso/9780197564752.001.0001</date_source_link>
-    <comment_on_chronology>Most recent work written on Plato.</comment_on_chronology>
+    <comment_on_chronology>Waterfield mentions that Euthydemus was composed probably around 370 BC.</comment_on_chronology>
     <formatted_work_date>—0369-01/—0369-12</formatted_work_date>
   </record>
   <record>
@@ -6058,7 +6058,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Waterfield, Robin, Plato of Athens: A Life in Philosophy (New York, 2023; online edn, Oxford Academic, 20 Apr. 2023)</date_source>
     <date_source_link>https://doi.org/10.1093/oso/9780197564752.001.0001</date_source_link>
-    <comment_on_chronology>Most recent work written on Plato.</comment_on_chronology>
+    <comment_on_chronology>Waterfield states that Protagoras was probably also composed before 375 BC.</comment_on_chronology>
     <formatted_work_date>—0389-01/—0374-12</formatted_work_date>
   </record>
   <record>
@@ -6096,12 +6096,12 @@
     <title_from_print_edition>Sophist</title_from_print_edition>
     <print_edition>Plato, creator. Platonis Opera Tomvs I Tetralogia I-II, Burnet, John, 1863-1928, editor. Oxford University Press. 1900-06.</print_edition>
     <author>Plato</author>
-    <estimated_work_date>360 BC</estimated_work_date>
-    <is_temporary_work_date>Yes</is_temporary_work_date>
-    <date_source>Wikipedia</date_source>
-    <date_source_link/>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>—0359-01/—0359-12</formatted_work_date>
+    <estimated_work_date>366 BC-360 BC</estimated_work_date>
+    <is_temporary_work_date>No</is_temporary_work_date>
+    <date_source>Routledge Encyclopedia of Philosophedia: Plato</date_source>
+    <date_source_link>https://www.rep.routledge.com/articles/biographical/plato-427-347-bc/v-1/bibliography/plato-427-347-bc-bib#A088WKENT5</date_source_link>
+    <comment_on_chronology>Date range according to the Routledge Encyclopedia of Philosophy.</comment_on_chronology>
+    <formatted_work_date>—0365-01/—0359-12</formatted_work_date>
   </record>
   <record>
     <id>437</id>
@@ -6114,7 +6114,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Routledge Encyclopedia of Philosophy: Plato</date_source>
     <date_source_link>https://www.rep.routledge.com/articles/biographical/plato-427-347-bc/v-1#</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Date range according to the Routledge Encyclopedia of Philosophy.</comment_on_chronology>
     <formatted_work_date>—0359-01/—0346-12</formatted_work_date>
   </record>
   <record>
@@ -6127,8 +6127,8 @@
     <estimated_work_date>349 BC -301 BC</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Wikipedia</date_source>
-    <date_source_link/>
-    <comment_on_chronology>Authenticity is disputed by scholars.</comment_on_chronology>
+    <date_source_link>https://en.wikipedia.org/wiki/Rival_Lovers</date_source_link>
+    <comment_on_chronology>It is generally agreed that the dialogue was written in the second half of the fourth century BC and expresses the philosophical views, if not of Plato, then at least of an Academic writer of this period.</comment_on_chronology>
     <formatted_work_date>—0348-01/—0300-12</formatted_work_date>
   </record>
   <record>
@@ -6142,7 +6142,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Waterfield, Robin, Plato of Athens: A Life in Philosophy (New York, 2023; online edn, Oxford Academic, 20 Apr. 2023)</date_source>
     <date_source_link>https://doi.org/10.1093/oso/9780197564752.001.0001</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Timaeus precedes the Republic and other works chronologically according to Waterfield.</comment_on_chronology>
     <formatted_work_date>—0376-01/—0346-12</formatted_work_date>
   </record>
   <record>
@@ -6156,7 +6156,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Waterfield, Robin, Plato of Athens: A Life in Philosophy (New York, 2023; online edn, Oxford Academic, 20 Apr. 2023)</date_source>
     <date_source_link>https://doi.org/10.1093/oso/9780197564752.001.0001</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Critias comes chronologically after Timaeus according to Waterfield.</comment_on_chronology>
     <formatted_work_date>—0376-01/—0346-12</formatted_work_date>
   </record>
   <record>
@@ -6170,7 +6170,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Waterfield, Robin, Plato of Athens: A Life in Philosophy (New York, 2023; online edn, Oxford Academic, 20 Apr. 2023)</date_source>
     <date_source_link>https://doi.org/10.1093/oso/9780197564752.001.0001</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Laws comes chronologically after several other works, such as Theaetitus and Phaedrus, according to Waterfield.</comment_on_chronology>
     <formatted_work_date>—0376-01/—0346-12</formatted_work_date>
   </record>
   <record>
@@ -6183,8 +6183,8 @@
     <estimated_work_date>60 BC - 30 BC</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Wikipedia</date_source>
-    <date_source_link/>
-    <comment_on_chronology>None</comment_on_chronology>
+    <date_source_link>https://en.wikipedia.org/wiki/Bibliotheca_historica</date_source_link>
+    <comment_on_chronology>As Diodorus shows no knowledge of Egypr becoming a province of the Roman Empire, his work must have been composed before 30 BC.</comment_on_chronology>
     <formatted_work_date>—0059-01/—0029-12</formatted_work_date>
   </record>
   <record>
@@ -6198,7 +6198,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Anderson, G. (17 Jul. 2018). Lucian. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://doi.org/10.1163/9789004327504</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written no later than 164 AD according to Anderson.</comment_on_chronology>
     <formatted_work_date>+0164-01/+0164-12</formatted_work_date>
   </record>
   <record>
@@ -6212,7 +6212,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Anderson, G. (17 Jul. 2018). Lucian. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://doi.org/10.1163/9789004327504</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>>Written no later than 164 AD according to Anderson.</comment_on_chronology>
     <formatted_work_date>+0164-01/+0164-12</formatted_work_date>
   </record>
   <record>
@@ -6226,7 +6226,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Anderson, G. (17 Jul. 2018). Lucian. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://doi.org/10.1163/9789004327504</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written not much later than 165 AD according to Anderson.</comment_on_chronology>
     <formatted_work_date>+0165-01/+0165-12</formatted_work_date>
   </record>
   <record>
@@ -6240,7 +6240,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Anderson, G. (17 Jul. 2018). Lucian. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://doi.org/10.1163/9789004327504</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written no much later than 165 AD according to Anderson.</comment_on_chronology>
     <formatted_work_date>+0165-01/+0165-12</formatted_work_date>
   </record>
   <record>
@@ -6254,7 +6254,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Anderson, G. (17 Jul. 2018). Lucian. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://doi.org/10.1163/9789004327504</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written not much later than 166 AD according to Anderson.</comment_on_chronology>
     <formatted_work_date>+0166-01/+0166-12</formatted_work_date>
   </record>
   <record>
@@ -6268,7 +6268,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Anderson, G. (17 Jul. 2018). Lucian. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://doi.org/10.1163/9789004327504</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written no earlier than 176 AD according to Anderson.</comment_on_chronology>
     <formatted_work_date>+0176-01/+0176-12</formatted_work_date>
   </record>
   <record>
@@ -6282,7 +6282,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Anderson, G. (17 Jul. 2018). Lucian. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://doi.org/10.1163/9789004327504</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written no later than 177 according to Anderson.</comment_on_chronology>
     <formatted_work_date>+0177-01/+0177-12</formatted_work_date>
   </record>
   <record>
@@ -6296,7 +6296,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Anderson, G. (17 Jul. 2018). Lucian. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://doi.org/10.1163/9789004327504</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written no earlier than 180 AD according to Anderson.</comment_on_chronology>
     <formatted_work_date>+0180-01/+0180-12</formatted_work_date>
   </record>
   <record>
@@ -6310,7 +6310,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written during the decade of the 140s AD according to Lucian of Samosata project.</comment_on_chronology>
     <formatted_work_date>+0140-01/+0149-12</formatted_work_date>
   </record>
   <record>
@@ -6324,7 +6324,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written during the decade of the 140s AD according to Lucian of Samosata project.</comment_on_chronology>
     <formatted_work_date>+0140-01/+0149-12</formatted_work_date>
   </record>
   <record>
@@ -6338,7 +6338,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written during the decade of the 140s AD according to Lucian of Samosata project.</comment_on_chronology>
     <formatted_work_date>+0140-01/+0149-12</formatted_work_date>
   </record>
   <record>
@@ -6352,7 +6352,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written during the decade of the 140s AD according to Lucian of Samosate project.</comment_on_chronology>
     <formatted_work_date>+0140-01/+0149-12</formatted_work_date>
   </record>
   <record>
@@ -6366,7 +6366,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written during the decade of the 140s AD according to Lucian of Samosata project.</comment_on_chronology>
     <formatted_work_date>+0140-01/+0149-12</formatted_work_date>
   </record>
   <record>
@@ -6380,7 +6380,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written when Lucian traveled to Ionia, Greece, Italy, and Gaul. Safe date.</comment_on_chronology>
     <formatted_work_date>+0150-01/+0150-12</formatted_work_date>
   </record>
   <record>
@@ -6394,7 +6394,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written during Lucian's stay in Antioch, and possibly out of a yearn for returning back home.</comment_on_chronology>
     <formatted_work_date>+0160-01/+0169-12</formatted_work_date>
   </record>
   <record>
@@ -6408,7 +6408,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written between 165 and 180 AD, as most of Lucian's Comic Dialogues.</comment_on_chronology>
     <formatted_work_date>+0165-01/+0179-12</formatted_work_date>
   </record>
   <record>
@@ -6422,7 +6422,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written between 165 and 180 AD, as most of Lucian's Comic Dialogues.</comment_on_chronology>
     <formatted_work_date>+0165-01/+0179-12</formatted_work_date>
   </record>
   <record>
@@ -6436,7 +6436,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written between 165 and 180 AD, as most of Lucian's Comic Dialogues.</comment_on_chronology>
     <formatted_work_date>+0165-01/+0179-12</formatted_work_date>
   </record>
   <record>
@@ -6450,7 +6450,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written between 165 and 180 AD, as most of Lucian's Comic Dialogues.</comment_on_chronology>
     <formatted_work_date>+0165-01/+0179-12</formatted_work_date>
   </record>
   <record>
@@ -6464,7 +6464,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written between 165 and 180 AD, as most of Lucian's Comic Dialogues.</comment_on_chronology>
     <formatted_work_date>+0165-01/+0179-12</formatted_work_date>
   </record>
   <record>
@@ -6478,7 +6478,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written between 165 and 180 AD, as most of Lucian's Comic Dialogues.</comment_on_chronology>
     <formatted_work_date>+0165-01/+0179-12</formatted_work_date>
   </record>
   <record>
@@ -6492,7 +6492,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written between 165 and 180 AD, as most of Lucian's Comic Dialogues.</comment_on_chronology>
     <formatted_work_date>+0165-01/+0179-12</formatted_work_date>
   </record>
   <record>
@@ -6506,7 +6506,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written between 165 and 180 AD, as most of Lucian's Comic Dialogues.</comment_on_chronology>
     <formatted_work_date>+0165-01/+0179-12</formatted_work_date>
   </record>
   <record>
@@ -6520,7 +6520,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written between 165 and 180 AD, as most of Lucian's Comic Dialogues.</comment_on_chronology>
     <formatted_work_date>+0165-01/+0179-12</formatted_work_date>
   </record>
   <record>
@@ -6534,7 +6534,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written between 165 and 180 AD, as most of Lucian's Comic Dialogues.</comment_on_chronology>
     <formatted_work_date>+0165-01/+0179-12</formatted_work_date>
   </record>
   <record>
@@ -6548,7 +6548,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written between 165 and 180 AD, as most of Lucian's Comic Dialogues.</comment_on_chronology>
     <formatted_work_date>+0165-01/+0179-12</formatted_work_date>
   </record>
   <record>
@@ -6562,7 +6562,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written between 165 and 180 AD, as most of Lucian's Comic Dialogues.</comment_on_chronology>
     <formatted_work_date>+0165-01/+0179-12</formatted_work_date>
   </record>
   <record>
@@ -6576,7 +6576,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written between 165 and 180 AD, as most of Lucian's Comic Dialogues.</comment_on_chronology>
     <formatted_work_date>+0165-01/+0179-12</formatted_work_date>
   </record>
   <record>
@@ -6590,7 +6590,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written between 165 and 180 AD, as most of Lucian's Comic Dialogues.</comment_on_chronology>
     <formatted_work_date>+0165-01/+0179-12</formatted_work_date>
   </record>
   <record>
@@ -6604,7 +6604,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written between 165 and 180 AD, as most of Lucian's Comic Dialogues.</comment_on_chronology>
     <formatted_work_date>+0165-01/+0179-12</formatted_work_date>
   </record>
   <record>
@@ -6618,7 +6618,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lucian of Samosata project</date_source>
     <date_source_link>http://lucianofsamosata.info/wiki/doku.php?id=home:timeline</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written between 165 and 180 AD, as most of Lucian's Comic Dialogues.</comment_on_chronology>
     <formatted_work_date>+0165-01/+0179-12</formatted_work_date>
   </record>
   <record>
@@ -6630,12 +6630,7 @@
     <author>Hanno</author>
     <estimated_work_date>499 BC - 1 BC</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
-    <date_source>Making Specimens in the Periplus of Hanno and its Imperial Tradition
-Clara Bosak-Schroeder
-American Journal of Philology
-Johns Hopkins University Press
-Volume 140, Number 1 (Whole Number 557), Spring 2019
-pp. 67-100</date_source>
+    <date_source>Making Specimens in the Periplus of Hanno and its Imperial Tradition</date_source>
     <date_source_link>https://muse.jhu.edu/pub/1/article/719133/summary?casa_token=I4YWTBDYFVEAAAAA:faQAL8FVdBYpc_H2ulho-Pm2DPe9NgtZJR_V5uSRdfxJ9uZJ95kWj_ZLZQlpjEoO9dtM7Q0tZg</date_source_link>
     <comment_on_chronology>Different scholars propose different dates, all of them falling between the 5th and the 1st centuries BC.</comment_on_chronology>
     <formatted_work_date>—0499-01/—0001-12</formatted_work_date>
@@ -6651,7 +6646,7 @@ pp. 67-100</date_source>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Shipley, G. (2019). Pseudo-Skylax’s Periplous: The Circumnavigation of the Inhabited World: Text, Translation and Commentary (DGO-Digital original, 2). Liverpool University Press</date_source>
     <date_source_link>https://doi.org/10.2307/j.ctv1931hb3</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Shipley argues for a strict date of 338-337 BC, supported by Müller, based on the inclusion of the names of coastal cities in the region of Messenia, which Phillip the II removed from the sphere of Spartan influence after the Battle of Chaeronea in 338 BC.</comment_on_chronology>
     <formatted_work_date>—0337-01/—0336-12</formatted_work_date>
   </record>
   <record>
@@ -6665,7 +6660,7 @@ pp. 67-100</date_source>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>McInerney, J. (2012). Heraclides Criticus and the Problem of Taste. In Aesthetic Value in Classical Antiquity. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004232822/B9789004232822-s011.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Safe date according to McCinerney.</comment_on_chronology>
     <formatted_work_date>—0299-01/—0200-12</formatted_work_date>
   </record>
   <record>
@@ -6679,7 +6674,7 @@ pp. 67-100</date_source>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Sacks, K.  (2016, March 07). Agatharchides, of Cnidus, Greek historian, geographer, and Peripatetic philosopher, c. 215–after 145 BCE. Oxford Classical Dictionary</date_source>
     <date_source_link>https://oxfordre.com/classics/display/10.1093/acrefore/9780199381135.001.0001/acrefore-9780199381135-e-178</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written probably during his stay in Alexandria, as he spent there the great majority of his life before fleeing to Athens in 145 BC.</comment_on_chronology>
     <formatted_work_date>—0214-01/—0144-12</formatted_work_date>
   </record>
   <record>
