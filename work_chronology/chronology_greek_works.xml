@@ -7710,7 +7710,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>West, M.  (2015, December 22). Hipponax. Oxford Classical Dictionary</date_source>
     <date_source_link>https://oxfordre.com/classics/display/10.1093/acrefore/9780199381135.001.0001/acrefore-9780199381135-e-3125</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>West mentions that Hipponax was active in the late 6th century BC, hence the date.</comment_on_chronology>
     <formatted_work_date>—0549-01/—0499-12</formatted_work_date>
   </record>
   <record>
@@ -7748,12 +7748,12 @@
     <title_from_print_edition>Mensurae marmorum ac lignorum</title_from_print_edition>
     <print_edition>Didymus Alexandrinus, Mensurae marmorum ac lignorum, Hultsch, Weidmann, 1864</print_edition>
     <author>Didymus Alexandrinus</author>
-    <estimated_work_date>398 AD</estimated_work_date>
+    <estimated_work_date>63 -10 BC</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
-    <date_source>Eszter Spät, The 'Teachers' of Mani in the Acta Archelai and Simon Magus, Vigilae Christianae, 2004</date_source>
-    <date_source_link>https://brill.com/view/journals/vc/58/1/article-p1_1.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>+0398-01/+0398-12</formatted_work_date>
+    <date_source>Trismegistos authors, Didymus Chalcenterus Alexandrinus, Work not specified, 2024</date_source>
+    <date_source_link>https://www.trismegistos.org/authorwork/129</date_source_link>
+    <comment_on_chronology>Date based on the approximate life of Didymus Alexandrinus, whose work is Mensurae marmorum ac lignorum.</comment_on_chronology>
+    <formatted_work_date>—0062-01/—0009-12</formatted_work_date>
   </record>
   <record>
     <id>555</id>
@@ -7766,7 +7766,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Kappraff, J. The Arithmetic of Nicomachus of Gerasa and its Applications to Systems of Proportion. Nexus Netw J 2, 41–56 (2000)</date_source>
     <date_source_link>https://link.springer.com/article/10.1007/s00004-999-0007-7</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>According to Kappraff, little is known about the life on Nicomachus, which can be approximated between the mid 1st to mid 2nd century AD, hence the date.</comment_on_chronology>
     <formatted_work_date>+0050-01/+0150-12</formatted_work_date>
   </record>
   <record>
@@ -7780,7 +7780,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Kappraff, J. The Arithmetic of Nicomachus of Gerasa and its Applications to Systems of Proportion. Nexus Netw J 2, 41–56 (2000)</date_source>
     <date_source_link>https://link.springer.com/article/10.1007/s00004-999-0007-7</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>According to Kappraff, little is known about the life on Nicomachus, which can be approximated between the mid 1st to mid 2nd century AD, hence the date.</comment_on_chronology>
     <formatted_work_date>+0050-01/+0150-12</formatted_work_date>
   </record>
   <record>
@@ -7794,7 +7794,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Kappraff, J. The Arithmetic of Nicomachus of Gerasa and its Applications to Systems of Proportion. Nexus Netw J 2, 41–56 (2000)</date_source>
     <date_source_link>https://link.springer.com/article/10.1007/s00004-999-0007-7</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>According to Kappraff, little is known about the life on Nicomachus, which can be approximated between the mid 1st to mid 2nd century AD, hence the date.</comment_on_chronology>
     <formatted_work_date>+0050-01/+0150-12</formatted_work_date>
   </record>
   <record>
@@ -7808,7 +7808,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Kappraff, J. The Arithmetic of Nicomachus of Gerasa and its Applications to Systems of Proportion. Nexus Netw J 2, 41–56 (2000)</date_source>
     <date_source_link>https://link.springer.com/article/10.1007/s00004-999-0007-7</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>According to Kappraff, little is known about the life on Nicomachus, which can be approximated between the mid 1st to mid 2nd century AD, hence the date.</comment_on_chronology>
     <formatted_work_date>+0050-01/+0150-12</formatted_work_date>
   </record>
   <record>
@@ -7822,8 +7822,8 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Cleonides, Wikipedia</date_source>
     <date_source_link>https://en.wikipedia.org/wiki/Cleonides</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>—0099-01/+0000-12</formatted_work_date>
+    <comment_on_chronology>Evdn though treatises with the name eisagoge could be established between the 3rd and the 4th centuries BC, internal evidence from the text points out towards the 1st century BC, which seems the most likely period for Cleonide's work according to John Solomon.</comment_on_chronology>
+    <formatted_work_date>—0099-01/+0001-12</formatted_work_date>
   </record>
   <record>
     <id>560</id>
@@ -7836,8 +7836,8 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Jones, A. Raymond (2024, April 3). Ptolemy. Encyclopedia Britannica</date_source>
     <date_source_link>https://www.britannica.com/biography/Ptolemy</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>+0100-01/+0170-12</formatted_work_date>
+    <comment_on_chronology>This work was completed around 150 AD according to Jones.</comment_on_chronology>
+    <formatted_work_date>+0150-01/+0150-12</formatted_work_date>
   </record>
   <record>
     <id>561</id>
@@ -7850,7 +7850,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Jones, A. Raymond (2024, April 3). Ptolemy. Encyclopedia Britannica</date_source>
     <date_source_link>https://www.britannica.com/biography/Ptolemy</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Date based on the approximate life span of Ptolemy.</comment_on_chronology>
     <formatted_work_date>+0100-01/+0170-12</formatted_work_date>
   </record>
   <record>
@@ -7864,7 +7864,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Jones, A. Raymond (2024, April 3). Ptolemy. Encyclopedia Britannica</date_source>
     <date_source_link>https://www.britannica.com/biography/Ptolemy</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Date based on the approximate life span of Ptolemy.</comment_on_chronology>
     <formatted_work_date>+0100-01/+0170-12</formatted_work_date>
   </record>
   <record>
@@ -7878,7 +7878,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Myia, Wikipedia</date_source>
     <date_source_link>https://en.wikipedia.org/wiki/Myia</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>This work, probably spurious, is usually dated to the 3rd and 2nd centuries BC according to Plant.</comment_on_chronology>
     <formatted_work_date>—0299-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -7892,7 +7892,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Poehlmann, E. (2015). Epicharmus and Aeschylus on Stage in Syracuse in the 5th Century. Greek and Roman Musical Studies, 3(1), 137-166</date_source>
     <date_source_link>https://brill.com/view/journals/grms/3/1/article-p137_8.xml?ebody=article%20details</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>According to Poehlmann, there is evidence of the floruit of Epicharnus starting in 486 BC. Moreover, he was based in Syracuse and met Aeschylus there around 472 BC, which gives the lower limit for the date.</comment_on_chronology>
     <formatted_work_date>—0485-01/—0471-12</formatted_work_date>
   </record>
   <record>
@@ -7906,7 +7906,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>John Elsner, PAUSANIAS: A GREEK PILGRIM IN THE ROMAN WORLD, Past &amp; Present, Volume 135, Issue 1, May 1992, Pages 3–29</date_source>
     <date_source_link>https://academic.oup.com/past/article-abstract/135/1/3/1437544?redirectedFrom=fulltext&amp;login=false</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Elsner mentions that Pausanias travelled around Greece for about 30 years, hence the dating of this work.</comment_on_chronology>
     <formatted_work_date>+0150-01/+0180-12</formatted_work_date>
   </record>
   <record>
@@ -7920,7 +7920,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that according to the epistle of Aristeas, the Pentateuch was translated in the 3rd century BC, which is plausible according to him.</comment_on_chronology>
     <formatted_work_date>—0299-01/—0200-12</formatted_work_date>
   </record>
   <record>
@@ -7934,7 +7934,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that according to the epistle of Aristeas, the Pentateuch was translated in the 3rd century BC, which is plausible according to him.</comment_on_chronology>
     <formatted_work_date>—0299-01/—0200-12</formatted_work_date>
   </record>
   <record>
@@ -7948,7 +7948,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link/>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that according to the epistle of Aristeas, the Pentateuch was translated in the 3rd century BC, which is plausible according to him.</comment_on_chronology>
     <formatted_work_date>—0299-01/—0200-12</formatted_work_date>
   </record>
   <record>
@@ -7962,7 +7962,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that according to the epistle of Aristeas, the Pentateuch was translated in the 3rd century BC, which is plausible according to him.</comment_on_chronology>
     <formatted_work_date>—0299-01/—0200-12</formatted_work_date>
   </record>
   <record>
@@ -7976,7 +7976,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that according to the epistle of Aristeas, the Pentateuch was translated in the 3rd century BC, which is plausible according to him.</comment_on_chronology>
     <formatted_work_date>—0299-01/—0200-12</formatted_work_date>
   </record>
   <record>
@@ -7990,7 +7990,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8004,7 +8004,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8018,7 +8018,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8032,7 +8032,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8046,7 +8046,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8060,7 +8060,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8074,7 +8074,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8088,7 +8088,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8102,7 +8102,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8116,7 +8116,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8130,7 +8130,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8144,7 +8144,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8158,7 +8158,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8172,7 +8172,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8186,7 +8186,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8200,7 +8200,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8214,7 +8214,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8228,7 +8228,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8242,7 +8242,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8256,7 +8256,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8270,7 +8270,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8284,7 +8284,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8298,7 +8298,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that Job is mentioned by  Pseudo-Aristeas, at the beginning of the 1st century BC.</comment_on_chronology>
     <formatted_work_date>—0099-01/—0074-12</formatted_work_date>
   </record>
   <record>
@@ -8312,7 +8312,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8326,7 +8326,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8340,7 +8340,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8354,7 +8354,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8368,7 +8368,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8382,7 +8382,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8396,7 +8396,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8410,7 +8410,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronologyTov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8424,7 +8424,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8438,7 +8438,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8452,7 +8452,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8466,7 +8466,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8480,7 +8480,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8494,7 +8494,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8508,7 +8508,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8522,7 +8522,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that Isaias was translated in the first half of the 2nd century BC.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0149-12</formatted_work_date>
   </record>
   <record>
@@ -8536,7 +8536,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8550,7 +8550,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8564,7 +8564,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8578,7 +8578,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8592,7 +8592,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8606,7 +8606,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8620,7 +8620,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8634,7 +8634,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8648,7 +8648,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8662,7 +8662,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8676,7 +8676,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Tov, E. (1988). The Septuagint. In Mikra. Leiden, The Netherlands: Brill</date_source>
     <date_source_link>https://brill.com/display/book/edcoll/9789004275102/B9789004275102-s006.xml</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Tov mentions that most books were probably translated around the second century BC onwards.</comment_on_chronology>
     <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
   </record>
   <record>
@@ -8690,7 +8690,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Heil, C. (2000). Arius Didymus and Luke-Acts. Novum Testamentum, 42(4), 358–393</date_source>
     <date_source_link>https://www.jstor.org/stable/1561398?casa_token=Pfcoq-4w_MgAAAAA%3AalMZE6dEAJlYNCWZq5fmbia0j05unig1wxgPyHInsQOAMdPkHE0P7CZ_lb6TownMsRovHVXK8iwncGLf7scpYxUetCzWEc8a54nMzAUGh8tumuFwJ3c</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>According to Heil, Didymus became a philosophy teacher in 44 BC, and died in 10 BC, hence the relative date for this work.</comment_on_chronology>
     <formatted_work_date>—0043-01/—0009-12</formatted_work_date>
   </record>
   <record>
@@ -8704,7 +8704,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Harder, A.  (2021, December 22). Callimachus (3), of Cyrene, Battiades, Greek poet and scholar. Oxford Classical Dictionary</date_source>
     <date_source_link>https://oxfordre.com/classics/display/10.1093/acrefore/9780199381135.001.0001/acrefore-9780199381135-e-1278</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>According to Harder, Callimachus flourished around the first half of the 3rd century BC.</comment_on_chronology>
     <formatted_work_date>—0299-01/—0249-12</formatted_work_date>
   </record>
   <record>
@@ -8718,7 +8718,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Harder, A.  (2021, December 22). Callimachus (3), of Cyrene, Battiades, Greek poet and scholar. Oxford Classical Dictionary</date_source>
     <date_source_link>https://oxfordre.com/classics/display/10.1093/acrefore/9780199381135.001.0001/acrefore-9780199381135-e-1279</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>According to Harder, Callimachus flourished around the first half of the 3rd century BC.</comment_on_chronology>
     <formatted_work_date>—0299-01/—0249-12</formatted_work_date>
   </record>
   <record>
@@ -8732,7 +8732,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Harder, A.  (2021, December 22). Callimachus (3), of Cyrene, Battiades, Greek poet and scholar. Oxford Classical Dictionary</date_source>
     <date_source_link>https://oxfordre.com/classics/display/10.1093/acrefore/9780199381135.001.0001/acrefore-9780199381135-e-1280</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>According to Harder, Callimachus flourished around the first half of the 3rd century BC.</comment_on_chronology>
     <formatted_work_date>—0299-01/—0249-12</formatted_work_date>
   </record>
   <record>
@@ -8760,7 +8760,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Dobson mentions that this speech was written after 394 BC and 380 is the date of death of Lysias, thus the relative date.</comment_on_chronology>
     <formatted_work_date>—0393-01/—0379-12</formatted_work_date>
   </record>
   <record>
@@ -8774,7 +8774,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Safe date according to Dobson.</comment_on_chronology>
     <formatted_work_date>—0394-01/—0394-12</formatted_work_date>
   </record>
   <record>
@@ -8788,7 +8788,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>This speech is considered spurious.</comment_on_chronology>
+    <comment_on_chronology>This speech is considered spurious. Nonetheless, Dobson mentions that it was probably delivered at the trial of Andocides in 399 BC. </comment_on_chronology>
     <formatted_work_date>—0398-01/—0398-12</formatted_work_date>
   </record>
   <record>
@@ -8802,7 +8802,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>Of doubtful authenticity.</comment_on_chronology>
+    <comment_on_chronology>Of doubtful authenticity, but secure date according to Dobson.</comment_on_chronology>
     <formatted_work_date>—0393-01/—0386-12</formatted_work_date>
   </record>
   <record>
@@ -8816,7 +8816,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Safe date according to Dobson.</comment_on_chronology>
     <formatted_work_date>—0383-01/—0382-12</formatted_work_date>
   </record>
   <record>
@@ -8830,7 +8830,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Safe date according to Dobson.</comment_on_chronology>
     <formatted_work_date>—0383-01/—0382-12</formatted_work_date>
   </record>
   <record>
@@ -8844,7 +8844,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Dobson argues that after the fall of the Thirty Tyrants in 403 BC, an amnesty was given which would give them the opportunity to receive a fair trial, an opportunity seized by Eratosthenes.</comment_on_chronology>
     <formatted_work_date>—0402-01/—0402-12</formatted_work_date>
   </record>
   <record>
@@ -8858,7 +8858,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Safe date based on the historical contents of the speech per Dobson.</comment_on_chronology>
     <formatted_work_date>—0399-01/—0397-12</formatted_work_date>
   </record>
   <record>
@@ -8872,7 +8872,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>This speech was composed around 395 BC according to Dobson.</comment_on_chronology>
     <formatted_work_date>—0394-01/—0394-12</formatted_work_date>
   </record>
   <record>
@@ -8886,7 +8886,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>This speech was composed around 395 BC according to Dobson.</comment_on_chronology>
     <formatted_work_date>—0394-01/—0394-12</formatted_work_date>
   </record>
   <record>
@@ -8900,7 +8900,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>This speech was written around 392 BC according to Dobson.</comment_on_chronology>
     <formatted_work_date>—0391-01/—0391-12</formatted_work_date>
   </record>
   <record>
@@ -8914,7 +8914,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Safe date according to Dobson.</comment_on_chronology>
     <formatted_work_date>—0396-01/—0396-12</formatted_work_date>
   </record>
   <record>
@@ -8928,7 +8928,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Safe date range according to Dobson.</comment_on_chronology>
     <formatted_work_date>—0395-01/—0384-12</formatted_work_date>
   </record>
   <record>
@@ -8942,7 +8942,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Safe date according to Dobson.</comment_on_chronology>
     <formatted_work_date>—0386-01/—0386-12</formatted_work_date>
   </record>
   <record>
@@ -8956,7 +8956,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Dobson argues for this date based on the fact that Polystratus was member of the 400.</comment_on_chronology>
     <formatted_work_date>—0410-01/—0404-12</formatted_work_date>
   </record>
   <record>
@@ -8970,7 +8970,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology></comment_on_chronology>
     <formatted_work_date>—0401-01/—0401-12</formatted_work_date>
   </record>
   <record>
@@ -8984,7 +8984,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Dobson mentions that the date is uncertain, but around 390 BC.</comment_on_chronology>
     <formatted_work_date>—0389-01/—0389-12</formatted_work_date>
   </record>
   <record>
@@ -8998,7 +8998,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lysias, Wikipedia</date_source>
     <date_source_link>https://en.wikipedia.org/wiki/Lysias#Table_of_extant_speeches</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Uncertain date according to Dobson.</comment_on_chronology>
     <formatted_work_date>—0399-01/—0398-12</formatted_work_date>
   </record>
   <record>
@@ -9012,7 +9012,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lysias, Wikipedia</date_source>
     <date_source_link>https://en.wikipedia.org/wiki/Lysias#Table_of_extant_speeches</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Approximate date.</comment_on_chronology>
     <formatted_work_date>—0402-01/—0402-12</formatted_work_date>
   </record>
   <record>
@@ -9026,7 +9026,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Dobson believe that the most probable date is around 402 BC.</comment_on_chronology>
     <formatted_work_date>—0401-01/—0399-12</formatted_work_date>
   </record>
   <record>
@@ -9040,7 +9040,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Based on a process for scrutinizing the election of Evandros as Archon for the year 381 BC, after the rejection of the previous candidate Leodamas.</comment_on_chronology>
     <formatted_work_date>—0381-01/—0381-12</formatted_work_date>
   </record>
   <record>
@@ -9054,7 +9054,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Lysias, Wikipedia</date_source>
     <date_source_link>https://en.wikipedia.org/wiki/Lysias#Works</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Approximate date.</comment_on_chronology>
     <formatted_work_date>—0389-01/—0389-12</formatted_work_date>
   </record>
   <record>
@@ -9068,7 +9068,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written together with two other speeches in 389 BC, Ergocles was prosecuted and put to death for betraying Greek cities in Asia and enriching himself by embezzlement.</comment_on_chronology>
     <formatted_work_date>—0388-01/—0388-12</formatted_work_date>
   </record>
   <record>
@@ -9082,7 +9082,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>J.F. Dobson, Lysias, The Greek Orators, 1919</date_source>
     <date_source_link>https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075:chapter=4</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Written together with two other speeches in 389 BC, Philocrates had been Ergocles' subordinate and confederate.</comment_on_chronology>
     <formatted_work_date>—0388-01/—0388-12</formatted_work_date>
   </record>
   <record>
