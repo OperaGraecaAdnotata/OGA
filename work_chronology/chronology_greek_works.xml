@@ -10986,7 +10986,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Cassius Iatrosophista, Wikipedia</date_source>
     <date_source_link>https://de.wikipedia.org/wiki/Cassius_Iatrosophista</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Approximate date based on the estimated lifespan of Cassius.</comment_on_chronology>
     <formatted_work_date>+0101-01/+0300-12</formatted_work_date>
   </record>
   <record>
@@ -11000,7 +11000,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>De septimestri partu, poesialatina.it</date_source>
     <date_source_link>http://www.poesialatina.it/_ns/Greek/testi/Hippocrates/De_septimestri_partu.html</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Approximate date range.</comment_on_chronology>
     <formatted_work_date>—0499-01/—0300-12</formatted_work_date>
   </record>
   <record>
@@ -11014,7 +11014,7 @@
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Anubion, Wikipedia</date_source>
     <date_source_link>https://de.wikipedia.org/wiki/Anubion</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Approximate date, he wrote works later than Dorotheus of Sidon and Firmicus, around the 2nd to 3rd centuries AD according to Pingree. </comment_on_chronology>
     <formatted_work_date>+0101-01/+0300-12</formatted_work_date>
   </record>
   <record>
@@ -11038,12 +11038,12 @@
     <title_from_print_edition>Testimonia et Fragmenta</title_from_print_edition>
     <print_edition>Antipater Tarsensis. Stoicorum veterum fragmenta, Vol. 1. von Arnim, Hans Friedrich August, editor. Stuttgart: Teubner, 1903. (1964 printing.)</print_edition>
     <author>Antipater Tarsensis</author>
-    <estimated_work_date>130 BC - 129 BC</estimated_work_date>
+    <estimated_work_date>140 BC - 129 BC</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Dorandi, T. (1999). Chronology. In K. Algra, J. Barnes, J. Mansfeld, &amp; M. Schofield (Eds.), The Cambridge History of Hellenistic Philosophy (pp. 31–54). chapter, Cambridge: Cambridge University Press.</date_source>
     <date_source_link>https://www.cambridge.org/core/books/cambridge-history-of-hellenistic-philosophy/chronology/F874277AA5EF036C51A97210041734F2</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>—0129-01/—0128-12</formatted_work_date>
+    <comment_on_chronology>This date is based on the approximate time of Antipater as scholar, as identified by Dorandi.</comment_on_chronology>
+    <formatted_work_date>—0139-01/—0128-12</formatted_work_date>
   </record>
   <record>
     <id>790</id>
