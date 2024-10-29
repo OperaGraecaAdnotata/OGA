@@ -12173,12 +12173,12 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <title_from_print_edition>Imagines, Flavii Philostrati Opera Volume II</title_from_print_edition>
     <print_edition>Philostratus, the Athenian, 2nd/3rd cent, creator; Philostratus, the Lemnian, 3rd cent, creator; Kayser, C. L. (Carl Ludwig), 1808-1872, editor</print_edition>
     <author>Philostratus, the Lemnian 3rd cent</author>
-    <estimated_work_date>3rd Century AD (201-300)</estimated_work_date>
+    <estimated_work_date>190 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Britannica, T. Editors of Encyclopaedia (2024, April 2). Philostratus the Lemnian. Encyclopedia Britannica</date_source>
     <date_source_link>https://www.britannica.com/biography/Philostratus-the-Lemnian</date_source_link>
-    <comment_on_chronology>Son of Philostratus the Elder.</comment_on_chronology>
-    <formatted_work_date>+0201-01/+0300-12</formatted_work_date>
+    <comment_on_chronology>Son of Philostratus the Elder. The only known date is his birth, estimated to be 190 AD.</comment_on_chronology>
+    <formatted_work_date>+0190-01/+0190-12</formatted_work_date>
   </record>
   <record>
     <id>871</id>
@@ -12191,7 +12191,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Rusten, J.  (2015, December 22). Philoxenus (4), of Alexandria (1), Greek writer, 1st cent. BCE. Oxford Classical Dictionary</date_source>
     <date_source_link>https://oxfordre.com/classics/display/10.1093/acrefore/9780199381135.001.0001/acrefore-9780199381135-e-5025</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Based on Rusten's estimation of Philoxenus' lifespan.</comment_on_chronology>
     <formatted_work_date>—0099-01/+0001-12</formatted_work_date>
   </record>
   <record>
@@ -12205,7 +12205,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Britannica, T. Editors of Encyclopaedia (2024, April 2). St. Polycarp. Encyclopedia Britannica</date_source>
     <date_source_link>https://www.britannica.com/biography/Saint-Polycarp</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>This date is based on Polycarp's lifespan according to Encyclopedia Britannica.</comment_on_chronology>
     <formatted_work_date>+0101-01/+0200-12</formatted_work_date>
   </record>
   <record>
@@ -12215,12 +12215,12 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <title_from_print_edition>Fragmenta</title_from_print_edition>
     <print_edition>Serapion Astrologus. Codices Parisini, 8.4. Boudreaux, Pierre, editor. Brussels: Maurice Lamertin, 1921.</print_edition>
     <author>Serapion Astrologus</author>
-    <estimated_work_date>2nd Century BC</estimated_work_date>
-    <is_temporary_work_date>No</is_temporary_work_date>
+    <estimated_work_date>3rd Century BC</estimated_work_date>
+    <is_temporary_work_date>Yes</is_temporary_work_date>
     <date_source>Serapion of Alexandria, Wikipedia</date_source>
     <date_source_link>https://en.wikipedia.org/wiki/Serapion_of_Alexandria</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
+    <comment_on_chronology>Approximate date of Serapion's life.</comment_on_chronology>
+    <formatted_work_date>—0299-01/—0200-12</formatted_work_date>
   </record>
   <record>
     <id>874</id>
@@ -12233,7 +12233,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Leonardo Tarán, Speusippus of Athens, Leiden:Brill, 1981.</date_source>
     <date_source_link>https://books.google.de/books?hl=el&amp;lr=&amp;id=0HyiDwAAQBAJ&amp;oi=fnd&amp;pg=PR3&amp;dq=speusippus&amp;ots=1gi5wps3e-&amp;sig=0GgzuFhtm5mEzF2YiOmHirg7Ewg&amp;redir_esc=y#v=onepage&amp;q=speusippus&amp;f=false</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>This dating is based on the lifespan of Speusippus' life as calculated by Tarán.</comment_on_chronology>
     <formatted_work_date>—0407-01/—0338-12</formatted_work_date>
   </record>
   <record>
