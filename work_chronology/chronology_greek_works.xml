@@ -13507,7 +13507,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Chase, M. (. B., &amp; Harmon, R. (. (2006). Porphyrius. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e1005436</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>This date is based on the estimated lifespan of Porfyrius according to Chase.</comment_on_chronology>
     <formatted_work_date>+0234-01/+0310-12</formatted_work_date>
   </record>
   <record>
@@ -13521,7 +13521,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Chase, M. (. B., &amp; Harmon, R. (. (2006). Porphyrius. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e1005437</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>This date is based on the estimated lifespan of Porfyrius according to Chase.</comment_on_chronology>
     <formatted_work_date>+0234-01/+0310-12</formatted_work_date>
   </record>
   <record>
@@ -13535,7 +13535,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Metzler, K. (. (2006). Athanasius. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e205430</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>This dating is based on the estimated lifespan of Athanasius as identified by Metzler.</comment_on_chronology>
     <formatted_work_date>+0328-01/+0373-12</formatted_work_date>
   </record>
   <record>
@@ -13549,7 +13549,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Metzler, K. (. (2006). Athanasius. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e205431</date_source_link>
-    <comment_on_chronology>The synod of Nicaea was held in 325 AD, therefore it is reasonable to expect that Athanasius wrote the treatise some time after.</comment_on_chronology>
+    <comment_on_chronology>The synod of Nicaea was held in 325 AD, therefore it is reasonable to expect that Athanasius wrote the treatise sometime after it according to Metzler.</comment_on_chronology>
     <formatted_work_date>+0325-01/+0373-12</formatted_work_date>
   </record>
   <record>
@@ -13559,12 +13559,12 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <title_from_print_edition>Oratio quarta contra Arianos [Sp.]</title_from_print_edition>
     <print_edition>Athanasius. The Orations of St. Athanasius against the Arians. Bright, William, editor. Oxford: Clarendon, 1884.</print_edition>
     <author>Athanasius</author>
-    <estimated_work_date>328 AD-373 AD</estimated_work_date>
+    <estimated_work_date>330 AD-373 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Metzler, K. (. (2006). Athanasius. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e205432</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>+0328-01/+0372-12</formatted_work_date>
+    <comment_on_chronology>Athanasius became Bishop of Alexandria in 330 AD, and he took over the conflicts against the Arians, therefore it can be assumed that in this capacity he composed his letters against the Arians until his death.</comment_on_chronology>
+    <formatted_work_date>+0330-01/+0372-12</formatted_work_date>
   </record>
   <record>
     <id>970</id>
@@ -13573,12 +13573,12 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <title_from_print_edition>Oratio I contra Arianos</title_from_print_edition>
     <print_edition>Athanasius. The Orations of St. Athanasius against the Arians. Bright, William, editor. Oxford: Clarendon, 1884.</print_edition>
     <author>Athanasius</author>
-    <estimated_work_date>328 AD-373 AD</estimated_work_date>
+    <estimated_work_date>330 AD-373 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Metzler, K. (. (2006). Athanasius. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e205433</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>+0328-01/+0373-12</formatted_work_date>
+    <comment_on_chronology>Athanasius became Bishop of Alexandria in 330 AD, and he took over the conflicts against the Arians, therefore it can be assumed that in this capacity he composed his letters against the Arians until his death.</comment_on_chronology>
+    <formatted_work_date>+0330-01/+0373-12</formatted_work_date>
   </record>
   <record>
     <id>971</id>
@@ -13587,12 +13587,12 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <title_from_print_edition>Oratio II contra Arianos</title_from_print_edition>
     <print_edition>Athanasius. The Orations of St. Athanasius against the Arians. Bright, William, editor. Oxford: Clarendon, 1884.</print_edition>
     <author>Athanasius</author>
-    <estimated_work_date>328 AD-373 AD</estimated_work_date>
+    <estimated_work_date>330 AD-373 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Metzler, K. (. (2006). Athanasius. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e205434</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>+0328-01/+0373-12</formatted_work_date>
+    <comment_on_chronology>Athanasius became Bishop of Alexandria in 330 AD, and he took over the conflicts against the Arians, therefore it can be assumed that in this capacity he composed his letters against the Arians until his death.</comment_on_chronology>
+    <formatted_work_date>+0330-01/+0373-12</formatted_work_date>
   </record>
   <record>
     <id>972</id>
@@ -13601,12 +13601,12 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <title_from_print_edition>Oratio III contra Arianos</title_from_print_edition>
     <print_edition>Athanasius. The Orations of St. Athanasius against the Arians. Bright, William, editor. Oxford: Clarendon, 1884.</print_edition>
     <author>Athanasius</author>
-    <estimated_work_date>328 AD-373 AD</estimated_work_date>
+    <estimated_work_date>330 AD-373 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Metzler, K. (. (2006). Athanasius. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e205435</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>+0328-01/+0373-12</formatted_work_date>
+    <comment_on_chronology>Athanasius became Bishop of Alexandria in 330 AD, and he took over the conflicts against the Arians, therefore it can be assumed that in this capacity he composed his letters against the Arians until his death.</comment_on_chronology>
+    <formatted_work_date>+0330-01/+0373-12</formatted_work_date>
   </record>
   <record>
     <id>973</id>
