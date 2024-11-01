@@ -13013,11 +13013,11 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <title_from_print_edition>De Martyribus Palaestinae (Recensio Brevior)</title_from_print_edition>
     <print_edition>Eusebius. Eusebii Caesariensis Opera, Volume 4. Dindorf, Wilhelm, editor. Leipzig: Teubner, 1871.</print_edition>
     <author>Eusebius of Caesarea</author>
-    <estimated_work_date>311 AD</estimated_work_date>
+    <estimated_work_date>313-314 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Gemeinhardt, Peter, ed. (2012). Christian Martyrdom in Late Antiquity. Walter de Gruyter</date_source>
     <date_source_link>https://www.degruyter.com/document/doi/10.1515/9783110263527/html</date_source_link>
-    <comment_on_chronology>Published between 315 AD and 316 AD.</comment_on_chronology>
+    <comment_on_chronology>The shorter recension of Eusebius' work was composed after the Edict of Milan in 313 AD according to Peter. Later it was published between 315 and 316 AD as part of the Ecclesiastical History.</comment_on_chronology>
     <formatted_work_date>+0311-01/+0311-12</formatted_work_date>
   </record>
   <record>
@@ -13031,7 +13031,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Portmann, W. (., Leppin, H. (., Rist, J. (., Markschies, C. (., Gruber, J. (., &amp; Uthemann, K. (. (2006). Eusebius. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e406900</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>>According to Rist, Eusebius composed these works in the decade following his creation as a bishop of Caesarea.</comment_on_chronology>
     <formatted_work_date>+0312-01/+0322-12</formatted_work_date>
   </record>
   <record>
@@ -13041,12 +13041,12 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <title_from_print_edition>των κατά Μαρκέλλου</title_from_print_edition>
     <print_edition>Eusebius Werke, Volume 4. Klostermann, Erich, editor. Leipzig: J. C. Hinrichs, 1906.</print_edition>
     <author>Eusebius of Caesarea</author>
-    <estimated_work_date>337 AD-339 AD</estimated_work_date>
+    <estimated_work_date>338 AD-339 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>EUSEBIUS OF CAESAREA, SPOERL, K. M., &amp; VINZENT, M. (2017). Against Marcellus and on Ecclesiastical Theology. Catholic University of America Press</date_source>
     <date_source_link>https://books.google.de/books?id=qENkvAEACAAJ&amp;pg=PA3&amp;hl=el&amp;source=gbs_toc_r&amp;cad=1#v=onepage&amp;q&amp;f=false</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>+0337-01/+0339-12</formatted_work_date>
+    <comment_on_chronology>Jarvis argues that this refutation of Marcellus' theological ideas by Eusebius was likely composed during the winter of 338-339 AD, in anticipation of an ecclesiastical council in Antioch, which decided a second deposition for Marcellus (p.18)</comment_on_chronology>
+    <formatted_work_date>+0338-01/+0339-12</formatted_work_date>
   </record>
   <record>
     <id>933</id>
@@ -13059,7 +13059,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>Yes</is_temporary_work_date>
     <date_source>Portmann, W. (., Leppin, H. (., Rist, J. (., Markschies, C. (., Gruber, J. (., &amp; Uthemann, K. (. (2006). Eusebius. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e406900</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>This letter could have been composed between the council of Tyre in 335 and Eusebius' death in 339, as during these years Flacillus of Antioch was his ally and presided over the councils against Eusebius' enemies.</comment_on_chronology>
     <formatted_work_date>+0335-01/+0339-12</formatted_work_date>
   </record>
   <record>
