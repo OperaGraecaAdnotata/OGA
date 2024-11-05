@@ -39,6 +39,8 @@ annotation layers, which is useful for inspection.
 4. `tokenize` contains files used for tokenization.
 5. `urn_cts` contains files with bibliographic information
 about the texts in OGA.
+6. `work_chronology` contains a file with the dates of the works contained in OGA.
+This file has not been used for OGAv0.1.0.
 
 ## Citation
 
