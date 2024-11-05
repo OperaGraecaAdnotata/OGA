@@ -100,7 +100,7 @@ width="" height="40" alt=""/>
 
 The license is the same as that of the original texts (as required by
 their license: follow the links in `original_Greek_files/README.md`
-for more details):
+in the above-mentioned Zenodo repository for more details):
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
 <img alt="Creative Commons License" style="border-width:0" 
