@@ -14907,7 +14907,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Fornaro, S. (. (2006). Oppianus. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e832300</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Fornaro argues that this poem is dedicated to Roman Emperor Caracalla and dates from between 212 and 217 AD.</comment_on_chronology>
     <formatted_work_date>+0212-01/+0217-12</formatted_work_date>
   </record>
   <record>
@@ -14921,7 +14921,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Döring, K. (., Engels, J. (., Weißenberger, M. (., Stanzel, K. (., &amp; Di Marco, M. (. L. (2006). Aeschines. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e110600</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Engels and Weissenberger state that the dating of Aeschynes' work is not certain, therefore the relative dates of his birth and death are used as a tool for the chronology of this work.</comment_on_chronology>
     <formatted_work_date>—0398-01/—0321-12</formatted_work_date>
   </record>
   <record>
@@ -14935,7 +14935,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Furley, W. D. (. (2006). Andocides. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e121010</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Furley argues that if this speech by Andocides is genuine, it can be dated to 417-416 BC.</comment_on_chronology>
     <formatted_work_date>—0416-01/—0415-12</formatted_work_date>
   </record>
   <record>
@@ -14946,10 +14946,10 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <print_edition>Antiphon. Minor Attic Orators, Vol. 1. Maidment, K. J., editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1941.</print_edition>
     <author>Antiphon</author>
     <estimated_work_date>480 BC-411 BC</estimated_work_date>
-    <is_temporary_work_date>Yes</is_temporary_work_date>
+    <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Meier, M. (., Engels, J. (., Pressler, F. (., Selzer, C. (., &amp; Cassin, B. (. (2006). Antiphon. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e125120</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>According to Selzer, the exact dating of Antiphon's Tetralogies is not certain, therefore his lifespan has been used as a relative date.</comment_on_chronology>
     <formatted_work_date>—0479-01/—0410-12</formatted_work_date>
   </record>
   <record>
@@ -14960,10 +14960,10 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <print_edition>Antiphon. Minor Attic Orators, Vol. 1. Maidment, K. J., editor. London: William Heinemann, Ltd.; Cambridge, MA: Harvard University Press, 1941.</print_edition>
     <author>Antiphon</author>
     <estimated_work_date>480 BC-411 BC</estimated_work_date>
-    <is_temporary_work_date>Yes</is_temporary_work_date>
+    <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Meier, M. (., Engels, J. (., Pressler, F. (., Selzer, C. (., &amp; Cassin, B. (. (2006). Antiphon. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e125121</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>According to Selzer, the exact dating of Antiphon's Tetralogies is not certain, therefore his lifespan has been used as a relative date.</comment_on_chronology>
     <formatted_work_date>—0479-01/—0410-12</formatted_work_date>
   </record>
   <record>
