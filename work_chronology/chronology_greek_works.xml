@@ -14977,7 +14977,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>Yes</is_temporary_work_date>
     <date_source>Meier, M. (., Engels, J. (., Pressler, F. (., Selzer, C. (., &amp; Cassin, B. (. (2006). Antiphon. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e125122</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>According to Selzer, the exact dating of Antiphon's Tetralogies is not certain, therefore his lifespan has been used as a relative date.</comment_on_chronology>
     <formatted_work_date>—0479-01/—0410-12</formatted_work_date>
   </record>
   <record>
@@ -14987,12 +14987,12 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <title_from_print_edition>Jude</title_from_print_edition>
     <print_edition>The New Testament in the original Greek. The text revised by. Brooke Foss Westcott, D.D. Fenton John Anthony Hort, D.D. New York. Harper and Brothers, Franklin Square. 1885.</print_edition>
     <author>New Testament</author>
-    <estimated_work_date>1st century AD</estimated_work_date>
-    <is_temporary_work_date>Yes</is_temporary_work_date>
-    <date_source>Perdue, L. (. W. T., &amp; Balch, D. (. W. T. (2006). Bible. In Brill's New Pauly Online. Brill</date_source>
-    <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e216510</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>+0001-01/+0100-12</formatted_work_date>
+    <estimated_work_date>50-110 AD</estimated_work_date>
+    <is_temporary_work_date>No</is_temporary_work_date>
+    <date_source>Epistle of Jude, Wikipedia</date_source>
+    <date_source_link>https://en.wikipedia.org/wiki/Epistle_of_Jude#Date</date_source_link>
+    <comment_on_chronology>There is not an agreement, but different academic views point towards a date sometime between 50 and 110 AD.</comment_on_chronology>
+    <formatted_work_date>+0050-01/+0110-12</formatted_work_date>
   </record>
   <record>
     <id>1072</id>
@@ -15005,7 +15005,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>Yes</is_temporary_work_date>
     <date_source>Second Letter of John, Wikipedia</date_source>
     <date_source_link>https://en.wikipedia.org/wiki/Second_Epistle_of_John</date_source_link>
-    <comment_on_chronology>Similar style to the third letter of John, suggesting perhaps the same author or authors.</comment_on_chronology>
+    <comment_on_chronology>Similar in style to the third letter of John, suggesting perhaps the same author or authors.</comment_on_chronology>
     <formatted_work_date>+0060-01/+0110-12</formatted_work_date>
   </record>
   <record>
@@ -15019,7 +15019,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Schmitz, W. (., Schütrumpf, E. E. (. C., Nesselrath, H. (., Neudecker, R. (., Nutton, V. (., Günther, L. (., Ameling, W. (., Gärtner, H. A. (., &amp; Fusillo, M. (. (2006). Xenophon. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e12213340</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Xenophon knew Socrates and was acquainted with him in the years after 410 BC, hence this year is the starting point for the dating, and Xenophon's death is the lower limit for the estimation.</comment_on_chronology>
     <formatted_work_date>—0409-01/—0353-12</formatted_work_date>
   </record>
   <record>
@@ -15027,13 +15027,13 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <urn_cts>tlg0032.tlg005.perseus-grc2</urn_cts>
     <title_labels>Apology</title_labels>
     <title_from_print_edition>Apology</title_from_print_edition>
-    <print_edition>Xenophon, creator; , Xenophon Memorabilia, Oeconomicus Symposium, Apology; Todd, O. J. (Otis Johnson), translator; Marchant, E. C. (Edgar Cardew), 1864-1960, editor; Todd, O. J. (Otis Johnson), editor, translator</print_edition>
+    <print_edition>Xenophon, creator; Xenophon Memorabilia, Oeconomicus Symposium, Apology; Todd, O. J. (Otis Johnson), translator; Marchant, E. C. (Edgar Cardew), 1864-1960, editor; Todd, O. J. (Otis Johnson), editor, translator</print_edition>
     <author>Xenophon</author>
     <estimated_work_date>410 BC-354 BC</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Schmitz, W. (., Schütrumpf, E. E. (. C., Nesselrath, H. (., Neudecker, R. (., Nutton, V. (., Günther, L. (., Ameling, W. (., Gärtner, H. A. (., &amp; Fusillo, M. (. (2006). Xenophon. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e12213341</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Xenophon knew Socrates and was acquainted with him in the years after 410 BC, hence this year is the starting point for the dating, and Xenophon's death is the lower limit for the estimation.</comment_on_chronology>
     <formatted_work_date>—0409-01/—0353-12</formatted_work_date>
   </record>
   <record>
