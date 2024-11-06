@@ -14,7 +14,7 @@ in the article https://arxiv.org/abs/2404.00739.
 
 An overview can also be read in the accompanying website at
 
-* http://oga.informatik.uni-leipzig.de/en/index.html
+* https://varro.informatik.uni-leipzig.de/oga/en/index.html
 
 The data can also be queried via the Annis search tool at:
 
