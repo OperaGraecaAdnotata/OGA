@@ -1,8 +1,8 @@
-# Opera Graeca Adnotata v0.1.0
+# Opera Graeca Adnotata v0.2.0
 
 This repository contains some files used to create 
 **Opera Graeca Adnotata** (OGA), a multilayer corpus
-of Greek texts (base texts: 1,687 files and 34,172,140 tokens) 🏋️‍❤️😃
+of Greek texts (base texts: 1,999 files and 40M+ tokens) 🏋️‍❤️😃
 
 Because of its large size,
 the actual corpus data are made available on Zenodo at
