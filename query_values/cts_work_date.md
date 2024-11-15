@@ -1,7 +1,7 @@
 # CTS and Work Dates
 
-The following table shows the values for the keys *urn_cts*, *author*, *title*,
-*cts*, *work_date*.
+The following table shows the values for the keys **urn_cts**, **author**, **title**,
+**cts**, **work_date**.
 
 
 <table>
