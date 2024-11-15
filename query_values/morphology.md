@@ -7,7 +7,7 @@ values shown in the table below.
 
 |query|explanation|
 |-----|-----------|
-|pos="v" _ident_ tense="p"|search for a token that is a verb and in the present tense
+|pos="v" \_ident\_ tense="p"|search for a token that is a verb (and the same token is) in the present tense
 
 ## Possible keys and values
 
