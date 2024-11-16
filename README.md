@@ -1,35 +1,52 @@
 # Opera Graeca Adnotata v0.2.0
 
-This repository contains some files used to create 
+This repository contains the documentation for
 **Opera Graeca Adnotata** (OGA), a multilayer corpus
-of Greek texts (base texts: 1,999 files and 40M+ tokens) 🏋️‍❤️😃
+of Ancient Greek texts with automatically generated annotations
+(the by far largest one of its kind) 🏋️❤️😃:
 
-Because of its large size,
-the actual corpus data are made available on Zenodo at
+* number of base texts: **1,999**, each corresponding to an ancient work
+* number of tokens: **40,105,221**
+
+The Ancient Greek works comprised in OGA are listed in
+`query_values/cts_work_date.md` and come from the repositories:
+
+* Canonical Greek (https://github.com/PerseusDL/canonical-greekLit/releases/tag/0.0.11376425141)
+* First1KGreek (https://github.com/OpenGreekAndLatin/First1KGreek/releases/tag/1.1.11352615003)
+* PatristicTextArchive (https://github.com/PatristicTextArchive/pta_data/releases/tag/1.1.11363682704)
+
+Because of the corpus large size,
+the actual corpus data + its fine-grained documentation
+are made available on Zenodo at
 
 * https://doi.org/10.5281/zenodo.8158675
 
-Detailed information on the corpus can be found 
-in the article https://arxiv.org/abs/2404.00739.
-
-An overview can also be read in the accompanying website at
-
-* https://varro.informatik.uni-leipzig.de/oga/en/index.html
-
-The data can also be queried via the Annis search tool at:
+The data can be queried via the Annis search tool at:
 
 * https://annis.varro.informatik.uni-leipzig.de/
 
+An overview of the corpus can be read on the accompanying website at
+
+* https://varro.informatik.uni-leipzig.de/oga/en/index.html
+
 The present repository contains a few
 useful manually annotated files used to create annotations in OGA, 
-whose error correction anyone can contribute to here. 
+whose error correction anyone can contribute to. 
 
-The original Greek texts in OGA
-have been tokenized, sentence segmented, morphosyntactically annotated
-using a standoff format, which allows for smooth
-expansion of the corpus via addition of any kind of annotation layer. 
-The current release (v0.1.0) also contains annotation layers that allow searching for
-author, work title, CTS URN, and passage.
+The corpus can be queried by:
+
+1. word forms (i.e., token)
+2. lemmas
+3. morphology (POS and morphological features)
+4. syntax (dependency syntax following the AGDT annotation scheme)
+5. CTS URN for work, authors, and editions.
+6. CTS internal structure of each work (e.g., "book", "section", "line", etc.) 
+6. author name
+7. work title
+8. alleged composition date for each work
+9. IPA transcription of word forms
+
+To know more about how to query the corpus see the documentation in the folder `query_values`.
 
 The present repository is organized thus (further details within each folder):
 1. `abbreviations` contains a file useful for tokenization.

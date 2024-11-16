@@ -1,4 +1,4 @@
-# Morphology
+# Morphological Annotation
 
 Morphology can be queried using the keys with the possible
 values shown in the table below. 
@@ -9,7 +9,7 @@ values shown in the table below.
 |-----|-----------|
 |pos="v" \_ident\_ tense="p"|search for a token that is a verb (and the same token is) in the present tense
 
-## Possible keys and values
+## Keys and Values
 
 <table>
   <tr>
@@ -18,7 +18,7 @@ values shown in the table below.
     <th>explanation</th>
   </tr>
   <tr>
-    <td rowspan="10">pos</td>
+    <td rowspan="15">pos</td>
     <td>n</td>
     <td>noun</td>
 
@@ -62,9 +62,29 @@ values shown in the table below.
     <td>m</td>
     <td>numeral</td>
   </tr>
+  <tr>
+    <td>i</td>
+    <td>interjection</td>
+  </tr>
+  <tr>
+    <td>e</td>
+    <td>exclamation</td>
+  </tr>
+  <tr>
+    <td>u</td>
+    <td>punctuation</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>category does not apply (i.e., an elliptical node)</td>
+  </tr>
+  <tr>
+    <td>x</td>
+    <td>unknown/not annotated pos</td>
+  </tr>
 
   <tr>
-    <td rowspan="3">person</td>
+    <td rowspan="4">person</td>
     <td>1</td>
     <td>first</td>
 
@@ -79,9 +99,13 @@ values shown in the table below.
     <td>third</td>
 
   </tr>
+  <tr>
+    <td>-</td>
+    <td>category does not apply</td>
+  </tr>
 
   <tr>
-    <td rowspan="3">number</td>
+    <td rowspan="4">number</td>
     <td>s</td>
     <td>singular</td>
 
@@ -94,11 +118,16 @@ values shown in the table below.
   <tr>
     <td>d</td>
     <td>dual</td>
-
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>category does not apply</td>
   </tr>
 
+
+
   <tr>
-    <td rowspan="7">tense</td>
+    <td rowspan="8">tense</td>
     <td>p</td>
     <td>present</td>
 
@@ -129,10 +158,14 @@ values shown in the table below.
     <td>a</td>
     <td>aorist</td>
   </tr>
+  <tr>
+    <td>-</td>
+    <td>category does not apply</td>
+  </tr>
 
 
   <tr>
-    <td rowspan="6">mood</td>
+    <td rowspan="8">mood</td>
     <td>i</td>
     <td>indicative</td>
   </tr>
@@ -156,9 +189,17 @@ values shown in the table below.
     <td>p</td>
     <td>participle</td>
   </tr>
+  <tr>
+    <td>g</td>
+    <td>gerundive (very rarely used)</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>category does not apply</td>
+  </tr>
 
   <tr>
-    <td rowspan="4">mood</td>
+    <td rowspan="5">voice</td>
     <td>a</td>
     <td>active</td>
   </tr>
@@ -174,9 +215,13 @@ values shown in the table below.
     <td>e</td>
     <td>medio-passive</td>
   </tr>
+  <tr>
+    <td>-</td>
+    <td>category does not apply</td>
+  </tr>
 
   <tr>
-    <td rowspan="3">gender</td>
+    <td rowspan="5">gender</td>
     <td>m</td>
     <td>masculine</td>
   </tr>
@@ -188,9 +233,17 @@ values shown in the table below.
     <td>n</td>
     <td>neuter</td>
   </tr>
+  <tr>
+    <td>c</td>
+    <td>common (when there is no single gender; not used consistently)</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>category does not apply</td>
+  </tr>
 
   <tr>
-    <td rowspan="6">case</td>
+    <td rowspan="7">case</td>
     <td>n</td>
     <td>nominative</td>
   </tr>
@@ -213,20 +266,25 @@ values shown in the table below.
   <tr>
     <td>l</td>
     <td>locative</td>
-
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>category does not apply</td>
   </tr>
 
   <tr>
-    <td rowspan="2">degree</td>
+    <td rowspan="3">degree</td>
     <td>m</td>
     <td>comparative</td>
   </tr>
   <tr>
     <td>f</td>
     <td>superlative</td>
-
   </tr>
-
+  <tr>
+    <td>-</td>
+    <td>category does not apply (or positive degree)</td>
+  </tr>
 </table>
 
 

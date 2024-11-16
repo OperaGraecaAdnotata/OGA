@@ -1,8 +1,15 @@
-# CTS and Work Dates
+# CTS and Work Date Annotation
 
-The following table shows the values for the keys **urn_cts**, **author**, **title**,
-**cts**, **work_date**.
+The table below shows the values for the keys **urn_cts**, **urn_cts_author**,
+**urn_cts_work**, **urn_cts_edition**, **author**, **title**,
+**cts**, and **work_date**.
 
+For example, the values for **urn_cts**, **urn_cts_author**, **urn_cts_work**,
+and **urn_cts_edition** 
+for the work with CTS URN `pta0001.pta002.pta-grc1` are, respectively,
+`pta0001.pta002.pta-grc1`, `pta0001`, `pta002`, and `pta-grc1`.
+
+# Keys and Values
 
 <table>
   <thead>
