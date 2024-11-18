@@ -1,445 +1,916 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE laula SYSTEM "../../laula_dtd/laula_mark.dtd">
-<laula version="1.0">
-  <header laula_id="ggm0001.ggm001.1st1K-grc1.tok01"/>
-  <markList xmlns:x="http://www.w3.org/1999/xlink" type="tok" xml:base="ggm0001.ggm001.1st1K-grc1.xml">
-    <m i="t_1" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',1,1))" r="1"/>
-    <m i="t_2" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',2,1))" r="."/>
-    <m i="t_3" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',4,3))" r="Χρὴ"/>
-    <m i="t_4" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',8,9))" r="γινώσκειν"/>
-    <m i="t_5" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',18,3))" r="ὅτι"/>
-    <m i="t_6" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',22,5))" r="πάσης"/>
-    <m i="t_7" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',28,3))" r="τῆς"/>
-    <m i="t_8" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',32,3))" r="γῆς"/>
-    <m i="t_9" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',36,1))" r="ὁ"/>
-    <m i="t_10" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',38,10))" r="περίμετρος"/>
-    <m i="t_11" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',48,1))" r="."/>
-    <m i="t_12" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',74,6))" r="στάδιά"/>
-    <m i="t_13" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',81,4))" r="ἐστι"/>
-    <m i="t_14" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',86,8))" r="δισχίλια"/>
-    <m i="t_15" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',95,3))" r="καὶ"/>
-    <m i="t_16" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',99,8))" r="μυριάδες"/>
-    <m i="t_17" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',108,6))" r="εἴκοσι"/>
-    <m i="t_18" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',115,5))" r="πέντε"/>
-    <m i="t_19" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',120,1))" r="·"/>
-    <m i="t_20" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',122,5))" r="μῆκος"/>
-    <m i="t_21" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',152,2))" r="δὲ"/>
-    <m i="t_22" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',155,3))" r="τῆς"/>
-    <m i="t_23" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',159,8))" r="ἡμετέρας"/>
-    <m i="t_24" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',168,10))" r="οἰκουμένης"/>
-    <m i="t_25" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',179,3))" r="ἀπὸ"/>
-    <m i="t_26" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',183,8))" r="στόματος"/>
-    <m i="t_27" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',192,6))" r="Γάγγου"/>
-    <m i="t_28" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',199,3))" r="ἕως"/>
-    <m i="t_29" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',227,8))" r="Γαδείρων"/>
-    <m i="t_30" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',236,6))" r="στάδια"/>
-    <m i="t_31" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',243,12))" r="ὀκτακισμύρια"/>
-    <m i="t_32" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',256,9))" r="τρισχίλια"/>
-    <m i="t_33" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',266,2))" r="ὀκ"/>
-    <m i="t_34" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',269,7))" r="τακόσια"/>
-    <m i="t_35" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',276,1))" r="·"/>
-    <m i="t_36" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',2,2))" r="τὸ"/>
-    <m i="t_37" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',5,2))" r="δὲ"/>
-    <m i="t_38" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',8,6))" r="πλάτος"/>
-    <m i="t_39" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',15,3))" r="ἀπὸ"/>
-    <m i="t_40" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',19,3))" r="τῆς"/>
-    <m i="t_41" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',23,10))" r="Αἰθιοπικῆς"/>
-    <m i="t_42" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',34,8))" r="θαλάσσης"/>
-    <m i="t_43" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',43,3))" r="ἕως"/>
-    <m i="t_44" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',47,3))" r="τοῦ"/>
-    <m i="t_45" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',75,8))" r="Τανάϊδος"/>
-    <m i="t_46" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',84,7))" r="ποταμοῦ"/>
-    <m i="t_47" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',92,6))" r="στάδια"/>
-    <m i="t_48" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',99,9))" r="τρισμύρια"/>
-    <m i="t_49" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',109,13))" r="πεντακισχίλια"/>
-    <m i="t_50" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',147,2))" r="τὸ"/>
-    <m i="t_51" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',150,2))" r="δὲ"/>
-    <m i="t_52" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',153,6))" r="μεταξὺ"/>
-    <m i="t_53" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',160,8))" r="Εὐφράτου"/>
-    <m i="t_54" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',169,3))" r="καὶ"/>
-    <m i="t_55" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',173,8))" r="Τίγριδος"/>
-    <m i="t_56" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',182,7))" r="ποταμοῦ"/>
-    <m i="t_57" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',189,1))" r=","/>
-    <m i="t_58" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',191,1))" r="ὃ"/>
-    <m i="t_59" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',193,8))" r="καλεῖται"/>
-    <m i="t_60" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',226,12))" r="Μεσοποτάμιον"/>
-    <m i="t_61" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',238,1))" r=","/>
-    <m i="t_62" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',240,8))" r="διάστημα"/>
-    <m i="t_63" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',249,4))" r="ἔχει"/>
-    <m i="t_64" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',254,7))" r="σταδίων"/>
-    <m i="t_65" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',262,10))" r="τρισχιλίων"/>
-    <m i="t_66" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',272,1))" r=","/>
-    <m i="t_67" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',298,6))" r="Ταύτην"/>
-    <m i="t_68" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',305,3))" r="τὴν"/>
-    <m i="t_69" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',309,11))" r="ἀναμέτρησιν"/>
-    <m i="t_70" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',321,9))" r="πεποίηκεν"/>
-    <m i="t_71" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',331,11))" r="Ἐρατοσθένης"/>
-    <m i="t_72" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',2,1))" r="ὁ"/>
-    <m i="t_73" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',4,3))" r="τῶν"/>
-    <m i="t_74" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',8,7))" r="ἀρχαίων"/>
-    <m i="t_75" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',16,13))" r="μαθητικώτατος"/>
-    <m i="t_76" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[1]/*:div[1],'',29,1))" r="."/>
-    <m i="t_77" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',1,1))" r="2"/>
-    <m i="t_78" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',2,1))" r="."/>
-    <m i="t_79" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',4,3))" r="Ἀπὸ"/>
-    <m i="t_80" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',8,3))" r="τοῦ"/>
-    <m i="t_81" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',12,9))" r="Βυζαντίου"/>
-    <m i="t_82" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',22,3))" r="εἰς"/>
-    <m i="t_83" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',26,2))" r="τὸ"/>
-    <m i="t_84" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',29,9))" r="Σωσθένιον"/>
-    <m i="t_85" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',39,6))" r="στάδια"/>
-    <m i="t_86" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',74,10))" r="ὀγδοήκοντα"/>
-    <m i="t_87" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',84,1))" r=","/>
-    <m i="t_88" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',86,5))" r="μίλια"/>
-    <m i="t_89" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',92,4))" r="δέκα"/>
-    <m i="t_90" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',97,3))" r="καὶ"/>
-    <m i="t_91" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',101,5))" r="ἥμισυ"/>
-    <m i="t_92" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',106,1))" r="·"/>
-    <m i="t_93" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',108,3))" r="ἀπὸ"/>
-    <m i="t_94" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',112,2))" r="δὲ"/>
-    <m i="t_95" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',115,3))" r="τοῦ"/>
-    <m i="t_96" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',119,9))" r="Σωσθενίου"/>
-    <m i="t_97" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',157,3))" r="εἰς"/>
-    <m i="t_98" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',161,2))" r="τὸ"/>
-    <m i="t_99" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',164,5))" r="Ἱερὸν"/>
-    <m i="t_100" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',170,6))" r="στάδια"/>
-    <m i="t_101" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',177,12))" r="τεσσαράκοντα"/>
-    <m i="t_102" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',189,1))" r=","/>
-    <m i="t_103" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',191,5))" r="μίλια"/>
-    <m i="t_104" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',197,5))" r="πέντε"/>
-    <m i="t_105" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',231,5))" r="ἥμισυ"/>
-    <m i="t_106" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',236,1))" r="·"/>
-    <m i="t_107" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',238,2))" r="τὸ"/>
-    <m i="t_108" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',241,3))" r="πᾶν"/>
-    <m i="t_109" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',245,5))" r="μίλια"/>
-    <m i="t_110" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',251,6))" r="δεκαέξ"/>
-    <m i="t_111" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',257,1))" r="."/>
-    <m i="t_112" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',259,3))" r="Ἀπὸ"/>
-    <m i="t_113" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',263,2))" r="δὲ"/>
-    <m i="t_114" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',266,3))" r="τοῦ"/>
-    <m i="t_115" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',270,5))" r="Ἱεροῦ"/>
-    <m i="t_116" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',276,4))" r="Διὸς"/>
-    <m i="t_117" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',2,6))" r="Οὐρίου"/>
-    <m i="t_118" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',9,4))" r="ἤτοι"/>
-    <m i="t_119" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',14,8))" r="στόματος"/>
-    <m i="t_120" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',23,3))" r="τοῦ"/>
-    <m i="t_121" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',27,6))" r="Πόντου"/>
-    <m i="t_122" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',34,3))" r="ἕως"/>
-    <m i="t_123" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',38,3))" r="τοῦ"/>
-    <m i="t_124" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',42,5))" r="ἱεροῦ"/>
-    <m i="t_125" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',48,8))" r="στόματος"/>
-    <m i="t_126" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',85,3))" r="τοῦ"/>
-    <m i="t_127" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',89,6))" r="Ἴστρου"/>
-    <m i="t_128" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',96,7))" r="ποταμοῦ"/>
-    <m i="t_129" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',104,6))" r="στάδια"/>
-    <m i="t_130" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',111,9))" r="τρισχίλια"/>
-    <m i="t_131" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',121,8))" r="ἑξακόσια"/>
-    <m i="t_132" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',158,12))" r="τεσσαράκοντα"/>
-    <m i="t_133" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',170,1))" r=","/>
-    <m i="t_134" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',172,5))" r="μίλια"/>
-    <m i="t_135" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',178,10))" r="τετρακόσια"/>
-    <m i="t_136" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',189,10))" r="ὀγδοήκοντα"/>
-    <m i="t_137" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',200,5))" r="πέντε"/>
-    <m i="t_138" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',206,5))" r="ἥμισυ"/>
-    <m i="t_139" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[1],'',211,1))" r="."/>
-    <m i="t_140" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',1,1))" r="3"/>
-    <m i="t_141" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',2,1))" r="."/>
-    <m i="t_142" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',4,3))" r="Ἀπὸ"/>
-    <m i="t_143" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',8,2))" r="δὲ"/>
-    <m i="t_144" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',11,3))" r="τοῦ"/>
-    <m i="t_145" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',15,5))" r="Ἱεροῦ"/>
-    <m i="t_146" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',21,4))" r="Διὸς"/>
-    <m i="t_147" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',26,6))" r="Οὐρίου"/>
-    <m i="t_148" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',33,3))" r="ἕως"/>
-    <m i="t_149" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',37,11))" r="Βορυσθένους"/>
-    <m i="t_150" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',77,7))" r="ποταμοῦ"/>
-    <m i="t_151" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',85,3))" r="τοῦ"/>
-    <m i="t_152" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',89,3))" r="καὶ"/>
-    <m i="t_153" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',93,9))" r="Δανάπρεως"/>
-    <m i="t_154" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',103,10))" r="καλουμένου"/>
-    <m i="t_155" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',114,6))" r="στάδια"/>
-    <m i="t_156" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',121,13))" r="πεντακισχίλια"/>
-    <m i="t_157" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',163,8))" r="ἑξακόσια"/>
-    <m i="t_158" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',171,1))" r=","/>
-    <m i="t_159" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',173,5))" r="μίλια"/>
-    <m i="t_160" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',179,9))" r="ἑπτακόσια"/>
-    <m i="t_161" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',189,14))" r="τεσσαρακονταὲξ"/>
-    <m i="t_162" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',232,5))" r="ἥμισυ"/>
-    <m i="t_163" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',237,1))" r="."/>
-    <m i="t_164" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',239,3))" r="Ἀπὸ"/>
-    <m i="t_165" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',243,2))" r="δὲ"/>
-    <m i="t_166" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',246,3))" r="τοῦ"/>
-    <m i="t_167" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',250,5))" r="Ἱεροῦ"/>
-    <m i="t_168" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',256,4))" r="Διὸς"/>
-    <m i="t_169" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',261,6))" r="Οὐρίου"/>
-    <m i="t_170" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',268,3))" r="ἕως"/>
-    <m i="t_171" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',272,8))" r="Πορθμίας"/>
-    <m i="t_172" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',2,6))" r="πόλεως"/>
-    <m i="t_173" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',8,1))" r=","/>
-    <m i="t_174" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',10,3))" r="τῆς"/>
-    <m i="t_175" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',14,2))" r="ἐν"/>
-    <m i="t_176" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',17,5))" r="τέλει"/>
-    <m i="t_177" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',23,3))" r="τῆς"/>
-    <m i="t_178" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',27,7))" r="Εὐρώπης"/>
-    <m i="t_179" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',35,3))" r="τῶν"/>
-    <m i="t_180" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',39,3))" r="τοῦ"/>
-    <m i="t_181" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',43,6))" r="Πόντου"/>
-    <m i="t_182" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',50,5))" r="μερῶν"/>
-    <m i="t_183" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',1,3))" r="τῆς"/>
-    <m i="t_184" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',5,2))" r="ἐν"/>
-    <m i="t_185" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',8,2))" r="τῷ"/>
-    <m i="t_186" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',11,6))" r="στομίῳ"/>
-    <m i="t_187" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',2,3))" r="τῆς"/>
-    <m i="t_188" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',6,9))" r="Μαιώτιδος"/>
-    <m i="t_189" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',16,6))" r="λίμνης"/>
-    <m i="t_190" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',23,4))" r="ἤτοι"/>
-    <m i="t_191" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',56,8))" r="Βοσπόρου"/>
-    <m i="t_192" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',65,3))" r="τοῦ"/>
-    <m i="t_193" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',69,9))" r="Κιμμερίου"/>
-    <m i="t_194" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',79,10))" r="καλουμένου"/>
-    <m i="t_195" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',89,1))" r=","/>
-    <m i="t_196" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',91,6))" r="στάδια"/>
-    <m i="t_197" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',1,5))" r="μύρια"/>
-    <m i="t_198" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',30,5))" r="χίλια"/>
-    <m i="t_199" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',36,6))" r="ἑκατόν"/>
-    <m i="t_200" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',42,1))" r=","/>
-    <m i="t_201" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',44,5))" r="μίλια"/>
-    <m i="t_202" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',1,5))" r="χίλια"/>
-    <m i="t_203" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',2,10))" r="τετρακόσια"/>
-    <m i="t_204" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',13,10))" r="ὀγδοήκοντα"/>
-    <m i="t_205" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',23,1))" r="."/>
-    <m i="t_206" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',53,7))" r="Λέγεται"/>
-    <m i="t_207" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',61,2))" r="δὲ"/>
-    <m i="t_208" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',64,3))" r="τῆς"/>
-    <m i="t_209" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',68,7))" r="Εὐρώπης"/>
-    <m i="t_210" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',76,3))" r="τῆς"/>
-    <m i="t_211" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',80,8))" r="Ποντικῆς"/>
-    <m i="t_212" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',89,1))" r="ὁ"/>
-    <m i="t_213" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',91,9))" r="περίπλους"/>
-    <m i="t_214" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',2,4))" r="ἴσος"/>
-    <m i="t_215" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',7,5))" r="εἶναι"/>
-    <m i="t_216" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',13,2))" r="τῶ"/>
-    <m i="t_217" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',16,7))" r="περίπλῳ"/>
-    <m i="t_218" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',24,3))" r="τῶν"/>
-    <m i="t_219" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',28,3))" r="τῆς"/>
-    <m i="t_220" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',32,5))" r="Ἀσίας"/>
-    <m i="t_221" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',38,5))" r="μερῶν"/>
-    <m i="t_222" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[2],'',43,1))" r="."/>
-    <m i="t_223" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',1,1))" r="4"/>
-    <m i="t_224" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',2,1))" r="."/>
-    <m i="t_225" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',4,3))" r="Ἀπὸ"/>
-    <m i="t_226" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',8,2))" r="δὲ"/>
-    <m i="t_227" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',11,3))" r="τοῦ"/>
-    <m i="t_228" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',15,5))" r="Ἱεροῦ"/>
-    <m i="t_229" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',21,4))" r="Διὸς"/>
-    <m i="t_230" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',26,6))" r="Οὐρίου"/>
-    <m i="t_231" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',33,3))" r="ἕως"/>
-    <m i="t_232" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',37,6))" r="Ἀμισοῦ"/>
-    <m i="t_233" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',72,6))" r="στάδια"/>
-    <m i="t_234" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',79,13))" r="τετρακισχίλια"/>
-    <m i="t_235" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',93,8))" r="ἑξακόσια"/>
-    <m i="t_236" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',102,8))" r="ἐξήκοντα"/>
-    <m i="t_237" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',110,1))" r=","/>
-    <m i="t_238" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',112,5))" r="μίλια"/>
-    <m i="t_239" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',118,8))" r="ἑξακόσια"/>
-    <m i="t_240" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',155,8))" r="εἰκοσιὲν"/>
-    <m i="t_241" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',164,5))" r="ἥμισυ"/>
-    <m i="t_242" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',169,1))" r="."/>
-    <m i="t_243" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',171,3))" r="Ἀπὸ"/>
-    <m i="t_244" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',175,2))" r="δὲ"/>
-    <m i="t_245" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',178,6))" r="Ἀμισοῦ"/>
-    <m i="t_246" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',185,3))" r="ἕως"/>
-    <m i="t_247" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',189,3))" r="τοῦ"/>
-    <m i="t_248" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',193,6))" r="Φάσεως"/>
-    <m i="t_249" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',228,7))" r="ποταμοῦ"/>
-    <m i="t_250" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',236,6))" r="στάδια"/>
-    <m i="t_251" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',243,9))" r="τρισχίλια"/>
-    <m i="t_252" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',253,9))" r="ὀκτακόσια"/>
-    <m i="t_253" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',263,3))" r="δύο"/>
-    <m i="t_254" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',266,1))" r=","/>
-    <m i="t_255" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',268,5))" r="μίλια"/>
-    <m i="t_256" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',274,10))" r="πεντακόσια"/>
-    <m i="t_257" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',2,4))" r="ἑπτά"/>
-    <m i="t_258" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',6,1))" r="."/>
-    <m i="t_259" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',8,3))" r="Ἀπὸ"/>
-    <m i="t_260" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',12,2))" r="δὲ"/>
-    <m i="t_261" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',15,3))" r="τοῦ"/>
-    <m i="t_262" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',19,6))" r="Φάσεως"/>
-    <m i="t_263" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',26,7))" r="ποταμοῦ"/>
-    <m i="t_264" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',34,3))" r="ἕως"/>
-    <m i="t_265" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',38,3))" r="τοῦ"/>
-    <m i="t_266" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',70,8))" r="στόματος"/>
-    <m i="t_267" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',79,3))" r="τῆς"/>
-    <m i="t_268" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',83,9))" r="Μαιώτιδος"/>
-    <m i="t_269" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',93,6))" r="λίμνης"/>
-    <m i="t_270" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',1,4))" r="ἤτοι"/>
-    <m i="t_271" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',6,3))" r="ἕως"/>
-    <m i="t_272" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',10,3))" r="τῆς"/>
-    <m i="t_273" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',14,9))" r="Ἀχιλλείου"/>
-    <m i="t_274" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',56,5))" r="κώμης"/>
-    <m i="t_275" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',62,6))" r="στάδια"/>
-    <m i="t_276" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',69,13))" r="τετρακισχίλια"/>
-    <m i="t_277" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',83,6))" r="εἴκοσι"/>
-    <m i="t_278" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',90,5))" r="πέντε"/>
-    <m i="t_279" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',95,1))" r=","/>
-    <m i="t_280" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',97,5))" r="μίλια"/>
-    <m i="t_281" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',135,10))" r="πεντακόσια"/>
-    <m i="t_282" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',146,11))" r="τριακονταὲξ"/>
-    <m i="t_283" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',158,5))" r="ἥμισυ"/>
-    <m i="t_284" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',163,1))" r=","/>
-    <m i="t_285" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',165,2))" r="ὡς"/>
-    <m i="t_286" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',168,8))" r="γίνεσθαι"/>
-    <m i="t_287" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',177,3))" r="ἀπὸ"/>
-    <m i="t_288" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',181,3))" r="τοῦ"/>
-    <m i="t_289" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',217,5))" r="Ἱεροῦ"/>
-    <m i="t_290" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',223,4))" r="Διὸς"/>
-    <m i="t_291" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',228,6))" r="Οὐρίου"/>
-    <m i="t_292" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',235,3))" r="ἕως"/>
-    <m i="t_293" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',239,3))" r="τοῦ"/>
-    <m i="t_294" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',243,8))" r="στόματος"/>
-    <m i="t_295" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',252,3))" r="τῆς"/>
-    <m i="t_296" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',256,9))" r="Μαιώτιδος"/>
-    <m i="t_297" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',2,6))" r="λίμνης"/>
-    <m i="t_298" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',2,6))" r="στάδια"/>
-    <m i="t_299" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',1,5))" r="μύρια"/>
-    <m i="t_300" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',7,3))" r="δισ"/>
-    <m i="t_301" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',1,5))" r="χίλια"/>
-    <m i="t_302" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',7,10))" r="τετρακόσια"/>
-    <m i="t_303" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',18,10))" r="ὀγδοήκοντα"/>
-    <m i="t_304" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',57,4))" r="ἑπτὰ"/>
-    <m i="t_305" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',61,1))" r=","/>
-    <m i="t_306" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',63,5))" r="μίλια"/>
-    <m i="t_307" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',1,5))" r="χίλια"/>
-    <m i="t_308" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',2,8))" r="ἑξακόσια"/>
-    <m i="t_309" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',11,8))" r="ἐξήκοντα"/>
-    <m i="t_310" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',20,5))" r="πέντε"/>
-    <m i="t_311" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',54,5))" r="ἥμισυ"/>
-    <m i="t_312" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[3],'',59,1))" r="."/>
-    <m i="t_313" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',1,1))" r="5"/>
-    <m i="t_314" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',2,1))" r="."/>
-    <m i="t_315" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',4,4))" r="Ὁμοῦ"/>
-    <m i="t_316" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',9,7))" r="γίνεται"/>
-    <m i="t_317" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',17,1))" r="ὁ"/>
-    <m i="t_318" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',19,9))" r="περίπλους"/>
-    <m i="t_319" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',29,3))" r="τοῦ"/>
-    <m i="t_320" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',33,8))" r="Εὐξείνου"/>
-    <m i="t_321" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',42,6))" r="Πόντου"/>
-    <m i="t_322" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',48,1))" r=","/>
-    <m i="t_323" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',78,3))" r="τῶν"/>
-    <m i="t_324" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',82,2))" r="τε"/>
-    <m i="t_325" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',85,6))" r="δεξιῶν"/>
-    <m i="t_326" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',92,3))" r="τῶν"/>
-    <m i="t_327" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',2,4))" r="παρὰ"/>
-    <m i="t_328" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',7,3))" r="τὴν"/>
-    <m i="t_329" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',11,5))" r="Ἀσίαν"/>
-    <m i="t_330" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',17,5))" r="μερῶν"/>
-    <m i="t_331" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',23,3))" r="τοῦ"/>
-    <m i="t_332" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',2,6))" r="Πόντου"/>
-    <m i="t_333" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',8,1))" r=","/>
-    <m i="t_334" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',10,9))" r="ἀριστερῶν"/>
-    <m i="t_335" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',20,2))" r="δὲ"/>
-    <m i="t_336" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',23,3))" r="τῶν"/>
-    <m i="t_337" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',27,4))" r="παρὰ"/>
-    <m i="t_338" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',32,3))" r="τὴν"/>
-    <m i="t_339" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',36,7))" r="Εὐρώπην"/>
-    <m i="t_340" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',44,5))" r="μερῶν"/>
-    <m i="t_341" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',78,3))" r="τοῦ"/>
-    <m i="t_342" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',82,6))" r="Πόντου"/>
-    <m i="t_343" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',88,1))" r=","/>
-    <m i="t_344" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',90,3))" r="ἀπὸ"/>
-    <m i="t_345" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',94,3))" r="τοῦ"/>
-    <m i="t_346" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',98,5))" r="Ἱεροῦ"/>
-    <m i="t_347" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',1,4))" r="Διὸς"/>
-    <m i="t_348" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',6,6))" r="Οὐρίου"/>
-    <m i="t_349" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',12,1))" r=","/>
-    <m i="t_350" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',14,6))" r="στάδια"/>
-    <m i="t_351" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',21,8))" r="δισμύρια"/>
-    <m i="t_352" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',62,9))" r="τρισχίλια"/>
-    <m i="t_353" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',72,10))" r="πεντακόσια"/>
-    <m i="t_354" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',83,10))" r="ὀγδοήκοντα"/>
-    <m i="t_355" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',94,4))" r="ἑπτὰ"/>
-    <m i="t_356" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',1,1))" r=","/>
-    <m i="t_357" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',3,5))" r="μίλια"/>
-    <m i="t_358" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',37,9))" r="τρισχίλια"/>
-    <m i="t_359" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',47,6))" r="ἑκατὸν"/>
-    <m i="t_360" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',54,12))" r="τεσσαράκοντα"/>
-    <m i="t_361" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',67,5))" r="πέντε"/>
-    <m i="t_362" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',72,1))" r="."/>
-    <m i="t_363" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',74,4))" r="Ἔστι"/>
-    <m i="t_364" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',79,2))" r="δὲ"/>
-    <m i="t_365" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',110,3))" r="καὶ"/>
-    <m i="t_366" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',114,1))" r="ὁ"/>
-    <m i="t_367" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',116,9))" r="περίπλους"/>
-    <m i="t_368" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',126,3))" r="τῆς"/>
-    <m i="t_369" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',130,9))" r="Μαιώτιδος"/>
-    <m i="t_370" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',140,6))" r="λίμνης"/>
-    <m i="t_371" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',1,6))" r="στάδια"/>
-    <m i="t_372" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',8,12))" r="ἐννακισχίλια"/>
-    <m i="t_373" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',1,1))" r="."/>
-    <m i="t_374" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',2,5))" r="μίλια"/>
-    <m i="t_375" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',8,5))" r="χίλια"/>
-    <m i="t_376" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',14,8))" r="διακόσια"/>
-    <m i="t_377" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[4],'',22,1))" r="."/>
-    <m i="t_378" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',1,1))" r="6"/>
-    <m i="t_379" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',2,1))" r="."/>
-    <m i="t_380" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',4,4))" r="Περὶ"/>
-    <m i="t_381" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',9,3))" r="τοῦ"/>
-    <m i="t_382" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',13,7))" r="σταδίου"/>
-    <m i="t_383" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',20,1))" r="."/>
-    <m i="t_384" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',22,2))" r="Τὸ"/>
-    <m i="t_385" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',25,7))" r="στάδιον"/>
-    <m i="t_386" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',33,6))" r="πήχεις"/>
-    <m i="t_387" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',40,4))" r="ἔχει"/>
-    <m i="t_388" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',73,12))" r="τετρακοσίους"/>
-    <m i="t_389" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',85,1))" r=","/>
-    <m i="t_390" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',87,5))" r="πόδας"/>
-    <m i="t_391" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',93,11))" r="ὀκτακοσίους"/>
-    <m i="t_392" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',104,1))" r=","/>
-    <m i="t_393" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',106,7))" r="ὀργυιὰς"/>
-    <m i="t_394" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',114,6))" r="ἑκατὸν"/>
-    <m i="t_395" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',121,9))" r="τριάκοντα"/>
-    <m i="t_396" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',159,5))" r="τρεῖς"/>
-    <m i="t_397" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',165,5))" r="ἥμισυ"/>
-    <m i="t_398" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[5],'',170,1))" r="."/>
-    <m i="t_399" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',1,1))" r="7"/>
-    <m i="t_400" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',2,1))" r="."/>
-    <m i="t_401" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',4,4))" r="Περὶ"/>
-    <m i="t_402" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',9,3))" r="τοῦ"/>
-    <m i="t_403" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',13,6))" r="μιλίου"/>
-    <m i="t_404" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',19,1))" r="."/>
-    <m i="t_405" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',21,2))" r="Τὸ"/>
-    <m i="t_406" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',24,6))" r="μίλιον"/>
-    <m i="t_407" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',31,4))" r="ἔχει"/>
-    <m i="t_408" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',36,6))" r="στάδια"/>
-    <m i="t_409" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',43,4))" r="ἑπτὰ"/>
-    <m i="t_410" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',76,5))" r="ἥμισυ"/>
-    <m i="t_411" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',81,1))" r=","/>
-    <m i="t_412" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',83,6))" r="πήχεις"/>
-    <m i="t_413" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',90,11))" r="τρισχιλίους"/>
-    <m i="t_414" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',101,1))" r=","/>
-    <m i="t_415" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',103,5))" r="πόδας"/>
-    <m i="t_416" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',109,13))" r="ἑξακισχιλίους"/>
-    <m i="t_417" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[6],'',122,1))" r="."/>
-    <m i="t_418" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',1,1))" r="8"/>
-    <m i="t_419" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',2,1))" r="."/>
-    <m i="t_420" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',4,4))" r="Περὶ"/>
-    <m i="t_421" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',9,3))" r="τοῦ"/>
-    <m i="t_422" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',13,8))" r="ἐνιαυτοῦ"/>
-    <m i="t_423" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',21,1))" r="."/>
-    <m i="t_424" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',23,4))" r="Ἅπας"/>
-    <m i="t_425" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',28,4))" r="ἔχει"/>
-    <m i="t_426" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',33,4))" r="ὥρας"/>
-    <m i="t_427" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',38,13))" r="ὀκτακισχιλίας"/>
-    <m i="t_428" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',80,10))" r="ἑπτακοσίας"/>
-    <m i="t_429" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',1,8))" r="ἐξήκοντα"/>
-    <m i="t_430" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',2,2))" r="ἓξ"/>
-    <m i="t_431" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',4,1))" r=","/>
-    <m i="t_432" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',6,6))" r="ἡμέρας"/>
-    <m i="t_433" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',13,10))" r="τριακοσίας"/>
-    <m i="t_434" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',52,8))" r="ἑξήκοντα"/>
-    <m i="t_435" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',61,5))" r="πέντε"/>
-    <m i="t_436" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',67,3))" r="καὶ"/>
-    <m i="t_437" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',71,8))" r="τέταρτον"/>
-    <m i="t_438" x:href="#xpointer(string-range(/*:TEI[1]/*:text[1]/*:body[1]/*:div[1]/*:div[2]/*:div[7],'',79,1))" r="."/>
-  </markList>
-</laula>
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!DOCTYPE paula SYSTEM "../../paula_dtd/paula_mark.dtd">
+<paula version="1.1">
+  <header paula_id="ggm0001.ggm001.1st1K-grc1.tok01"/>
+  <markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tok" xml:base="ggm0001.ggm001.1st1K-grc1.xml">
+    <mark id="t_1" xlink:href="#xpointer(string-range(//body,'',1,1))"/>
+<!--1-->
+<mark id="t_2" xlink:href="#xpointer(string-range(//body,'',3,1))"/>
+<!--.-->
+<mark id="t_3" xlink:href="#xpointer(string-range(//body,'',5,3))"/>
+<!--Χρὴ-->
+<mark id="t_4" xlink:href="#xpointer(string-range(//body,'',9,9))"/>
+<!--γινώσκειν-->
+<mark id="t_5" xlink:href="#xpointer(string-range(//body,'',19,3))"/>
+<!--ὅτι-->
+<mark id="t_6" xlink:href="#xpointer(string-range(//body,'',23,5))"/>
+<!--πάσης-->
+<mark id="t_7" xlink:href="#xpointer(string-range(//body,'',29,3))"/>
+<!--τῆς-->
+<mark id="t_8" xlink:href="#xpointer(string-range(//body,'',33,3))"/>
+<!--γῆς-->
+<mark id="t_9" xlink:href="#xpointer(string-range(//body,'',37,1))"/>
+<!--ὁ-->
+<mark id="t_10" xlink:href="#xpointer(string-range(//body,'',39,10))"/>
+<!--περίμετρος-->
+<mark id="e_1" xlink:href="#xpointer(string-range(//body,'',50,3))"/>
+<!--[0]-->
+<mark id="t_11" xlink:href="#xpointer(string-range(//body,'',54,1))"/>
+<!--.-->
+<mark id="t_12" xlink:href="#xpointer(string-range(//body,'',56,6))"/>
+<!--στάδιά-->
+<mark id="t_13" xlink:href="#xpointer(string-range(//body,'',63,4))"/>
+<!--ἐστι-->
+<mark id="t_14" xlink:href="#xpointer(string-range(//body,'',68,8))"/>
+<!--δισχίλια-->
+<mark id="t_15" xlink:href="#xpointer(string-range(//body,'',77,3))"/>
+<!--καὶ-->
+<mark id="t_16" xlink:href="#xpointer(string-range(//body,'',81,8))"/>
+<!--μυριάδες-->
+<mark id="t_17" xlink:href="#xpointer(string-range(//body,'',90,6))"/>
+<!--εἴκοσι-->
+<mark id="t_18" xlink:href="#xpointer(string-range(//body,'',97,5))"/>
+<!--πέντε-->
+<mark id="t_19" xlink:href="#xpointer(string-range(//body,'',103,1))"/>
+<!--·-->
+<mark id="t_20" xlink:href="#xpointer(string-range(//body,'',105,5))"/>
+<!--μῆκος-->
+<mark id="t_21" xlink:href="#xpointer(string-range(//body,'',111,2))"/>
+<!--δὲ-->
+<mark id="t_22" xlink:href="#xpointer(string-range(//body,'',114,3))"/>
+<!--τῆς-->
+<mark id="t_23" xlink:href="#xpointer(string-range(//body,'',118,8))"/>
+<!--ἡμετέρας-->
+<mark id="t_24" xlink:href="#xpointer(string-range(//body,'',127,10))"/>
+<!--οἰκουμένης-->
+<mark id="t_25" xlink:href="#xpointer(string-range(//body,'',138,3))"/>
+<!--ἀπὸ-->
+<mark id="t_26" xlink:href="#xpointer(string-range(//body,'',142,8))"/>
+<!--στόματος-->
+<mark id="t_27" xlink:href="#xpointer(string-range(//body,'',151,6))"/>
+<!--Γάγγου-->
+<mark id="t_28" xlink:href="#xpointer(string-range(//body,'',158,3))"/>
+<!--ἕως-->
+<mark id="t_29" xlink:href="#xpointer(string-range(//body,'',162,8))"/>
+<!--Γαδείρων-->
+<mark id="t_30" xlink:href="#xpointer(string-range(//body,'',171,6))"/>
+<!--στάδια-->
+<mark id="t_31" xlink:href="#xpointer(string-range(//body,'',178,12))"/>
+<!--ὀκτακισμύρια-->
+<mark id="t_32" xlink:href="#xpointer(string-range(//body,'',191,9))"/>
+<!--τρισχίλια-->
+<mark id="t_33" xlink:href="#xpointer(string-range(//body,'',201,2))"/>
+<!--ὀκ-->
+<mark id="t_34" xlink:href="#xpointer(string-range(//body,'',204,7))"/>
+<!--τακόσια-->
+<mark id="e_2" xlink:href="#xpointer(string-range(//body,'',212,3))"/>
+<!--[0]-->
+<mark id="t_35" xlink:href="#xpointer(string-range(//body,'',216,1))"/>
+<!--·-->
+<mark id="t_36" xlink:href="#xpointer(string-range(//body,'',218,2))"/>
+<!--τὸ-->
+<mark id="t_37" xlink:href="#xpointer(string-range(//body,'',221,2))"/>
+<!--δὲ-->
+<mark id="t_38" xlink:href="#xpointer(string-range(//body,'',224,6))"/>
+<!--πλάτος-->
+<mark id="t_39" xlink:href="#xpointer(string-range(//body,'',231,3))"/>
+<!--ἀπὸ-->
+<mark id="t_40" xlink:href="#xpointer(string-range(//body,'',235,3))"/>
+<!--τῆς-->
+<mark id="t_41" xlink:href="#xpointer(string-range(//body,'',239,10))"/>
+<!--Αἰθιοπικῆς-->
+<mark id="t_42" xlink:href="#xpointer(string-range(//body,'',250,8))"/>
+<!--θαλάσσης-->
+<mark id="t_43" xlink:href="#xpointer(string-range(//body,'',259,3))"/>
+<!--ἕως-->
+<mark id="t_44" xlink:href="#xpointer(string-range(//body,'',263,3))"/>
+<!--τοῦ-->
+<mark id="t_45" xlink:href="#xpointer(string-range(//body,'',267,8))"/>
+<!--Τανάϊδος-->
+<mark id="t_46" xlink:href="#xpointer(string-range(//body,'',276,7))"/>
+<!--ποταμοῦ-->
+<mark id="t_47" xlink:href="#xpointer(string-range(//body,'',284,6))"/>
+<!--στάδια-->
+<mark id="t_48" xlink:href="#xpointer(string-range(//body,'',291,9))"/>
+<!--τρισμύρια-->
+<mark id="t_49" xlink:href="#xpointer(string-range(//body,'',301,13))"/>
+<!--πεντακισχίλια-->
+<mark id="t_50" xlink:href="#xpointer(string-range(//body,'',315,2))"/>
+<!--τὸ-->
+<mark id="t_51" xlink:href="#xpointer(string-range(//body,'',318,2))"/>
+<!--δὲ-->
+<mark id="t_52" xlink:href="#xpointer(string-range(//body,'',321,6))"/>
+<!--μεταξὺ-->
+<mark id="t_53" xlink:href="#xpointer(string-range(//body,'',328,8))"/>
+<!--Εὐφράτου-->
+<mark id="t_54" xlink:href="#xpointer(string-range(//body,'',337,3))"/>
+<!--καὶ-->
+<mark id="t_55" xlink:href="#xpointer(string-range(//body,'',341,8))"/>
+<!--Τίγριδος-->
+<mark id="t_56" xlink:href="#xpointer(string-range(//body,'',350,7))"/>
+<!--ποταμοῦ-->
+<mark id="t_57" xlink:href="#xpointer(string-range(//body,'',358,1))"/>
+<!--,-->
+<mark id="t_58" xlink:href="#xpointer(string-range(//body,'',360,1))"/>
+<!--ὃ-->
+<mark id="t_59" xlink:href="#xpointer(string-range(//body,'',362,8))"/>
+<!--καλεῖται-->
+<mark id="t_60" xlink:href="#xpointer(string-range(//body,'',371,12))"/>
+<!--Μεσοποτάμιον-->
+<mark id="t_61" xlink:href="#xpointer(string-range(//body,'',384,1))"/>
+<!--,-->
+<mark id="t_62" xlink:href="#xpointer(string-range(//body,'',386,8))"/>
+<!--διάστημα-->
+<mark id="t_63" xlink:href="#xpointer(string-range(//body,'',395,4))"/>
+<!--ἔχει-->
+<mark id="t_64" xlink:href="#xpointer(string-range(//body,'',400,7))"/>
+<!--σταδίων-->
+<mark id="t_65" xlink:href="#xpointer(string-range(//body,'',408,10))"/>
+<!--τρισχιλίων-->
+<mark id="t_66" xlink:href="#xpointer(string-range(//body,'',419,1))"/>
+<!--,-->
+<mark id="t_67" xlink:href="#xpointer(string-range(//body,'',421,6))"/>
+<!--Ταύτην-->
+<mark id="t_68" xlink:href="#xpointer(string-range(//body,'',428,3))"/>
+<!--τὴν-->
+<mark id="t_69" xlink:href="#xpointer(string-range(//body,'',432,11))"/>
+<!--ἀναμέτρησιν-->
+<mark id="t_70" xlink:href="#xpointer(string-range(//body,'',444,9))"/>
+<!--πεποίηκεν-->
+<mark id="t_71" xlink:href="#xpointer(string-range(//body,'',454,11))"/>
+<!--Ἐρατοσθένης-->
+<mark id="t_72" xlink:href="#xpointer(string-range(//body,'',466,1))"/>
+<!--ὁ-->
+<mark id="t_73" xlink:href="#xpointer(string-range(//body,'',468,3))"/>
+<!--τῶν-->
+<mark id="t_74" xlink:href="#xpointer(string-range(//body,'',472,7))"/>
+<!--ἀρχαίων-->
+<mark id="t_75" xlink:href="#xpointer(string-range(//body,'',480,13))"/>
+<!--μαθητικώτατος-->
+<mark id="e_3" xlink:href="#xpointer(string-range(//body,'',494,3))"/>
+<!--[0]-->
+<mark id="t_76" xlink:href="#xpointer(string-range(//body,'',498,1))"/>
+<!--.-->
+<mark id="t_77" xlink:href="#xpointer(string-range(//body,'',500,1))"/>
+<!--2-->
+<mark id="t_78" xlink:href="#xpointer(string-range(//body,'',502,1))"/>
+<!--.-->
+<mark id="t_79" xlink:href="#xpointer(string-range(//body,'',504,3))"/>
+<!--Ἀπὸ-->
+<mark id="t_80" xlink:href="#xpointer(string-range(//body,'',508,3))"/>
+<!--τοῦ-->
+<mark id="t_81" xlink:href="#xpointer(string-range(//body,'',512,9))"/>
+<!--Βυζαντίου-->
+<mark id="t_82" xlink:href="#xpointer(string-range(//body,'',522,3))"/>
+<!--εἰς-->
+<mark id="t_83" xlink:href="#xpointer(string-range(//body,'',526,2))"/>
+<!--τὸ-->
+<mark id="t_84" xlink:href="#xpointer(string-range(//body,'',529,9))"/>
+<!--Σωσθένιον-->
+<mark id="t_85" xlink:href="#xpointer(string-range(//body,'',539,6))"/>
+<!--στάδια-->
+<mark id="t_86" xlink:href="#xpointer(string-range(//body,'',546,10))"/>
+<!--ὀγδοήκοντα-->
+<mark id="t_87" xlink:href="#xpointer(string-range(//body,'',557,1))"/>
+<!--,-->
+<mark id="t_88" xlink:href="#xpointer(string-range(//body,'',559,5))"/>
+<!--μίλια-->
+<mark id="t_89" xlink:href="#xpointer(string-range(//body,'',565,4))"/>
+<!--δέκα-->
+<mark id="t_90" xlink:href="#xpointer(string-range(//body,'',570,3))"/>
+<!--καὶ-->
+<mark id="t_91" xlink:href="#xpointer(string-range(//body,'',574,5))"/>
+<!--ἥμισυ-->
+<mark id="e_4" xlink:href="#xpointer(string-range(//body,'',580,3))"/>
+<!--[0]-->
+<mark id="t_92" xlink:href="#xpointer(string-range(//body,'',584,1))"/>
+<!--·-->
+<mark id="t_93" xlink:href="#xpointer(string-range(//body,'',586,3))"/>
+<!--ἀπὸ-->
+<mark id="t_94" xlink:href="#xpointer(string-range(//body,'',590,2))"/>
+<!--δὲ-->
+<mark id="t_95" xlink:href="#xpointer(string-range(//body,'',593,3))"/>
+<!--τοῦ-->
+<mark id="t_96" xlink:href="#xpointer(string-range(//body,'',597,9))"/>
+<!--Σωσθενίου-->
+<mark id="t_97" xlink:href="#xpointer(string-range(//body,'',607,3))"/>
+<!--εἰς-->
+<mark id="t_98" xlink:href="#xpointer(string-range(//body,'',611,2))"/>
+<!--τὸ-->
+<mark id="t_99" xlink:href="#xpointer(string-range(//body,'',614,5))"/>
+<!--Ἱερὸν-->
+<mark id="t_100" xlink:href="#xpointer(string-range(//body,'',620,6))"/>
+<!--στάδια-->
+<mark id="t_101" xlink:href="#xpointer(string-range(//body,'',627,12))"/>
+<!--τεσσαράκοντα-->
+<mark id="t_102" xlink:href="#xpointer(string-range(//body,'',640,1))"/>
+<!--,-->
+<mark id="t_103" xlink:href="#xpointer(string-range(//body,'',642,5))"/>
+<!--μίλια-->
+<mark id="t_104" xlink:href="#xpointer(string-range(//body,'',648,5))"/>
+<!--πέντε-->
+<mark id="t_105" xlink:href="#xpointer(string-range(//body,'',654,5))"/>
+<!--ἥμισυ-->
+<mark id="e_5" xlink:href="#xpointer(string-range(//body,'',660,3))"/>
+<!--[0]-->
+<mark id="t_106" xlink:href="#xpointer(string-range(//body,'',664,1))"/>
+<!--·-->
+<mark id="t_107" xlink:href="#xpointer(string-range(//body,'',666,2))"/>
+<!--τὸ-->
+<mark id="t_108" xlink:href="#xpointer(string-range(//body,'',669,3))"/>
+<!--πᾶν-->
+<mark id="t_109" xlink:href="#xpointer(string-range(//body,'',673,5))"/>
+<!--μίλια-->
+<mark id="t_110" xlink:href="#xpointer(string-range(//body,'',679,6))"/>
+<!--δεκαέξ-->
+<mark id="e_6" xlink:href="#xpointer(string-range(//body,'',686,3))"/>
+<!--[0]-->
+<mark id="t_111" xlink:href="#xpointer(string-range(//body,'',690,1))"/>
+<!--.-->
+<mark id="t_112" xlink:href="#xpointer(string-range(//body,'',692,3))"/>
+<!--Ἀπὸ-->
+<mark id="t_113" xlink:href="#xpointer(string-range(//body,'',696,2))"/>
+<!--δὲ-->
+<mark id="t_114" xlink:href="#xpointer(string-range(//body,'',699,3))"/>
+<!--τοῦ-->
+<mark id="t_115" xlink:href="#xpointer(string-range(//body,'',703,5))"/>
+<!--Ἱεροῦ-->
+<mark id="t_116" xlink:href="#xpointer(string-range(//body,'',709,4))"/>
+<!--Διὸς-->
+<mark id="t_117" xlink:href="#xpointer(string-range(//body,'',714,6))"/>
+<!--Οὐρίου-->
+<mark id="t_118" xlink:href="#xpointer(string-range(//body,'',721,4))"/>
+<!--ἤτοι-->
+<mark id="t_119" xlink:href="#xpointer(string-range(//body,'',726,8))"/>
+<!--στόματος-->
+<mark id="t_120" xlink:href="#xpointer(string-range(//body,'',735,3))"/>
+<!--τοῦ-->
+<mark id="t_121" xlink:href="#xpointer(string-range(//body,'',739,6))"/>
+<!--Πόντου-->
+<mark id="t_122" xlink:href="#xpointer(string-range(//body,'',746,3))"/>
+<!--ἕως-->
+<mark id="t_123" xlink:href="#xpointer(string-range(//body,'',750,3))"/>
+<!--τοῦ-->
+<mark id="t_124" xlink:href="#xpointer(string-range(//body,'',754,5))"/>
+<!--ἱεροῦ-->
+<mark id="t_125" xlink:href="#xpointer(string-range(//body,'',760,8))"/>
+<!--στόματος-->
+<mark id="t_126" xlink:href="#xpointer(string-range(//body,'',769,3))"/>
+<!--τοῦ-->
+<mark id="t_127" xlink:href="#xpointer(string-range(//body,'',773,6))"/>
+<!--Ἴστρου-->
+<mark id="t_128" xlink:href="#xpointer(string-range(//body,'',780,7))"/>
+<!--ποταμοῦ-->
+<mark id="t_129" xlink:href="#xpointer(string-range(//body,'',788,6))"/>
+<!--στάδια-->
+<mark id="t_130" xlink:href="#xpointer(string-range(//body,'',795,9))"/>
+<!--τρισχίλια-->
+<mark id="t_131" xlink:href="#xpointer(string-range(//body,'',805,8))"/>
+<!--ἑξακόσια-->
+<mark id="t_132" xlink:href="#xpointer(string-range(//body,'',814,12))"/>
+<!--τεσσαράκοντα-->
+<mark id="t_133" xlink:href="#xpointer(string-range(//body,'',827,1))"/>
+<!--,-->
+<mark id="t_134" xlink:href="#xpointer(string-range(//body,'',829,5))"/>
+<!--μίλια-->
+<mark id="t_135" xlink:href="#xpointer(string-range(//body,'',835,10))"/>
+<!--τετρακόσια-->
+<mark id="t_136" xlink:href="#xpointer(string-range(//body,'',846,10))"/>
+<!--ὀγδοήκοντα-->
+<mark id="t_137" xlink:href="#xpointer(string-range(//body,'',857,5))"/>
+<!--πέντε-->
+<mark id="t_138" xlink:href="#xpointer(string-range(//body,'',863,5))"/>
+<!--ἥμισυ-->
+<mark id="e_7" xlink:href="#xpointer(string-range(//body,'',869,3))"/>
+<!--[0]-->
+<mark id="t_139" xlink:href="#xpointer(string-range(//body,'',873,1))"/>
+<!--.-->
+<mark id="t_140" xlink:href="#xpointer(string-range(//body,'',875,1))"/>
+<!--3-->
+<mark id="t_141" xlink:href="#xpointer(string-range(//body,'',877,1))"/>
+<!--.-->
+<mark id="t_142" xlink:href="#xpointer(string-range(//body,'',879,3))"/>
+<!--Ἀπὸ-->
+<mark id="t_143" xlink:href="#xpointer(string-range(//body,'',883,2))"/>
+<!--δὲ-->
+<mark id="t_144" xlink:href="#xpointer(string-range(//body,'',886,3))"/>
+<!--τοῦ-->
+<mark id="t_145" xlink:href="#xpointer(string-range(//body,'',890,5))"/>
+<!--Ἱεροῦ-->
+<mark id="t_146" xlink:href="#xpointer(string-range(//body,'',896,4))"/>
+<!--Διὸς-->
+<mark id="t_147" xlink:href="#xpointer(string-range(//body,'',901,6))"/>
+<!--Οὐρίου-->
+<mark id="t_148" xlink:href="#xpointer(string-range(//body,'',908,3))"/>
+<!--ἕως-->
+<mark id="t_149" xlink:href="#xpointer(string-range(//body,'',912,11))"/>
+<!--Βορυσθένους-->
+<mark id="t_150" xlink:href="#xpointer(string-range(//body,'',924,7))"/>
+<!--ποταμοῦ-->
+<mark id="t_151" xlink:href="#xpointer(string-range(//body,'',932,3))"/>
+<!--τοῦ-->
+<mark id="t_152" xlink:href="#xpointer(string-range(//body,'',936,3))"/>
+<!--καὶ-->
+<mark id="t_153" xlink:href="#xpointer(string-range(//body,'',940,9))"/>
+<!--Δανάπρεως-->
+<mark id="t_154" xlink:href="#xpointer(string-range(//body,'',950,10))"/>
+<!--καλουμένου-->
+<mark id="t_155" xlink:href="#xpointer(string-range(//body,'',961,6))"/>
+<!--στάδια-->
+<mark id="t_156" xlink:href="#xpointer(string-range(//body,'',968,13))"/>
+<!--πεντακισχίλια-->
+<mark id="t_157" xlink:href="#xpointer(string-range(//body,'',982,8))"/>
+<!--ἑξακόσια-->
+<mark id="t_158" xlink:href="#xpointer(string-range(//body,'',991,1))"/>
+<!--,-->
+<mark id="t_159" xlink:href="#xpointer(string-range(//body,'',993,5))"/>
+<!--μίλια-->
+<mark id="t_160" xlink:href="#xpointer(string-range(//body,'',999,9))"/>
+<!--ἑπτακόσια-->
+<mark id="t_161" xlink:href="#xpointer(string-range(//body,'',1009,14))"/>
+<!--τεσσαρακονταὲξ-->
+<mark id="t_162" xlink:href="#xpointer(string-range(//body,'',1024,5))"/>
+<!--ἥμισυ-->
+<mark id="e_8" xlink:href="#xpointer(string-range(//body,'',1030,3))"/>
+<!--[0]-->
+<mark id="t_163" xlink:href="#xpointer(string-range(//body,'',1034,1))"/>
+<!--.-->
+<mark id="t_164" xlink:href="#xpointer(string-range(//body,'',1036,3))"/>
+<!--Ἀπὸ-->
+<mark id="t_165" xlink:href="#xpointer(string-range(//body,'',1040,2))"/>
+<!--δὲ-->
+<mark id="t_166" xlink:href="#xpointer(string-range(//body,'',1043,3))"/>
+<!--τοῦ-->
+<mark id="t_167" xlink:href="#xpointer(string-range(//body,'',1047,5))"/>
+<!--Ἱεροῦ-->
+<mark id="t_168" xlink:href="#xpointer(string-range(//body,'',1053,4))"/>
+<!--Διὸς-->
+<mark id="t_169" xlink:href="#xpointer(string-range(//body,'',1058,6))"/>
+<!--Οὐρίου-->
+<mark id="t_170" xlink:href="#xpointer(string-range(//body,'',1065,3))"/>
+<!--ἕως-->
+<mark id="t_171" xlink:href="#xpointer(string-range(//body,'',1069,8))"/>
+<!--Πορθμίας-->
+<mark id="t_172" xlink:href="#xpointer(string-range(//body,'',1078,6))"/>
+<!--πόλεως-->
+<mark id="t_173" xlink:href="#xpointer(string-range(//body,'',1085,1))"/>
+<!--,-->
+<mark id="t_174" xlink:href="#xpointer(string-range(//body,'',1087,3))"/>
+<!--τῆς-->
+<mark id="t_175" xlink:href="#xpointer(string-range(//body,'',1091,2))"/>
+<!--ἐν-->
+<mark id="t_176" xlink:href="#xpointer(string-range(//body,'',1094,5))"/>
+<!--τέλει-->
+<mark id="t_177" xlink:href="#xpointer(string-range(//body,'',1100,3))"/>
+<!--τῆς-->
+<mark id="t_178" xlink:href="#xpointer(string-range(//body,'',1104,7))"/>
+<!--Εὐρώπης-->
+<mark id="t_179" xlink:href="#xpointer(string-range(//body,'',1112,3))"/>
+<!--τῶν-->
+<mark id="t_180" xlink:href="#xpointer(string-range(//body,'',1116,3))"/>
+<!--τοῦ-->
+<mark id="t_181" xlink:href="#xpointer(string-range(//body,'',1120,6))"/>
+<!--Πόντου-->
+<mark id="t_182" xlink:href="#xpointer(string-range(//body,'',1127,5))"/>
+<!--μερῶν-->
+<mark id="t_183" xlink:href="#xpointer(string-range(//body,'',1133,3))"/>
+<!--τῆς-->
+<mark id="t_184" xlink:href="#xpointer(string-range(//body,'',1137,2))"/>
+<!--ἐν-->
+<mark id="t_185" xlink:href="#xpointer(string-range(//body,'',1140,2))"/>
+<!--τῷ-->
+<mark id="t_186" xlink:href="#xpointer(string-range(//body,'',1143,6))"/>
+<!--στομίῳ-->
+<mark id="t_187" xlink:href="#xpointer(string-range(//body,'',1150,3))"/>
+<!--τῆς-->
+<mark id="t_188" xlink:href="#xpointer(string-range(//body,'',1154,9))"/>
+<!--Μαιώτιδος-->
+<mark id="t_189" xlink:href="#xpointer(string-range(//body,'',1164,6))"/>
+<!--λίμνης-->
+<mark id="t_190" xlink:href="#xpointer(string-range(//body,'',1171,4))"/>
+<!--ἤτοι-->
+<mark id="t_191" xlink:href="#xpointer(string-range(//body,'',1176,8))"/>
+<!--Βοσπόρου-->
+<mark id="t_192" xlink:href="#xpointer(string-range(//body,'',1185,3))"/>
+<!--τοῦ-->
+<mark id="t_193" xlink:href="#xpointer(string-range(//body,'',1189,9))"/>
+<!--Κιμμερίου-->
+<mark id="t_194" xlink:href="#xpointer(string-range(//body,'',1199,10))"/>
+<!--καλουμένου-->
+<mark id="t_195" xlink:href="#xpointer(string-range(//body,'',1210,1))"/>
+<!--,-->
+<mark id="t_196" xlink:href="#xpointer(string-range(//body,'',1212,6))"/>
+<!--στάδια-->
+<mark id="t_197" xlink:href="#xpointer(string-range(//body,'',1219,5))"/>
+<!--μύρια-->
+<mark id="t_198" xlink:href="#xpointer(string-range(//body,'',1225,5))"/>
+<!--χίλια-->
+<mark id="t_199" xlink:href="#xpointer(string-range(//body,'',1231,6))"/>
+<!--ἑκατόν-->
+<mark id="t_200" xlink:href="#xpointer(string-range(//body,'',1238,1))"/>
+<!--,-->
+<mark id="t_201" xlink:href="#xpointer(string-range(//body,'',1240,5))"/>
+<!--μίλια-->
+<mark id="t_202" xlink:href="#xpointer(string-range(//body,'',1246,5))"/>
+<!--χίλια-->
+<mark id="t_203" xlink:href="#xpointer(string-range(//body,'',1252,10))"/>
+<!--τετρακόσια-->
+<mark id="t_204" xlink:href="#xpointer(string-range(//body,'',1263,10))"/>
+<!--ὀγδοήκοντα-->
+<mark id="e_9" xlink:href="#xpointer(string-range(//body,'',1274,3))"/>
+<!--[0]-->
+<mark id="t_205" xlink:href="#xpointer(string-range(//body,'',1278,1))"/>
+<!--.-->
+<mark id="t_206" xlink:href="#xpointer(string-range(//body,'',1280,7))"/>
+<!--Λέγεται-->
+<mark id="t_207" xlink:href="#xpointer(string-range(//body,'',1288,2))"/>
+<!--δὲ-->
+<mark id="t_208" xlink:href="#xpointer(string-range(//body,'',1291,3))"/>
+<!--τῆς-->
+<mark id="t_209" xlink:href="#xpointer(string-range(//body,'',1295,7))"/>
+<!--Εὐρώπης-->
+<mark id="t_210" xlink:href="#xpointer(string-range(//body,'',1303,3))"/>
+<!--τῆς-->
+<mark id="t_211" xlink:href="#xpointer(string-range(//body,'',1307,8))"/>
+<!--Ποντικῆς-->
+<mark id="t_212" xlink:href="#xpointer(string-range(//body,'',1316,1))"/>
+<!--ὁ-->
+<mark id="t_213" xlink:href="#xpointer(string-range(//body,'',1318,9))"/>
+<!--περίπλους-->
+<mark id="t_214" xlink:href="#xpointer(string-range(//body,'',1328,4))"/>
+<!--ἴσος-->
+<mark id="t_215" xlink:href="#xpointer(string-range(//body,'',1333,5))"/>
+<!--εἶναι-->
+<mark id="t_216" xlink:href="#xpointer(string-range(//body,'',1339,2))"/>
+<!--τῶ-->
+<mark id="t_217" xlink:href="#xpointer(string-range(//body,'',1342,7))"/>
+<!--περίπλῳ-->
+<mark id="t_218" xlink:href="#xpointer(string-range(//body,'',1350,3))"/>
+<!--τῶν-->
+<mark id="t_219" xlink:href="#xpointer(string-range(//body,'',1354,3))"/>
+<!--τῆς-->
+<mark id="t_220" xlink:href="#xpointer(string-range(//body,'',1358,5))"/>
+<!--Ἀσίας-->
+<mark id="t_221" xlink:href="#xpointer(string-range(//body,'',1364,5))"/>
+<!--μερῶν-->
+<mark id="t_222" xlink:href="#xpointer(string-range(//body,'',1370,1))"/>
+<!--.-->
+<mark id="t_223" xlink:href="#xpointer(string-range(//body,'',1372,1))"/>
+<!--4-->
+<mark id="e_10" xlink:href="#xpointer(string-range(//body,'',1374,3))"/>
+<!--[0]-->
+<mark id="t_224" xlink:href="#xpointer(string-range(//body,'',1378,1))"/>
+<!--.-->
+<mark id="t_225" xlink:href="#xpointer(string-range(//body,'',1380,3))"/>
+<!--Ἀπὸ-->
+<mark id="t_226" xlink:href="#xpointer(string-range(//body,'',1384,2))"/>
+<!--δὲ-->
+<mark id="t_227" xlink:href="#xpointer(string-range(//body,'',1387,3))"/>
+<!--τοῦ-->
+<mark id="t_228" xlink:href="#xpointer(string-range(//body,'',1391,5))"/>
+<!--Ἱεροῦ-->
+<mark id="t_229" xlink:href="#xpointer(string-range(//body,'',1397,4))"/>
+<!--Διὸς-->
+<mark id="t_230" xlink:href="#xpointer(string-range(//body,'',1402,6))"/>
+<!--Οὐρίου-->
+<mark id="t_231" xlink:href="#xpointer(string-range(//body,'',1409,3))"/>
+<!--ἕως-->
+<mark id="t_232" xlink:href="#xpointer(string-range(//body,'',1413,6))"/>
+<!--Ἀμισοῦ-->
+<mark id="t_233" xlink:href="#xpointer(string-range(//body,'',1420,6))"/>
+<!--στάδια-->
+<mark id="t_234" xlink:href="#xpointer(string-range(//body,'',1427,13))"/>
+<!--τετρακισχίλια-->
+<mark id="t_235" xlink:href="#xpointer(string-range(//body,'',1441,8))"/>
+<!--ἑξακόσια-->
+<mark id="t_236" xlink:href="#xpointer(string-range(//body,'',1450,8))"/>
+<!--ἐξήκοντα-->
+<mark id="t_237" xlink:href="#xpointer(string-range(//body,'',1459,1))"/>
+<!--,-->
+<mark id="t_238" xlink:href="#xpointer(string-range(//body,'',1461,5))"/>
+<!--μίλια-->
+<mark id="t_239" xlink:href="#xpointer(string-range(//body,'',1467,8))"/>
+<!--ἑξακόσια-->
+<mark id="t_240" xlink:href="#xpointer(string-range(//body,'',1476,8))"/>
+<!--εἰκοσιὲν-->
+<mark id="t_241" xlink:href="#xpointer(string-range(//body,'',1485,5))"/>
+<!--ἥμισυ-->
+<mark id="e_11" xlink:href="#xpointer(string-range(//body,'',1491,3))"/>
+<!--[0]-->
+<mark id="t_242" xlink:href="#xpointer(string-range(//body,'',1495,1))"/>
+<!--.-->
+<mark id="t_243" xlink:href="#xpointer(string-range(//body,'',1497,3))"/>
+<!--Ἀπὸ-->
+<mark id="t_244" xlink:href="#xpointer(string-range(//body,'',1501,2))"/>
+<!--δὲ-->
+<mark id="t_245" xlink:href="#xpointer(string-range(//body,'',1504,6))"/>
+<!--Ἀμισοῦ-->
+<mark id="t_246" xlink:href="#xpointer(string-range(//body,'',1511,3))"/>
+<!--ἕως-->
+<mark id="t_247" xlink:href="#xpointer(string-range(//body,'',1515,3))"/>
+<!--τοῦ-->
+<mark id="t_248" xlink:href="#xpointer(string-range(//body,'',1519,6))"/>
+<!--Φάσεως-->
+<mark id="t_249" xlink:href="#xpointer(string-range(//body,'',1526,7))"/>
+<!--ποταμοῦ-->
+<mark id="t_250" xlink:href="#xpointer(string-range(//body,'',1534,6))"/>
+<!--στάδια-->
+<mark id="t_251" xlink:href="#xpointer(string-range(//body,'',1541,9))"/>
+<!--τρισχίλια-->
+<mark id="t_252" xlink:href="#xpointer(string-range(//body,'',1551,9))"/>
+<!--ὀκτακόσια-->
+<mark id="t_253" xlink:href="#xpointer(string-range(//body,'',1561,3))"/>
+<!--δύο-->
+<mark id="t_254" xlink:href="#xpointer(string-range(//body,'',1565,1))"/>
+<!--,-->
+<mark id="t_255" xlink:href="#xpointer(string-range(//body,'',1567,5))"/>
+<!--μίλια-->
+<mark id="t_256" xlink:href="#xpointer(string-range(//body,'',1573,10))"/>
+<!--πεντακόσια-->
+<mark id="t_257" xlink:href="#xpointer(string-range(//body,'',1584,4))"/>
+<!--ἑπτά-->
+<mark id="e_12" xlink:href="#xpointer(string-range(//body,'',1589,3))"/>
+<!--[0]-->
+<mark id="t_258" xlink:href="#xpointer(string-range(//body,'',1593,1))"/>
+<!--.-->
+<mark id="t_259" xlink:href="#xpointer(string-range(//body,'',1595,3))"/>
+<!--Ἀπὸ-->
+<mark id="t_260" xlink:href="#xpointer(string-range(//body,'',1599,2))"/>
+<!--δὲ-->
+<mark id="t_261" xlink:href="#xpointer(string-range(//body,'',1602,3))"/>
+<!--τοῦ-->
+<mark id="t_262" xlink:href="#xpointer(string-range(//body,'',1606,6))"/>
+<!--Φάσεως-->
+<mark id="t_263" xlink:href="#xpointer(string-range(//body,'',1613,7))"/>
+<!--ποταμοῦ-->
+<mark id="t_264" xlink:href="#xpointer(string-range(//body,'',1621,3))"/>
+<!--ἕως-->
+<mark id="t_265" xlink:href="#xpointer(string-range(//body,'',1625,3))"/>
+<!--τοῦ-->
+<mark id="t_266" xlink:href="#xpointer(string-range(//body,'',1629,8))"/>
+<!--στόματος-->
+<mark id="t_267" xlink:href="#xpointer(string-range(//body,'',1638,3))"/>
+<!--τῆς-->
+<mark id="t_268" xlink:href="#xpointer(string-range(//body,'',1642,9))"/>
+<!--Μαιώτιδος-->
+<mark id="t_269" xlink:href="#xpointer(string-range(//body,'',1652,6))"/>
+<!--λίμνης-->
+<mark id="t_270" xlink:href="#xpointer(string-range(//body,'',1659,4))"/>
+<!--ἤτοι-->
+<mark id="t_271" xlink:href="#xpointer(string-range(//body,'',1664,3))"/>
+<!--ἕως-->
+<mark id="t_272" xlink:href="#xpointer(string-range(//body,'',1668,3))"/>
+<!--τῆς-->
+<mark id="t_273" xlink:href="#xpointer(string-range(//body,'',1672,9))"/>
+<!--Ἀχιλλείου-->
+<mark id="t_274" xlink:href="#xpointer(string-range(//body,'',1682,5))"/>
+<!--κώμης-->
+<mark id="t_275" xlink:href="#xpointer(string-range(//body,'',1688,6))"/>
+<!--στάδια-->
+<mark id="t_276" xlink:href="#xpointer(string-range(//body,'',1695,13))"/>
+<!--τετρακισχίλια-->
+<mark id="t_277" xlink:href="#xpointer(string-range(//body,'',1709,6))"/>
+<!--εἴκοσι-->
+<mark id="t_278" xlink:href="#xpointer(string-range(//body,'',1716,5))"/>
+<!--πέντε-->
+<mark id="t_279" xlink:href="#xpointer(string-range(//body,'',1722,1))"/>
+<!--,-->
+<mark id="t_280" xlink:href="#xpointer(string-range(//body,'',1724,5))"/>
+<!--μίλια-->
+<mark id="t_281" xlink:href="#xpointer(string-range(//body,'',1730,10))"/>
+<!--πεντακόσια-->
+<mark id="t_282" xlink:href="#xpointer(string-range(//body,'',1741,11))"/>
+<!--τριακονταὲξ-->
+<mark id="t_283" xlink:href="#xpointer(string-range(//body,'',1753,5))"/>
+<!--ἥμισυ-->
+<mark id="t_284" xlink:href="#xpointer(string-range(//body,'',1759,1))"/>
+<!--,-->
+<mark id="t_285" xlink:href="#xpointer(string-range(//body,'',1761,2))"/>
+<!--ὡς-->
+<mark id="t_286" xlink:href="#xpointer(string-range(//body,'',1764,8))"/>
+<!--γίνεσθαι-->
+<mark id="t_287" xlink:href="#xpointer(string-range(//body,'',1773,3))"/>
+<!--ἀπὸ-->
+<mark id="t_288" xlink:href="#xpointer(string-range(//body,'',1777,3))"/>
+<!--τοῦ-->
+<mark id="t_289" xlink:href="#xpointer(string-range(//body,'',1781,5))"/>
+<!--Ἱεροῦ-->
+<mark id="t_290" xlink:href="#xpointer(string-range(//body,'',1787,4))"/>
+<!--Διὸς-->
+<mark id="t_291" xlink:href="#xpointer(string-range(//body,'',1792,6))"/>
+<!--Οὐρίου-->
+<mark id="t_292" xlink:href="#xpointer(string-range(//body,'',1799,3))"/>
+<!--ἕως-->
+<mark id="t_293" xlink:href="#xpointer(string-range(//body,'',1803,3))"/>
+<!--τοῦ-->
+<mark id="t_294" xlink:href="#xpointer(string-range(//body,'',1807,8))"/>
+<!--στόματος-->
+<mark id="t_295" xlink:href="#xpointer(string-range(//body,'',1816,3))"/>
+<!--τῆς-->
+<mark id="t_296" xlink:href="#xpointer(string-range(//body,'',1820,9))"/>
+<!--Μαιώτιδος-->
+<mark id="t_297" xlink:href="#xpointer(string-range(//body,'',1830,6))"/>
+<!--λίμνης-->
+<mark id="t_298" xlink:href="#xpointer(string-range(//body,'',1837,6))"/>
+<!--στάδια-->
+<mark id="t_299" xlink:href="#xpointer(string-range(//body,'',1844,5))"/>
+<!--μύρια-->
+<mark id="t_300" xlink:href="#xpointer(string-range(//body,'',1850,3))"/>
+<!--δισ-->
+<mark id="t_301" xlink:href="#xpointer(string-range(//body,'',1854,5))"/>
+<!--χίλια-->
+<mark id="t_302" xlink:href="#xpointer(string-range(//body,'',1860,10))"/>
+<!--τετρακόσια-->
+<mark id="t_303" xlink:href="#xpointer(string-range(//body,'',1871,10))"/>
+<!--ὀγδοήκοντα-->
+<mark id="t_304" xlink:href="#xpointer(string-range(//body,'',1882,4))"/>
+<!--ἑπτὰ-->
+<mark id="t_305" xlink:href="#xpointer(string-range(//body,'',1887,1))"/>
+<!--,-->
+<mark id="t_306" xlink:href="#xpointer(string-range(//body,'',1889,5))"/>
+<!--μίλια-->
+<mark id="t_307" xlink:href="#xpointer(string-range(//body,'',1895,5))"/>
+<!--χίλια-->
+<mark id="t_308" xlink:href="#xpointer(string-range(//body,'',1901,8))"/>
+<!--ἑξακόσια-->
+<mark id="t_309" xlink:href="#xpointer(string-range(//body,'',1910,8))"/>
+<!--ἐξήκοντα-->
+<mark id="t_310" xlink:href="#xpointer(string-range(//body,'',1919,5))"/>
+<!--πέντε-->
+<mark id="t_311" xlink:href="#xpointer(string-range(//body,'',1925,5))"/>
+<!--ἥμισυ-->
+<mark id="e_13" xlink:href="#xpointer(string-range(//body,'',1931,3))"/>
+<!--[0]-->
+<mark id="t_312" xlink:href="#xpointer(string-range(//body,'',1935,1))"/>
+<!--.-->
+<mark id="t_313" xlink:href="#xpointer(string-range(//body,'',1937,1))"/>
+<!--5-->
+<mark id="t_314" xlink:href="#xpointer(string-range(//body,'',1939,1))"/>
+<!--.-->
+<mark id="t_315" xlink:href="#xpointer(string-range(//body,'',1941,4))"/>
+<!--Ὁμοῦ-->
+<mark id="t_316" xlink:href="#xpointer(string-range(//body,'',1946,7))"/>
+<!--γίνεται-->
+<mark id="t_317" xlink:href="#xpointer(string-range(//body,'',1954,1))"/>
+<!--ὁ-->
+<mark id="t_318" xlink:href="#xpointer(string-range(//body,'',1956,9))"/>
+<!--περίπλους-->
+<mark id="t_319" xlink:href="#xpointer(string-range(//body,'',1966,3))"/>
+<!--τοῦ-->
+<mark id="t_320" xlink:href="#xpointer(string-range(//body,'',1970,8))"/>
+<!--Εὐξείνου-->
+<mark id="t_321" xlink:href="#xpointer(string-range(//body,'',1979,6))"/>
+<!--Πόντου-->
+<mark id="t_322" xlink:href="#xpointer(string-range(//body,'',1986,1))"/>
+<!--,-->
+<mark id="t_323" xlink:href="#xpointer(string-range(//body,'',1988,3))"/>
+<!--τῶν-->
+<mark id="t_324" xlink:href="#xpointer(string-range(//body,'',1992,2))"/>
+<!--τε-->
+<mark id="t_325" xlink:href="#xpointer(string-range(//body,'',1995,6))"/>
+<!--δεξιῶν-->
+<mark id="t_326" xlink:href="#xpointer(string-range(//body,'',2002,3))"/>
+<!--τῶν-->
+<mark id="t_327" xlink:href="#xpointer(string-range(//body,'',2006,4))"/>
+<!--παρὰ-->
+<mark id="t_328" xlink:href="#xpointer(string-range(//body,'',2011,3))"/>
+<!--τὴν-->
+<mark id="t_329" xlink:href="#xpointer(string-range(//body,'',2015,5))"/>
+<!--Ἀσίαν-->
+<mark id="t_330" xlink:href="#xpointer(string-range(//body,'',2021,5))"/>
+<!--μερῶν-->
+<mark id="t_331" xlink:href="#xpointer(string-range(//body,'',2027,3))"/>
+<!--τοῦ-->
+<mark id="t_332" xlink:href="#xpointer(string-range(//body,'',2031,6))"/>
+<!--Πόντου-->
+<mark id="t_333" xlink:href="#xpointer(string-range(//body,'',2038,1))"/>
+<!--,-->
+<mark id="t_334" xlink:href="#xpointer(string-range(//body,'',2040,9))"/>
+<!--ἀριστερῶν-->
+<mark id="t_335" xlink:href="#xpointer(string-range(//body,'',2050,2))"/>
+<!--δὲ-->
+<mark id="t_336" xlink:href="#xpointer(string-range(//body,'',2053,3))"/>
+<!--τῶν-->
+<mark id="t_337" xlink:href="#xpointer(string-range(//body,'',2057,4))"/>
+<!--παρὰ-->
+<mark id="t_338" xlink:href="#xpointer(string-range(//body,'',2062,3))"/>
+<!--τὴν-->
+<mark id="t_339" xlink:href="#xpointer(string-range(//body,'',2066,7))"/>
+<!--Εὐρώπην-->
+<mark id="t_340" xlink:href="#xpointer(string-range(//body,'',2074,5))"/>
+<!--μερῶν-->
+<mark id="t_341" xlink:href="#xpointer(string-range(//body,'',2080,3))"/>
+<!--τοῦ-->
+<mark id="t_342" xlink:href="#xpointer(string-range(//body,'',2084,6))"/>
+<!--Πόντου-->
+<mark id="t_343" xlink:href="#xpointer(string-range(//body,'',2091,1))"/>
+<!--,-->
+<mark id="t_344" xlink:href="#xpointer(string-range(//body,'',2093,3))"/>
+<!--ἀπὸ-->
+<mark id="t_345" xlink:href="#xpointer(string-range(//body,'',2097,3))"/>
+<!--τοῦ-->
+<mark id="t_346" xlink:href="#xpointer(string-range(//body,'',2101,5))"/>
+<!--Ἱεροῦ-->
+<mark id="t_347" xlink:href="#xpointer(string-range(//body,'',2107,4))"/>
+<!--Διὸς-->
+<mark id="t_348" xlink:href="#xpointer(string-range(//body,'',2112,6))"/>
+<!--Οὐρίου-->
+<mark id="t_349" xlink:href="#xpointer(string-range(//body,'',2119,1))"/>
+<!--,-->
+<mark id="t_350" xlink:href="#xpointer(string-range(//body,'',2121,6))"/>
+<!--στάδια-->
+<mark id="t_351" xlink:href="#xpointer(string-range(//body,'',2128,8))"/>
+<!--δισμύρια-->
+<mark id="t_352" xlink:href="#xpointer(string-range(//body,'',2137,9))"/>
+<!--τρισχίλια-->
+<mark id="t_353" xlink:href="#xpointer(string-range(//body,'',2147,10))"/>
+<!--πεντακόσια-->
+<mark id="t_354" xlink:href="#xpointer(string-range(//body,'',2158,10))"/>
+<!--ὀγδοήκοντα-->
+<mark id="t_355" xlink:href="#xpointer(string-range(//body,'',2169,4))"/>
+<!--ἑπτὰ-->
+<mark id="t_356" xlink:href="#xpointer(string-range(//body,'',2174,1))"/>
+<!--,-->
+<mark id="t_357" xlink:href="#xpointer(string-range(//body,'',2176,5))"/>
+<!--μίλια-->
+<mark id="t_358" xlink:href="#xpointer(string-range(//body,'',2182,9))"/>
+<!--τρισχίλια-->
+<mark id="t_359" xlink:href="#xpointer(string-range(//body,'',2192,6))"/>
+<!--ἑκατὸν-->
+<mark id="t_360" xlink:href="#xpointer(string-range(//body,'',2199,12))"/>
+<!--τεσσαράκοντα-->
+<mark id="t_361" xlink:href="#xpointer(string-range(//body,'',2212,5))"/>
+<!--πέντε-->
+<mark id="t_362" xlink:href="#xpointer(string-range(//body,'',2218,1))"/>
+<!--.-->
+<mark id="t_363" xlink:href="#xpointer(string-range(//body,'',2220,4))"/>
+<!--Ἔστι-->
+<mark id="t_364" xlink:href="#xpointer(string-range(//body,'',2225,2))"/>
+<!--δὲ-->
+<mark id="t_365" xlink:href="#xpointer(string-range(//body,'',2228,3))"/>
+<!--καὶ-->
+<mark id="t_366" xlink:href="#xpointer(string-range(//body,'',2232,1))"/>
+<!--ὁ-->
+<mark id="t_367" xlink:href="#xpointer(string-range(//body,'',2234,9))"/>
+<!--περίπλους-->
+<mark id="t_368" xlink:href="#xpointer(string-range(//body,'',2244,3))"/>
+<!--τῆς-->
+<mark id="t_369" xlink:href="#xpointer(string-range(//body,'',2248,9))"/>
+<!--Μαιώτιδος-->
+<mark id="t_370" xlink:href="#xpointer(string-range(//body,'',2258,6))"/>
+<!--λίμνης-->
+<mark id="t_371" xlink:href="#xpointer(string-range(//body,'',2265,6))"/>
+<!--στάδια-->
+<mark id="t_372" xlink:href="#xpointer(string-range(//body,'',2272,12))"/>
+<!--ἐννακισχίλια-->
+<mark id="t_373" xlink:href="#xpointer(string-range(//body,'',2285,1))"/>
+<!--.-->
+<mark id="t_374" xlink:href="#xpointer(string-range(//body,'',2287,5))"/>
+<!--μίλια-->
+<mark id="t_375" xlink:href="#xpointer(string-range(//body,'',2293,5))"/>
+<!--χίλια-->
+<mark id="t_376" xlink:href="#xpointer(string-range(//body,'',2299,8))"/>
+<!--διακόσια-->
+<mark id="e_14" xlink:href="#xpointer(string-range(//body,'',2308,3))"/>
+<!--[0]-->
+<mark id="t_377" xlink:href="#xpointer(string-range(//body,'',2312,1))"/>
+<!--.-->
+<mark id="t_378" xlink:href="#xpointer(string-range(//body,'',2314,1))"/>
+<!--6-->
+<mark id="t_379" xlink:href="#xpointer(string-range(//body,'',2316,1))"/>
+<!--.-->
+<mark id="t_380" xlink:href="#xpointer(string-range(//body,'',2318,4))"/>
+<!--Περὶ-->
+<mark id="t_381" xlink:href="#xpointer(string-range(//body,'',2323,3))"/>
+<!--τοῦ-->
+<mark id="t_382" xlink:href="#xpointer(string-range(//body,'',2327,7))"/>
+<!--σταδίου-->
+<mark id="t_383" xlink:href="#xpointer(string-range(//body,'',2335,1))"/>
+<!--.-->
+<mark id="t_384" xlink:href="#xpointer(string-range(//body,'',2337,2))"/>
+<!--Τὸ-->
+<mark id="t_385" xlink:href="#xpointer(string-range(//body,'',2340,7))"/>
+<!--στάδιον-->
+<mark id="t_386" xlink:href="#xpointer(string-range(//body,'',2348,6))"/>
+<!--πήχεις-->
+<mark id="t_387" xlink:href="#xpointer(string-range(//body,'',2355,4))"/>
+<!--ἔχει-->
+<mark id="t_388" xlink:href="#xpointer(string-range(//body,'',2360,12))"/>
+<!--τετρακοσίους-->
+<mark id="t_389" xlink:href="#xpointer(string-range(//body,'',2373,1))"/>
+<!--,-->
+<mark id="t_390" xlink:href="#xpointer(string-range(//body,'',2375,5))"/>
+<!--πόδας-->
+<mark id="t_391" xlink:href="#xpointer(string-range(//body,'',2381,11))"/>
+<!--ὀκτακοσίους-->
+<mark id="t_392" xlink:href="#xpointer(string-range(//body,'',2393,1))"/>
+<!--,-->
+<mark id="t_393" xlink:href="#xpointer(string-range(//body,'',2395,7))"/>
+<!--ὀργυιὰς-->
+<mark id="t_394" xlink:href="#xpointer(string-range(//body,'',2403,6))"/>
+<!--ἑκατὸν-->
+<mark id="t_395" xlink:href="#xpointer(string-range(//body,'',2410,9))"/>
+<!--τριάκοντα-->
+<mark id="t_396" xlink:href="#xpointer(string-range(//body,'',2420,5))"/>
+<!--τρεῖς-->
+<mark id="t_397" xlink:href="#xpointer(string-range(//body,'',2426,5))"/>
+<!--ἥμισυ-->
+<mark id="t_398" xlink:href="#xpointer(string-range(//body,'',2432,1))"/>
+<!--.-->
+<mark id="t_399" xlink:href="#xpointer(string-range(//body,'',2434,1))"/>
+<!--7-->
+<mark id="e_15" xlink:href="#xpointer(string-range(//body,'',2436,3))"/>
+<!--[0]-->
+<mark id="t_400" xlink:href="#xpointer(string-range(//body,'',2440,1))"/>
+<!--.-->
+<mark id="t_401" xlink:href="#xpointer(string-range(//body,'',2442,4))"/>
+<!--Περὶ-->
+<mark id="t_402" xlink:href="#xpointer(string-range(//body,'',2447,3))"/>
+<!--τοῦ-->
+<mark id="t_403" xlink:href="#xpointer(string-range(//body,'',2451,6))"/>
+<!--μιλίου-->
+<mark id="t_404" xlink:href="#xpointer(string-range(//body,'',2458,1))"/>
+<!--.-->
+<mark id="t_405" xlink:href="#xpointer(string-range(//body,'',2460,2))"/>
+<!--Τὸ-->
+<mark id="t_406" xlink:href="#xpointer(string-range(//body,'',2463,6))"/>
+<!--μίλιον-->
+<mark id="t_407" xlink:href="#xpointer(string-range(//body,'',2470,4))"/>
+<!--ἔχει-->
+<mark id="t_408" xlink:href="#xpointer(string-range(//body,'',2475,6))"/>
+<!--στάδια-->
+<mark id="t_409" xlink:href="#xpointer(string-range(//body,'',2482,4))"/>
+<!--ἑπτὰ-->
+<mark id="t_410" xlink:href="#xpointer(string-range(//body,'',2487,5))"/>
+<!--ἥμισυ-->
+<mark id="t_411" xlink:href="#xpointer(string-range(//body,'',2493,1))"/>
+<!--,-->
+<mark id="t_412" xlink:href="#xpointer(string-range(//body,'',2495,6))"/>
+<!--πήχεις-->
+<mark id="t_413" xlink:href="#xpointer(string-range(//body,'',2502,11))"/>
+<!--τρισχιλίους-->
+<mark id="t_414" xlink:href="#xpointer(string-range(//body,'',2514,1))"/>
+<!--,-->
+<mark id="t_415" xlink:href="#xpointer(string-range(//body,'',2516,5))"/>
+<!--πόδας-->
+<mark id="t_416" xlink:href="#xpointer(string-range(//body,'',2522,13))"/>
+<!--ἑξακισχιλίους-->
+<mark id="t_417" xlink:href="#xpointer(string-range(//body,'',2536,1))"/>
+<!--.-->
+<mark id="t_418" xlink:href="#xpointer(string-range(//body,'',2538,1))"/>
+<!--8-->
+<mark id="e_16" xlink:href="#xpointer(string-range(//body,'',2540,3))"/>
+<!--[0]-->
+<mark id="t_419" xlink:href="#xpointer(string-range(//body,'',2544,1))"/>
+<!--.-->
+<mark id="t_420" xlink:href="#xpointer(string-range(//body,'',2546,4))"/>
+<!--Περὶ-->
+<mark id="t_421" xlink:href="#xpointer(string-range(//body,'',2551,3))"/>
+<!--τοῦ-->
+<mark id="t_422" xlink:href="#xpointer(string-range(//body,'',2555,8))"/>
+<!--ἐνιαυτοῦ-->
+<mark id="t_423" xlink:href="#xpointer(string-range(//body,'',2564,1))"/>
+<!--.-->
+<mark id="t_424" xlink:href="#xpointer(string-range(//body,'',2566,4))"/>
+<!--Ἅπας-->
+<mark id="t_425" xlink:href="#xpointer(string-range(//body,'',2571,4))"/>
+<!--ἔχει-->
+<mark id="t_426" xlink:href="#xpointer(string-range(//body,'',2576,4))"/>
+<!--ὥρας-->
+<mark id="t_427" xlink:href="#xpointer(string-range(//body,'',2581,13))"/>
+<!--ὀκτακισχιλίας-->
+<mark id="t_428" xlink:href="#xpointer(string-range(//body,'',2595,10))"/>
+<!--ἑπτακοσίας-->
+<mark id="t_429" xlink:href="#xpointer(string-range(//body,'',2606,8))"/>
+<!--ἐξήκοντα-->
+<mark id="t_430" xlink:href="#xpointer(string-range(//body,'',2615,2))"/>
+<!--ἓξ-->
+<mark id="t_431" xlink:href="#xpointer(string-range(//body,'',2618,1))"/>
+<!--,-->
+<mark id="t_432" xlink:href="#xpointer(string-range(//body,'',2620,6))"/>
+<!--ἡμέρας-->
+<mark id="t_433" xlink:href="#xpointer(string-range(//body,'',2627,10))"/>
+<!--τριακοσίας-->
+<mark id="t_434" xlink:href="#xpointer(string-range(//body,'',2638,8))"/>
+<!--ἑξήκοντα-->
+<mark id="t_435" xlink:href="#xpointer(string-range(//body,'',2647,5))"/>
+<!--πέντε-->
+<mark id="t_436" xlink:href="#xpointer(string-range(//body,'',2653,3))"/>
+<!--καὶ-->
+<mark id="t_437" xlink:href="#xpointer(string-range(//body,'',2657,8))"/>
+<!--τέταρτον-->
+<mark id="t_438" xlink:href="#xpointer(string-range(//body,'',2666,1))"/>
+<!--.-->
+</markList>
+</paula>
+

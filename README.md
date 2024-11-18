@@ -21,9 +21,11 @@ are made available on Zenodo at
 
 * https://doi.org/10.5281/zenodo.8158675
 
-The data can be queried via the Annis search tool at:
+The data can be queried (also) through the Annis search tool at:
 
-* https://annis.varro.informatik.uni-leipzig.de/
+* https://annis.varro.informatik.uni-leipzig.de/oga020
+
+To know more about how to query the corpus with Annis, see the documentation in the folder `query_values`.
 
 An overview of the corpus can be read on the accompanying website at
 
@@ -31,7 +33,7 @@ An overview of the corpus can be read on the accompanying website at
 
 The present repository contains a few
 useful manually annotated files used to create annotations in OGA, 
-whose error correction anyone can contribute to. 
+whose expansion and correction anyone can contribute to. 
 
 The corpus can be queried by:
 
@@ -46,8 +48,6 @@ The corpus can be queried by:
 8. alleged composition date for each work
 9. IPA transcription of word forms
 
-To know more about how to query the corpus see the documentation in the folder `query_values`.
-
 The present repository is organized thus (further details within each folder):
 1. `abbreviations` contains a file useful for tokenization.
 2. `annotation_example` contains an unzipped example of the
@@ -56,8 +56,8 @@ annotation layers, which is useful for inspection.
 4. `tokenize` contains files used for tokenization.
 5. `urn_cts` contains files with bibliographic information
 about the texts in OGA.
-6. `work_chronology` contains a file with the alleged composition dates
-of Greek works. This file has not been used for OGAv0.1.0.
+6. `work_chronology` contains a manually annotated file with the alleged composition dates
+of Greek works.
 
 ## Citation
 

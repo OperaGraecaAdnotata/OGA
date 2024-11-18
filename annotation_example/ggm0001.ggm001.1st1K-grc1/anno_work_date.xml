@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "../../paula_dtd/paula_feat.dtd">
+<paula version="1.1">
+  <header paula_id="anno_work_date"/>
+  <featList xmlns:xlink="http://www.w3.org/1999/xlink" type="work_date" xml:base="anno.xml">
+    <feat xlink:href="#anno" value="p1_2/p2_1/p2_2/p3_1/p3_2/p4_1/p4_2"/>
+  </featList>
+</paula>

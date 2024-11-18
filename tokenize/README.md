@@ -31,9 +31,3 @@ the Unicode codepoint COMBINING COMMA ABOVE (U+0313) have to be checked because
 errors in the original texts return a few wrong results: this is especially
 true when there is no whitespace between two graphic words and the second one
 happens to start with a vowel with smooth breathing.
-
-- [ ] The tokenization scheme in the Ancient Greek Dependency Treebank (which
-*Opera Graeca Adnotata* is based on for the morphosyntactic annotation) is not
-always consistent within itself and with that of *Opera Graeca Adnotata*
-(this mostly applies to conjunctions such as, for example, οὔτε). A
-normalization of the treebank data is required.

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE laula SYSTEM "../../laula_dtd/laula_feat.dtd">
-<laula version="1.0">
-  <header laula_id="anno_urn_cts"/>
-  <featList xmlns:x="http://www.w3.org/1999/xlink" type="urn_cts" xml:base="anno.xml">
-    <f xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#anno" v="ggm0001.ggm001.1st1K-grc1"/>
+<!DOCTYPE paula SYSTEM "../../paula_dtd/paula_feat.dtd">
+<paula version="1.1">
+  <header paula_id="anno_urn_cts"/>
+  <featList xmlns:xlink="http://www.w3.org/1999/xlink" type="urn_cts" xml:base="anno.xml">
+    <feat xlink:href="#anno" value="ggm0001.ggm001.1st1K-grc1"/>
   </featList>
-</laula>
+</paula>
