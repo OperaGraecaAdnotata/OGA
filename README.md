@@ -16,7 +16,7 @@ The Ancient Greek works comprised in OGA are listed in
 * [PatristicTextArchive (release 1.1.11363682704)](https://github.com/PatristicTextArchive/pta_data/releases/tag/1.1.11363682704)
 
 Because of the corpus large size,
-the actual corpus data + its documentation
+the actual corpus data and its documentation
 are made available on Zenodo at
 
 * https://doi.org/10.5281/zenodo.8158675
