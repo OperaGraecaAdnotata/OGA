@@ -42,7 +42,7 @@ The corpus can be queried by:
 
 1. word form (i.e., token)
 2. lemma
-3. morphology (POS and morphological features):
+3. morphology (POS and morphological features)
 4. syntax (dependency syntax following the AGDT annotation scheme)
 5. CTS URN for work, author, and edition.
 6. CTS passage for each work (e.g., "book", "section", etc.) 
