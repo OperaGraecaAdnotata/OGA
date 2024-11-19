@@ -47,7 +47,7 @@ The corpus can be queried by:
 6. author name
 7. work title
 8. alleged composition date for each work
-9. IPA transcription of word forms
+9. (experimental) IPA transcription of word forms (classical pronunciation)
 
 The morphosyntactic annotation and lemmatization are the outputs of
 (i) a parser and (ii) lemmatizer trained on 1,2M+ tokens of AGDT data 
@@ -70,7 +70,8 @@ contain errors and inconsistencies).
 The annotation for the work date has been done manually and is work-in-progress.
 
 The IPA transcription is based on a Seq2Seq model that achieved an accuracy
-of **0.83** (correct IPA transcriptions). 
+of **0.83** (correct IPA transcriptions) on Greek and Latin data 
+from Wikitionary.
 
 The present repository is organized thus (further details within each folder):
 1. `abbreviations` contains a file useful for tokenization.
