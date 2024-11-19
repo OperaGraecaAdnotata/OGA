@@ -467,7 +467,7 @@ for the work with CTS URN `pta0001.pta002.pta-grc1` are, respectively,
       <td>pta0003.pta009.pta-grc1</td>
       <td>Eusebius of Caesarea</td>
       <td>De ecclesiastica theologia</td>
-      <td>urn:cts:pta:pta0003.pta009.pta-grc1_1-3_praefatio,1,2,3,
+      <td>urn:cts:pta:pta0003.pta009.pta-grc1_1-3_praefatio,1,2,3,</br>
       4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25_1-2</td>
       <td/>
     </tr>
