@@ -37,9 +37,9 @@ whose expansion and correction anyone can contribute to.
 
 The corpus can be queried by:
 
-1. word forms (i.e., token)
+1. word forms (i.e., tokens)
 2. lemmas
-3. morphology (POS and morphological features)
+3. morphology (POS and morphological features):
 4. syntax (dependency syntax following the AGDT annotation scheme)
 5. CTS URN for work, authors, and editions.
 6. CTS internal structure of each work (e.g., "book", "section", "line", etc.) 
@@ -47,6 +47,19 @@ The corpus can be queried by:
 7. work title
 8. alleged composition date for each work
 9. IPA transcription of word forms
+
+The morphosyntactic and lemmatization annotation is the output of
+a parser trained on 1,2M+ tokens of AGDT data 
+(a much larger dataset than all UD ones combined): the
+parser and lemmatizer are documented in the article 
+[A State-of-the-Art Morphosyntactic Parser and Lemmatizer for Ancient Greek](https://arxiv.org/abs/2410.12055). Since the training dataset used contained 
+a large selection of texts of different ages and genres, 
+the model used is expected to generalize much
+better than those trained on much smaller (UD) datasets. The scores for the model are:
+
+|POS|XPOS|Feats|ALLTags|UAS|LAS|Lemmas|
+|-----|-----|----|----|----|----|----|----|
+|96.41|91.90|94.77|91.56|82.60|77.10|91.41|
 
 The present repository is organized thus (further details within each folder):
 1. `abbreviations` contains a file useful for tokenization.
