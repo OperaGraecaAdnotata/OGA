@@ -113,7 +113,7 @@ Giuseppe G. A. Celano. Opera Graeca Adnotata: Building a 34M+ Token Multilayer C
 Direct citation of the corpus is: 
 
 ```
-Giuseppe G. A. Celano. 2023. Opera Graeca Adnotata (v0.1.0). Zenodo.
+Giuseppe G. A. Celano. 2023. Opera Graeca Adnotata (v0.2.0). Zenodo.
 https://doi.org/10.5281/zenodo.8158675
 ```
 ```
@@ -122,7 +122,7 @@ author = {Giuseppe G. A. Celano},
 title =  {Opera Graeca Adnotata},
 year = {2023},
 publisher = {Zenodo},
-version = {v0.1.0},
+version = {v0.2.0},
 doi = {10.5281/zenodo.8158675},
 url = {https://doi.org/10.5281/zenodo.8158675}
 }
