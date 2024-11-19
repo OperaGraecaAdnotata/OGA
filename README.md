@@ -40,16 +40,16 @@ a GitHub Issue or Discussion.
 
 The corpus can be queried by:
 
-1. word forms (i.e., tokens)
-2. lemmas
+1. word form (i.e., tokens)
+2. lemma
 3. morphology (POS and morphological features):
 4. syntax (dependency syntax following the AGDT annotation scheme)
-5. CTS URN for work, authors, and editions.
-6. CTS passage for each work (e.g., "book", "section", "line", etc.) 
+5. CTS URN for work, author, and edition.
+6. CTS passage for each work (e.g., "book", "section", etc.) 
 6. author name
 7. work title
 8. alleged composition date for each work
-9. (experimental) IPA transcription of word forms (the 5th BCE Attic one)
+9. (experimental) IPA transcription of word form (the 5th BCE Attic one)
 
 The morphosyntactic annotation and lemmatization are the outputs of
 (i) a parser and (ii) lemmatizer trained on 1,2M+ tokens of AGDT data 
@@ -58,23 +58,24 @@ parser and lemmatizer are documented in the article
 [A State-of-the-Art Morphosyntactic Parser and Lemmatizer for Ancient Greek](https://arxiv.org/abs/2410.12055). Since the training dataset contained 
 a large selection of texts of different centuries and genres, 
 the models used for OGA are expected to generalize much
-better than those trained on much smaller (UD) datasets. 
+better than the existing ones trained on much smaller (UD) datasets. 
 The final scores for the models are:
 
 |POS|XPOS|Feats|ALLTags|UAS|LAS|Lemmas|
 |-----|-----|----|----|----|----|----|
 |96.41|91.90|94.77|91.56|82.60|77.10|91.41|
 
-The annotations for CTS URN, CTS passage, author name, and work titles are
+The annotations for CTS URN, CTS passage, author name, and work title are
 retrieved automatically from the original texts (and therefore they may
 contain errors and inconsistencies).
 
-The annotation for the work date has been done manually and is work-in-progress 
+The annotation for work composition dates has been done manually and 
+is work-in-progress 
 (see `work_chronology/chronology_greek_works.xml`).
 
-The IPA transcription is based on a Seq2Seq model that achieved an accuracy
+The IPA transcription is based on a ByT5 model that achieved an accuracy
 of **0.83** (correct IPA transcriptions) on Greek and Latin data 
-from Wiktionary. The IPA transcription is the 5th BCE Attic,like the one 
+from Wiktionary. The IPA transcription is the 5th BCE Attic, like the one
 for [ἄξιοι](https://en.wiktionary.org/wiki/%E1%BC%84%CE%BE%CE%B9%CE%BF%CE%B9#Ancient_Greek).
 
 The present repository is organized thus (further details within each folder):
