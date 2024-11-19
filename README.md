@@ -86,8 +86,7 @@ of Greek works.
 ## Citation
 
 If you use OGA or material within this repository, please cite it so
-(the article refers to an erlier version of OGA (v0.1.0), and therefore refer to
-the documentation in this repository and Zenodo for up-to-date documentation):
+(the article describes an earlier version of OGA, i.e., v0.1.0):
 
 ```
 Giuseppe G. A. Celano. Opera Graeca Adnotata: Building a 34M+ Token Multilayer Corpus for Ancient Greek. arXiv https://arxiv.org/abs/2404.00739.
