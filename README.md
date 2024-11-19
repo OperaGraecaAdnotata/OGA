@@ -58,7 +58,7 @@ the model used is expected to generalize much
 better than those trained on much smaller (UD) datasets. The scores for the model are:
 
 |POS|XPOS|Feats|ALLTags|UAS|LAS|Lemmas|
-|-----|-----|----|----|----|----|----|----|
+|-----|-----|----|----|----|----|----|
 |96.41|91.90|94.77|91.56|82.60|77.10|91.41|
 
 The present repository is organized thus (further details within each folder):
