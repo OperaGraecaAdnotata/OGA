@@ -75,23 +75,25 @@ The annotation for the work date has been done manually and is work-in-progress
 The IPA transcription is based on a Seq2Seq model that achieved an accuracy
 of **0.83** (correct IPA transcriptions) on Greek and Latin data 
 from Wiktionary. The IPA transcription is the 5th BCE Attic,like the one 
-for [ἄξιοι](https://en.wiktionary.org/wiki/%E1%BC%84%CE%BE%CE%B9%CE%BF%CE%B9#Ancient_Greek)
+for [ἄξιοι](https://en.wiktionary.org/wiki/%E1%BC%84%CE%BE%CE%B9%CE%BF%CE%B9#Ancient_Greek).
 
 The present repository is organized thus (further details within each folder):
 1. `abbreviations` contains a file useful for tokenization.
 2. `annotation_example` contains an unzipped example of the
 annotation layers, which is useful for inspection.
 3. `elision` contains a file used for tokenization.
-4. `tokenize` contains files used for tokenization.
-5. `urn_cts` contains files with bibliographic information
+4. `query` contains information to query the corpus.
+5. `tokenize` contains files used for tokenization.
+6. `urn_cts` contains files with bibliographic information
 about the texts in OGA.
-6. `work_chronology` contains a manually annotated file with the alleged composition dates
-of Greek works.
+7. `work_chronology` contains a manually annotated file with 
+the alleged composition dates of Greek works, which continues to be updated.
 
 ## Citation
 
-If you use OGA or material within this repository, please cite it so
-(the article describes an earlier version of OGA, i.e., v0.1.0):
+If you use OGA v0.2.0 or material within this repository, please cite it thus
+(the following article describes an earlier version of OGA, i.e., v0.1.0, but
+is still relevant):
 
 ```
 Giuseppe G. A. Celano. Opera Graeca Adnotata: Building a 34M+ Token Multilayer Corpus for Ancient Greek. arXiv https://arxiv.org/abs/2404.00739.
@@ -150,4 +152,5 @@ width="" height="40" alt=""/>
 src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br/>
 This work is licensed under a <a rel="license" 
 href="http://creativecommons.org/licenses/by-sa/4.0/">
-Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Creative Commons Attribution-ShareAlike 4.0 International License</a> (for more
+details, look also at the repositories of the original texts mentioned above).
