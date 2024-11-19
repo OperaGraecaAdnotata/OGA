@@ -44,7 +44,7 @@ The corpus can be queried by:
 2. lemma
 3. morphology (POS and morphological features)
 4. syntax (dependency syntax following the AGDT annotation scheme)
-5. CTS URN for work, author, and edition.
+5. CTS URN for work, author, and edition
 6. CTS passage for each work (e.g., "book", "section", etc.) 
 6. author name
 7. work title
@@ -79,16 +79,16 @@ from Wiktionary. The IPA transcription is the 5th BCE Attic, like the one
 for [ἄξιοι](https://en.wiktionary.org/wiki/%E1%BC%84%CE%BE%CE%B9%CE%BF%CE%B9#Ancient_Greek).
 
 The present repository is organized thus (further details within each folder):
-1. `abbreviations` contains a file useful for tokenization.
+1. `abbreviations` contains a file useful for tokenization
 2. `annotation_example` contains an unzipped example of the
-annotation layers, which is useful for inspection.
-3. `elision` contains a file used for tokenization.
-4. `query` contains information to query the corpus.
-5. `tokenize` contains files used for tokenization.
+annotation layers, which is useful for inspection
+3. `elision` contains a file used for tokenization
+4. `query` contains information to query the corpus
+5. `tokenize` contains files used for tokenization
 6. `urn_cts` contains files with bibliographic information
-about the texts in OGA.
+about the texts in OGA
 7. `work_chronology` contains a manually annotated file with 
-the alleged composition dates of Greek works, which continues to be updated.
+the alleged composition dates of Greek works, which continues to be updated
 
 ## Citation
 
