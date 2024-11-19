@@ -56,7 +56,7 @@ The morphosyntactic annotation and lemmatization are the outputs of
 (a much larger dataset than all UD ones combined): the
 parser and lemmatizer are documented in the article 
 [A State-of-the-Art Morphosyntactic Parser and Lemmatizer for Ancient Greek](https://arxiv.org/abs/2410.12055). Since the training dataset contained 
-a large selection of texts of different ages and genres, 
+a large selection of texts of different centuries and genres, 
 the models used for OGA are expected to generalize much
 better than those trained on much smaller (UD) datasets. 
 The final scores for the models are:
