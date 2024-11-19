@@ -101,13 +101,13 @@ Giuseppe G. A. Celano. Opera Graeca Adnotata: Building a 34M+ Token Multilayer C
 
 ```
 @misc{celano2024operagraecaadnotatabuilding,
-      title={Opera Graeca Adnotata: Building a 34M+ Token Multilayer Corpus for Ancient Greek}, 
-      author={Giuseppe G. A. Celano},
-      year={2024},
-      eprint={2404.00739},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2404.00739}, 
+      title=         {Opera Graeca Adnotata: Building a 34M+ Token Multilayer Corpus for Ancient Greek}, 
+      author=        {Giuseppe G. A. Celano},
+      year=          {2024},
+      eprint=        {2404.00739},
+      archivePrefix= {arXiv},
+      primaryClass=  {cs.CL},
+      url=           {https://arxiv.org/abs/2404.00739}, 
 }
 ```
 Direct citation of the corpus is: 
@@ -118,13 +118,13 @@ https://doi.org/10.5281/zenodo.8158675
 ```
 ```
 @misc{celanoOGA010,
-author = {Giuseppe G. A. Celano},
-title =  {Opera Graeca Adnotata},
-year = {2023},
+author =    {Giuseppe G. A. Celano},
+title =     {Opera Graeca Adnotata},
+year =      {2023},
 publisher = {Zenodo},
-version = {v0.2.0},
-doi = {10.5281/zenodo.8158675},
-url = {https://doi.org/10.5281/zenodo.8158675}
+version =   {v0.2.0},
+doi =       {10.5281/zenodo.8158675},
+url =       {https://doi.org/10.5281/zenodo.8158675}
 }
 ```
 ## Contact
