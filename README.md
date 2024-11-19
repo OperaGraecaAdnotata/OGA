@@ -16,7 +16,7 @@ The Ancient Greek works comprised in OGA are listed in
 * PatristicTextArchive (https://github.com/PatristicTextArchive/pta_data/releases/tag/1.1.11363682704)
 
 Because of the corpus large size,
-the actual corpus data + its fine-grained documentation
+the actual corpus data + its documentation
 are made available on Zenodo at
 
 * https://doi.org/10.5281/zenodo.8158675
@@ -25,14 +25,15 @@ The data can be queried (also) through the Annis search tool at:
 
 * https://annis.varro.informatik.uni-leipzig.de/oga020
 
-To know more about how to query the corpus with Annis, see the documentation in the folder `query_values`.
+To know more about how to query the corpus with Annis,
+see the documentation in the folder `query_values`.
 
 An overview of the corpus can be read on the accompanying website at
 
 * https://varro.informatik.uni-leipzig.de/oga/en/index.html
 
 The present repository contains a few
-useful manually annotated files used to create annotations in OGA, 
+useful manually annotated files used to create annotations in OGA,
 whose expansion and correction anyone can contribute to. 
 
 The corpus can be queried by:
@@ -48,18 +49,28 @@ The corpus can be queried by:
 8. alleged composition date for each work
 9. IPA transcription of word forms
 
-The morphosyntactic and lemmatization annotation is the output of
-a parser trained on 1,2M+ tokens of AGDT data 
+The morphosyntactic annotation and lemmatization are the outputs of
+(i) a parser and (ii) lemmatizer trained on 1,2M+ tokens of AGDT data 
 (a much larger dataset than all UD ones combined): the
 parser and lemmatizer are documented in the article 
-[A State-of-the-Art Morphosyntactic Parser and Lemmatizer for Ancient Greek](https://arxiv.org/abs/2410.12055). Since the training dataset used contained 
+[A State-of-the-Art Morphosyntactic Parser and Lemmatizer for Ancient Greek](https://arxiv.org/abs/2410.12055). Since the training dataset contained 
 a large selection of texts of different ages and genres, 
-the model used is expected to generalize much
-better than those trained on much smaller (UD) datasets. The scores for the model are:
+the models used for OGA are expected to generalize much
+better than those trained on much smaller (UD) datasets. 
+The final scores for the models are:
 
 |POS|XPOS|Feats|ALLTags|UAS|LAS|Lemmas|
 |-----|-----|----|----|----|----|----|
 |96.41|91.90|94.77|91.56|82.60|77.10|91.41|
+
+The annotations for CTS URN, CTS passage, author name, and work titles are
+retrieved automatically from the original texts (and therefore they may
+contain errors and inconsistencies).
+
+The annotation for the work date has been done manually and is work-in-progress.
+
+The IPA transcription is based on a Seq2Seq model that achieved an accuracy
+of **0.83** (correct IPA transcriptions). 
 
 The present repository is organized thus (further details within each folder):
 1. `abbreviations` contains a file useful for tokenization.
