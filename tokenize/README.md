@@ -19,8 +19,8 @@ corresponds to MODIFIER LETTER APOSTROPHE (U+02BC).
 
 TO DO:
 
-- [ ] The cases where crasis is not marked by a coronis (i.e.,
-when a rough breathing is on the first word) are more difficult to identify
+- [ ] The cases where crasis is not unambigously marked by a coronis (i.e.,
+when a rough breathing is on the initial vowel of a word) are more difficult to identify
 rule-based, and therefore are at the moment not contained in this list:
 they can be added in the future, for example, by looking at those lists
 contained in grammars such as
