@@ -9,11 +9,11 @@ of Ancient Greek texts with automatically generated annotations
 * number of tokens: **40,105,221**
 
 The Ancient Greek works comprised in OGA are listed in
-`query_values/cts_work_date.md` and come from the repositories:
+`query_values/cts_work_date.md` and come from the GitHub repositories:
 
-* Canonical Greek (https://github.com/PerseusDL/canonical-greekLit/releases/tag/0.0.11376425141)
-* First1KGreek (https://github.com/OpenGreekAndLatin/First1KGreek/releases/tag/1.1.11352615003)
-* PatristicTextArchive (https://github.com/PatristicTextArchive/pta_data/releases/tag/1.1.11363682704)
+* <a href="https://github.com/PerseusDL/canonical-greekLit/releases/tag/0.0.11376425141" target="_blank">Canonical Greek (release 0.0.11376425141)</a>
+* <a href="https://github.com/OpenGreekAndLatin/First1KGreek/releases/tag/1.1.11352615003" target="_blank">First1KGreek (release 1.1.11352615003)</a>
+* <a href="https://github.com/PatristicTextArchive/pta_data/releases/tag/1.1.11363682704" target="_blank">PatristicTextArchive (release 1.1.11363682704)</a>
 
 Because of the corpus large size,
 the actual corpus data + its documentation
@@ -26,7 +26,8 @@ The data can be queried (also) through the Annis search tool at:
 * https://annis.varro.informatik.uni-leipzig.de/oga020
 
 To know more about how to query the corpus with Annis,
-see the documentation in the folder `query_values`.
+see the documentation in the folder `query`, where examples can be
+found.
 
 An overview of the corpus can be read on the accompanying website at
 
@@ -34,7 +35,8 @@ An overview of the corpus can be read on the accompanying website at
 
 The present repository contains a few
 useful manually annotated files used to create annotations in OGA,
-whose expansion and correction anyone can contribute to. 
+whose expansion and correction anyone can contribute to by opening
+a GitHub Issue or Discussion. 
 
 The corpus can be queried by:
 
