@@ -3,7 +3,7 @@
 This repository contains the documentation for
 **Opera Graeca Adnotata** (OGA), a multilayer corpus
 of Ancient Greek texts with automatically generated annotations
-(the by far largest one of its kind) 🏋️❤️😃:
+(the largest one of its kind) 🏋️❤️😃:
 
 * number of base texts: **1,999**, each corresponding to an ancient work
 * number of tokens: **40,105,221**
@@ -11,7 +11,7 @@ of Ancient Greek texts with automatically generated annotations
 The Ancient Greek works comprised in OGA are listed in
 `query_values/cts_work_date.md` and come from the GitHub repositories:
 
-* [Canonical Greek (release 0.0.11376425141](https://github.com/PerseusDL/canonical-greekLit/releases/tag/0.0.11376425141")
+* [Canonical Greek (release 0.0.11376425141)](https://github.com/PerseusDL/canonical-greekLit/releases/tag/0.0.11376425141)
 * [First1KGreek (release 1.1.11352615003)](https://github.com/OpenGreekAndLatin/First1KGreek/releases/tag/1.1.11352615003)
 * [PatristicTextArchive (release 1.1.11363682704)](https://github.com/PatristicTextArchive/pta_data/releases/tag/1.1.11363682704)
 
@@ -45,7 +45,7 @@ The corpus can be queried by:
 3. morphology (POS and morphological features):
 4. syntax (dependency syntax following the AGDT annotation scheme)
 5. CTS URN for work, authors, and editions.
-6. CTS internal structure of each work (e.g., "book", "section", "line", etc.) 
+6. CTS passage for each work (e.g., "book", "section", "line", etc.) 
 6. author name
 7. work title
 8. alleged composition date for each work
@@ -69,11 +69,13 @@ The annotations for CTS URN, CTS passage, author name, and work titles are
 retrieved automatically from the original texts (and therefore they may
 contain errors and inconsistencies).
 
-The annotation for the work date has been done manually and is work-in-progress.
+The annotation for the work date has been done manually and is work-in-progress 
+(see `work_chronology/chronology_greek_works.xml`).
 
 The IPA transcription is based on a Seq2Seq model that achieved an accuracy
 of **0.83** (correct IPA transcriptions) on Greek and Latin data 
-from Wikitionary.
+from Wiktionary. The IPA transcription is the 5th BCE Attic,like the one 
+for [ἄξιοι](https://en.wiktionary.org/wiki/%E1%BC%84%CE%BE%CE%B9%CE%BF%CE%B9#Ancient_Greek)
 
 The present repository is organized thus (further details within each folder):
 1. `abbreviations` contains a file useful for tokenization.
@@ -142,10 +144,6 @@ width="" height="40" alt=""/>
 (Project number: 408121292)
 
 ## Licence
-
-The license is the same as that of the original texts (as required by
-their license: follow the links in `original_Greek_files/README.md`
-in the above-mentioned Zenodo repository for more details):
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
 <img alt="Creative Commons License" style="border-width:0" 
