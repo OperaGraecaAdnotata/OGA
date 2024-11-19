@@ -467,7 +467,8 @@ for the work with CTS URN `pta0001.pta002.pta-grc1` are, respectively,
       <td>pta0003.pta009.pta-grc1</td>
       <td>Eusebius of Caesarea</td>
       <td>De ecclesiastica theologia</td>
-      <td>urn:cts:pta:pta0003.pta009.pta-grc1_1-3_praefatio,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25_1-2</td>
+      <td>urn:cts:pta:pta0003.pta009.pta-grc1_1-3_praefatio,1,2,3,
+      4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25_1-2</td>
       <td/>
     </tr>
     <tr>
@@ -481,7 +482,9 @@ for the work with CTS URN `pta0001.pta002.pta-grc1` are, respectively,
       <td>pta0004.pta003.pta-grc1</td>
       <td>Theodoret of Cyrrhus</td>
       <td>Historia ecclesiastica</td>
-      <td>urn:cts:pta:pta0004.pta003.pta-grc1_1-5_pin,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40</td>
+      <td>urn:cts:pta:pta0004.pta003.pta-grc1_1-5_pin,
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,2
+2,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40</td>
       <td/>
     </tr>
     <tr>
