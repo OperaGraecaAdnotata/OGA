@@ -41,9 +41,11 @@ An overview of the corpus can be read on the accompanying website at
 * https://varro.informatik.uni-leipzig.de/oga/en/index.html
 
 The present repository contains a few
-useful manually annotated files used to create annotations in OGA,
-whose expansion and correction anyone can contribute to by opening
-a GitHub Issue or Discussion. 
+useful manually annotated files used to create annotations in OGA. The present
+repository is meant to be the place to expand and discuss them in a collaborative
+way (Through a 
+[GitHub Issue](https://github.com/OperaGraecaAdnotata/OGA/issues) or 
+[Discussion](https://github.com/OperaGraecaAdnotata/OGA/discussions)). 
 
 The corpus can be queried by:
 
