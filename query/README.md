@@ -23,13 +23,19 @@ Annis query language is documentated on https://korpling.github.io/ANNIS/4/user-
 </tr>
 
 <tr>
+<td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=d70ea7e5-fcbd-42fc-9c76-6c2eb45c0c40#_q=cG9zPSJ2IiBfaWRlbnRfIGN0cz0vM18uKi8gQCogYXV0aG9yPSJIb21lciIgX2lkZW50XyB0aXRsZT0iSWxpYWQiCg&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&">pos="v" _ident_ cts=/3_.*/ @* author="Homer" _ident_ title="Iliad"</a></td>
+<td></td>
+</tr>
+
+
+<tr>
 <td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=c0d4ca46-e15e-41e1-a279-182ff9920ecb#_q=bGVtbWE9Is-Hz4HPjM69zr_PgiIgQCogYXV0aG9yPS8oTmV3IFRlc3RhbWVudHxTZXB0dWFnaW50YSkv&ql=aql&_c=b2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMixvZ2FfdjAuMi4wXzMsb2dhX3YwLjIuMF80LG9nYV92MC4yLjBfNQ&cl=5&cr=5&s=0&l=10&">lemma="χρόνος" @* author=/(New Testament|Septuaginta)/</a></td>
 <td>Search for the lemma χρόνος in the New Testament and Septuaginta</td>
 </tr>
 
 <tr>
 <td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=102587ea-2f8d-42e1-af4e-71f61c5768e8#_q=bGVtbWE9Is-Hz4HPjM69zr_PgiIgQCogYXV0aG9yPSJCaWJsZSI&ql=aql&_c=b2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMixvZ2FfdjAuMi4wXzMsb2dhX3YwLjIuMF80LG9nYV92MC4yLjBfNQ&cl=5&cr=5&s=0&l=10&">lemma="χρόνος" @* author="Bible"</a></td>
-<td>Same as before but the Bible texts come from a different edition (check <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/urn_cts_plus_date_label.xml">the CTS URNs</a></td>
+<td>Same as before but the Bible texts come from a different edition (check <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/urn_cts_plus_date_label.xml">the CTS URNs</a>)</td>
 </tr>
 
 <tr>
@@ -43,8 +49,6 @@ Annis query language is documentated on https://korpling.github.io/ANNIS/4/user-
 </tr>
 </tbody>
 </table>
-
-[tok=/χρόν.*/ @* author=/(New Testament|Septuaginta)/](https://annis.varro.informatik.uni-leipzig.de/?id=bd82dee0-3720-479e-a2c3-e5d33d5300dd#_q=dG9rPS_Ph8-Bz4zOvS4qLyBAKiBhdXRob3I9LyhOZXcgVGVzdGFtZW50fFNlcHR1YWdpbnRhKS8&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=170&l=10&)
 
 [lemma="ἀθηναῖος" @* work_date=/(m5_1|m5_2|m4_1|m4_2)/](https://annis.varro.informatik.uni-leipzig.de/?id=52281da9-9508-4ac2-be14-ce79c5731e2a#_q=bGVtbWE9IuG8gM64zrfOvc6x4b-Wzr_PgiIgQCogd29ya19kYXRlPS8obTVfMXxtNV8yfG00XzF8bTRfMikvCgo&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&)
 
