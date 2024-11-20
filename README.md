@@ -33,8 +33,9 @@ To know more about how to query the corpus with ANNIS 4,
 see the documentation in the folder 
 [query](https://github.com/OperaGraecaAdnotata/OGA/tree/main/query), 
 where examples can be found. ANNIS 4 can also easily run on a 
-[desktop computer](https://corpus-tools.org/annis/download.html): consider to use the
-desktop version with the data (~21G) made available in Zenodo.
+[desktop computer](https://korpling.github.io/ANNIS/4/user-guide/installation/desktop.html): 
+consider to use the desktop version with the data (~21G) made available on Zenodo,
+if you have enough space on your computer.
 
 An overview of the corpus can be read on the accompanying website at
 
