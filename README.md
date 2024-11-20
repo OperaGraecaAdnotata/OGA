@@ -8,16 +8,15 @@ of Ancient Greek texts with automatically generated annotations
 * number of base texts: **1,999**, each corresponding to an ancient work
 * number of tokens: **40,105,221**
 
-The Ancient Greek works comprised in OGA are listed in
-[query/cts_work_date.md](https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/urn_cts.xml) and come from the GitHub repositories:
+The Ancient Greek works comprised in OGA come from the GitHub repositories:
 
 * [Canonical Greek (release 0.0.11376425141)](https://github.com/PerseusDL/canonical-greekLit/releases/tag/0.0.11376425141)
 * [First1KGreek (release 1.1.11352615003)](https://github.com/OpenGreekAndLatin/First1KGreek/releases/tag/1.1.11352615003)
 * [PatristicTextArchive (release 1.1.11363682704)](https://github.com/PatristicTextArchive/pta_data/releases/tag/1.1.11363682704)
 
 In general, OGA contains one edition for each work, with 90 exceptions
-documented in `urn_cts/texts/duplicates_tlg_pta.xml`. The list
-of all texts included in OGA is in `urn_cts/texts/urn_cts.xml`.
+documented in [urn_cts/texts/duplicates_tlg_pta.xml](https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/duplicates_tlg_pta.xml). The list
+of all texts included in OGA is in [urn_cts/texts/urn_cts_plus_date_label.xml](https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/urn_cts.xml).
 
 Because of the corpus large size,
 the actual corpus data and its documentation
