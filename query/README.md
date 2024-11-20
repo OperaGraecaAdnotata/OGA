@@ -28,20 +28,20 @@ values, check the other files in this directory):
 
 |type of annotation|syntax|comment|
 |-----|-----|-----|
-|token-based|token="Ἀθηναῖος"|this is a word form|
-|token-based|lemma="ἀθηναῖος"|lemmas are lowercased in OGA v0.2.0|
-|token-based|pos="v"||
-|token-based|person="2"||
-|token-based|number="s"||
-|token-based|tense="p"||
-|token-based|mood="i"||
-|token-based|voice="a"||
-|token-based|gender="m"||
-|token-based|case="n"||
-|token-based|degree="m"||
-|token-based|cts=""||
-|token-based|ipa01=""||
-
+|token-based|`token="Ἀθηναῖος"`|this is a word form|
+|token-based|`lemma="ἀθηναῖος"`|lemmas are lowercased in OGA v0.2.0|
+|token-based|`pos="v"`|part of speech|
+|token-based|`person="2"`|morphological feature|
+|token-based|`number="s"`|morphological feature|
+|token-based|`tense="p"`|morphological feature|
+|token-based|`mood="i"`|morphological feature|
+|token-based|`voice="a"`|morphological feature|
+|token-based|`gender="m"`|morphological feature|
+|token-based|`case="n"`|morphological feature|
+|token-based|`degree="m"`|morphological feature|
+|token-based|`cts="1_2"`|morphological feature|
+|token-based|`ipa01="/an.drá.si/"`| experimenntal IPA transcription (5th BCE Attic pronunciation)|
+|text-based|`@* urn_cts="tlg0010.tlg001.perseus-grc2"`| this identifies an author, work and edition see <a href=""></a>|
 
 # ANNIS Query Examples
 
@@ -56,7 +56,7 @@ The following are query examples that can be used as templates:
   </thead>
   <tbody>
 <tr>
-<td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=6bda01ce-60aa-43bb-9f7c-429a4a31fb3d#_q=dG9rPSLhvIjPh86xzrnOv-G9tiIgQCogd29ya19kYXRlPS8uKihwMV8xfHAxXzIpLiov&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&">tok="Ἀχαιοὶ" @* work_date=/.*(p1_1|p1_2).*/</a></td>
+<td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=b30de80b-7d53-41d4-8304-487bf01dffa7#_q=dG9rPSLhvIjPh86xzrnOv-G9tiIgQCogd29ya19kYXRlPS8uKihwMV8xfHAxXzIpLiov&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&">tok="Ἀχαιοὶ" @* work_date=/.*(p1_1|p1_2).*/</a></td>
 <td>Search for the word form Ἀχαιοὶ in all texts written in the 1st and 2nd half of the 1st century CE</td>
 </tr>
 
