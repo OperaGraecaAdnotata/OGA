@@ -16,7 +16,7 @@ The Ancient Greek works comprised in OGA come from the GitHub repositories:
 
 In general, OGA contains one edition for each work, with 90 exceptions
 documented in [urn_cts/texts/duplicates_tlg_pta.xml](https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/duplicates_tlg_pta.xml). The list
-of all texts included in OGA is in [urn_cts/texts/urn_cts_plus_date_label.xml](https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/urn_cts.xml).
+of all texts included in OGA is in [urn_cts/texts/urn_cts_plus_date_label.xml](https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/urn_cts_plus_date_label.xml).
 
 Because of the corpus large size,
 the actual corpus data and its documentation
