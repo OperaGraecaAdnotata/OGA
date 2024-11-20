@@ -9,7 +9,9 @@ folder document all of them.
 
 Annis query language is documentated on https://korpling.github.io/ANNIS/4/user-guide/aql/index.html. The following are query examples that can be used as templates:
 
-[tok="Ἀχαιοὶ" @* work_date=/(p1_1|p1_2)/](https://annis.varro.informatik.uni-leipzig.de/?id=4da2728e-82d7-480b-94d0-c20febd22504#_q=dG9rPSLhvIjPh86xzrnOv-G9tiIgQCogd29ya19kYXRlPS8ocDFfMXxwMV8yKS8K&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&)
+Query | Meaning|
+|-----|--------|
+|[tok="Ἀχαιοὶ" @* work_date=/(p1_1|p1_2)/](https://annis.varro.informatik.uni-leipzig.de/?id=4da2728e-82d7-480b-94d0-c20febd22504#_q=dG9rPSLhvIjPh86xzrnOv-G9tiIgQCogd29ya19kYXRlPS8ocDFfMXxwMV8yKS8K&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&)| search|
 
 [tok=/χρόν.*/ @* author=/(New Testament|Septuaginta)/](https://annis.varro.informatik.uni-leipzig.de/?id=bd82dee0-3720-479e-a2c3-e5d33d5300dd#_q=dG9rPS_Ph8-Bz4zOvS4qLyBAKiBhdXRob3I9LyhOZXcgVGVzdGFtZW50fFNlcHR1YWdpbnRhKS8&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=170&l=10&)
 
