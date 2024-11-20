@@ -17,10 +17,30 @@ Annis query language is documentated on https://korpling.github.io/ANNIS/4/user-
     </tr>
   </thead>
   <tbody>
-    <tr>
-<td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=6bda01ce-60aa-43bb-9f7c-429a4a31fb3d#_q=dG9rPSLhvIjPh86xzrnOv-G9tiIgQCogd29ya19kYXRlPS8uKihwMV8xfHAxXzIpLiov&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&">tok="Ἀχαιοὶ" @* work_date=/.*(p1_1|p1_2).*/</a></td>
-<td>search</td>
+<tr>
+<td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=6bda01ce-60aa-43bb-9f7c-429a4a31fb3d#_q=dG9rPSLhvIjPh86xzrnOv-G9tiIgQCogd29ya19kYXRlPS8uKihwMV8xfHAxXzIpLiov&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&" target="_blank">tok="Ἀχαιοὶ" @* work_date=/.*(p1_1|p1_2).*/</a></td>
+<td>Search for the word form in all texts written in the 1st and 2nd half of the 1st century CE</td>
+</tr>
 
+<tr>
+<td><a href="" target="_blank"></a></td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="" target="_blank"></a></td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="" target="_blank"></a></td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="" target="_blank"></a></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
