@@ -19,8 +19,7 @@ documented in [urn_cts/texts/duplicates_tlg_pta.xml](https://github.com/OperaGra
 of all texts included in OGA is in [urn_cts/texts/urn_cts_plus_date_label.xml](https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/urn_cts_plus_date_label.xml).
 
 Because of the corpus large size,
-the actual corpus data and its documentation
-are made available on Zenodo at
+the actual corpus is made available on Zenodo at
 
 * https://doi.org/10.5281/zenodo.8158675
 
@@ -29,7 +28,7 @@ The data can be queried (also) through the ANNIS 4 search tool at:
 * https://annis.varro.informatik.uni-leipzig.de/oga020
 
 To know more about how to query the corpus with Annis,
-see the documentation in the folder `query`, where examples can be
+see the documentation in the folder [query](https://github.com/OperaGraecaAdnotata/OGA/tree/main/query), where examples can be
 found.
 
 ANNIS can also be easily run on a desktop computer: consider to use the
