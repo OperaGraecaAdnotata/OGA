@@ -67,17 +67,17 @@ The following are query examples that can be used as templates:
 
 
 <tr>
-<td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=c0d4ca46-e15e-41e1-a279-182ff9920ecb#_q=bGVtbWE9Is-Hz4HPjM69zr_PgiIgQCogYXV0aG9yPS8oTmV3IFRlc3RhbWVudHxTZXB0dWFnaW50YSkv&ql=aql&_c=b2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMixvZ2FfdjAuMi4wXzMsb2dhX3YwLjIuMF80LG9nYV92MC4yLjBfNQ&cl=5&cr=5&s=0&l=10&">lemma="χρόνος" @* author=/(New Testament|Septuaginta)/</a></td>
+<td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=71be1461-8388-4f80-b602-3e1f4e914678#_q=bGVtbWE9Is-Hz4HPjM69zr_PgiIgQCogYXV0aG9yPS8oTmV3IFRlc3RhbWVudHxTZXB0dWFnaW50YSkv&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&">lemma="χρόνος" @* author=/(New Testament|Septuaginta)/</a></td>
 <td>Search for the lemma χρόνος in the New Testament and Septuaginta</td>
 </tr>
 
 <tr>
-<td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=102587ea-2f8d-42e1-af4e-71f61c5768e8#_q=bGVtbWE9Is-Hz4HPjM69zr_PgiIgQCogYXV0aG9yPSJCaWJsZSI&ql=aql&_c=b2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMixvZ2FfdjAuMi4wXzMsb2dhX3YwLjIuMF80LG9nYV92MC4yLjBfNQ&cl=5&cr=5&s=0&l=10&">lemma="χρόνος" @* author="Bible"</a></td>
+<td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=6f569a32-aa01-4d81-b3f9-72787aa13b07#_q=bGVtbWE9Is-Hz4HPjM69zr_PgiIgQCogYXV0aG9yPSJCaWJsZSI&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&">lemma="χρόνος" @* author="Bible"</a></td>
 <td>Same as before but the Bible texts come from a different edition (check <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/urn_cts_plus_date_label.xml">the CTS URNs</a>)</td>
 </tr>
 
 <tr>
-<td><a href="" ></a></td>
+<td><a href="" >pos="v" _ident_ mood="i" ->dep[dep_fnc="OBJ"] pos="n" & #3 .1,3 #2 @* work_date=/.*(m1_1|m1_2).*/</a></td>
 <td></td>
 </tr>
 
