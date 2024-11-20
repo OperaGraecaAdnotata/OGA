@@ -8,17 +8,25 @@ folder document all of them.
 # ANNIS Query Language
 
 Annis query language is documentated on https://korpling.github.io/ANNIS/4/user-guide/aql/index.html,
- where you can explanations for all operators. What is important to undestand for search in ANNIS
+ where you can find explanations 
+for all operators. What is important to undestand for search in ANNIS 4
 is that there are two
-kinds of annotations which two different kinds of syntax correspond to: 
-the annotation associated with single tokens and the annotation associated with all
-tokens of a texts (known also as metadata field). For example, the field `author`
-is the same for all tokens of a text and therefore is a metadata field. In ANNIS 4,
-metadata fields are introduced by the operator `@*` and more than one metadata field
-are joined by "_ident_". Annotations associated with single tokens are simply
+kinds of annotation which two different kinds of syntax correspond to: 
+the annotation associated with single tokens (*token-based*) and 
+the annotation associated with all tokens of a texts (*text-based*, 
+known also as metadata field). For example, the field `author`
+is the same for all tokens of a text and therefore is a metadata field. 
+In ANNIS 4, metadata fields are introduced by the operator `@*` 
+and more metadata fields
+are joined by "_ident_". On the contrary, 
+annotations associated with single tokens are simply
 searched using key/value pairs, such as `token="ἀθηναῖος"` or 
-`lemma="ἀθηναῖος"` (see query examples below for clarification).
+`lemma="ἀθηναῖος"` (see query examples below for more clarification).
 
+|type of annotation|syntax|
+|-----|-----|
+|toke-based|token=""|
+|text-based|lemma=""|
 
 # ANNIS Query Examples
 
