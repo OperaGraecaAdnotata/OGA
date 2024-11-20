@@ -29,7 +29,7 @@ Annis query language is documentated on https://korpling.github.io/ANNIS/4/user-
 
 <tr>
 <td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=102587ea-2f8d-42e1-af4e-71f61c5768e8#_q=bGVtbWE9Is-Hz4HPjM69zr_PgiIgQCogYXV0aG9yPSJCaWJsZSI&ql=aql&_c=b2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMixvZ2FfdjAuMi4wXzMsb2dhX3YwLjIuMF80LG9nYV92MC4yLjBfNQ&cl=5&cr=5&s=0&l=10&">lemma="χρόνος" @* author="Bible"</a></td>
-<td>Same as before but the Bible texts come from a different edition (see )</td>
+<td>Same as before but the Bible texts come from a different edition (check <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/urn_cts_plus_date_label.xml">the CTS URNs</a></td>
 </tr>
 
 <tr>
