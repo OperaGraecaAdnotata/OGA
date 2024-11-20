@@ -18,7 +18,7 @@ Annis query language is documentated on https://korpling.github.io/ANNIS/4/user-
   </thead>
   <tbody>
     <tr>
-<td>[tok="Ἀχαιοὶ" @* work_date=/(p1_1|p1_2)/](https://annis.varro.informatik.uni-leipzig.de/?id=4da2728e-82d7-480b-94d0-c20febd22504#_q=dG9rPSLhvIjPh86xzrnOv-G9tiIgQCogd29ya19kYXRlPS8ocDFfMXxwMV8yKS8K&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&)</td>
+<td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=4da2728e-82d7-480b-94d0-c20febd22504#_q=dG9rPSLhvIjPh86xzrnOv-G9tiIgQCogd29ya19kYXRlPS8ocDFfMXxwMV8yKS8K&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&">[tok="Ἀχαιοὶ" @* work_date=/(p1_1|p1_2)/]</a></td>
 <td>search</td>
 
 </tbody>
