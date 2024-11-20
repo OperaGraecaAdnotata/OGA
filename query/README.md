@@ -5,9 +5,24 @@ In either case, one must know the labels used to encode annotations
 (for example, "v" stands for verbs and "n" for nouns). The files in this
 folder document all of them.
 
-# Annis Query Examples
+# ANNIS Query Language
 
-Annis query language is documentated on https://korpling.github.io/ANNIS/4/user-guide/aql/index.html. The following are query examples that can be used as templates:
+Annis query language is documentated on https://korpling.github.io/ANNIS/4/user-guide/aql/index.html,
+ where you can explanations for all operators. What is important to undestand for search in ANNIS
+is that there are two
+kinds of annotations which two different kinds of syntax correspond to: 
+the annotation associated with single tokens and the annotation associated with all
+tokens of a texts (known also as metadata field). For example, the field `author`
+is the same for all tokens of a text and therefore is a metadata field. In ANNIS 4,
+metadata fields are introduced by the operator `@*` and more than one metadata field
+are joined by "_ident_". Annotations associated with single tokens are simply
+searched using key/value pairs, such as `token="ἀθηναῖος"` or 
+`lemma="ἀθηναῖος"` (see query examples below for clarification).
+
+
+# ANNIS Query Examples
+
+The following are query examples that can be used as templates:
 
 <table>
   <thead>
@@ -24,7 +39,7 @@ Annis query language is documentated on https://korpling.github.io/ANNIS/4/user-
 
 <tr>
 <td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=d70ea7e5-fcbd-42fc-9c76-6c2eb45c0c40#_q=cG9zPSJ2IiBfaWRlbnRfIGN0cz0vM18uKi8gQCogYXV0aG9yPSJIb21lciIgX2lkZW50XyB0aXRsZT0iSWxpYWQiCg&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&">pos="v" _ident_ cts=/3_.*/ @* author="Homer" _ident_ title="Iliad"</a></td>
-<td></td>
+<td>Find all verbs in the 3th Book of Homer's Iliad</td>
 </tr>
 
 
