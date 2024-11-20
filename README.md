@@ -10,7 +10,8 @@ of Ancient Greek texts with automatically generated annotations
 
 The Ancient Greek works comprised in OGA come from the GitHub repositories:
 
-* [Canonical Greek (release 0.0.11376425141)](https://github.com/PerseusDL/canonical-greekLit/releases/tag/0.0.11376425141)
+* [Canonical Greek (release 0.0.11376425141)](https://github.comi/
+PerseusDL/canonical-greekLit/releases/tag/0.0.11376425141)
 * [First1KGreek (release 1.1.11352615003)](https://github.com/OpenGreekAndLatin/First1KGreek/releases/tag/1.1.11352615003)
 * [PatristicTextArchive (release 1.1.11363682704)](https://github.com/PatristicTextArchive/pta_data/releases/tag/1.1.11363682704)
 
@@ -27,11 +28,9 @@ The data can be queried (also) through the ANNIS 4 search tool at:
 
 * https://annis.varro.informatik.uni-leipzig.de/oga020
 
-To know more about how to query the corpus with Annis,
+To know more about how to query the corpus with ANNIS 4,
 see the documentation in the folder [query](https://github.com/OperaGraecaAdnotata/OGA/tree/main/query), where examples can be
-found.
-
-ANNIS can also be easily run on a desktop computer: consider to use the
+found. ANNIS 4 can also easily run on a [desktop computer](https://corpus-tools.org/annis/download.html): consider to use the
 desktop version with the data (~21G) made available in Zenodo.
 
 An overview of the corpus can be read on the accompanying website at
