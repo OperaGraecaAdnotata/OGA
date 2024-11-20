@@ -23,10 +23,25 @@ annotations associated with single tokens are simply
 searched using key/value pairs, such as `token="ἀθηναῖος"` or 
 `lemma="ἀθηναῖος"` (see query examples below for more clarification).
 
-|type of annotation|syntax|
-|-----|-----|
-|toke-based|token=""|
-|text-based|lemma=""|
+The following table lists all the possible search keys (to know their possible
+values, check the other files in this directory):
+
+|type of annotation|syntax|comment|
+|-----|-----|-----|
+|token-based|token="Ἀθηναῖος"|this is a word form|
+|token-based|lemma="ἀθηναῖος"|lemmas are lowercased in OGA v0.2.0|
+|token-based|pos="v"||
+|token-based|person="2"||
+|token-based|number="s"||
+|token-based|tense="p"||
+|token-based|mood="i"||
+|token-based|voice="a"||
+|token-based|gender="m"||
+|token-based|case="n"||
+|token-based|degree="m"||
+|token-based|cts=""||
+|token-based|ipa01=""||
+
 
 # ANNIS Query Examples
 
