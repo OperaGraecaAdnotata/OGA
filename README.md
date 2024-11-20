@@ -15,8 +15,10 @@ The Ancient Greek works comprised in OGA come from the GitHub repositories:
 * [PatristicTextArchive (release 1.1.11363682704)](https://github.com/PatristicTextArchive/pta_data/releases/tag/1.1.11363682704)
 
 In general, OGA contains one edition for each work, with 90 exceptions
-documented in [urn_cts/texts/duplicates_tlg_pta.xml](https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/duplicates_tlg_pta.xml). The list
-of all texts included in OGA is in [urn_cts/texts/urn_cts_plus_date_label.xml](https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/urn_cts_plus_date_label.xml).
+documented in 
+[urn_cts/texts/duplicates_tlg_pta.xml](https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/duplicates_tlg_pta.xml). The list
+of all texts included in OGA is in 
+[urn_cts/texts/urn_cts_plus_date_label.xml](https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/urn_cts_plus_date_label.xml).
 
 Because of the corpus large size,
 the actual corpus is made available on Zenodo at
@@ -28,9 +30,10 @@ The data can be queried (also) through the ANNIS 4 search tool at:
 * https://annis.varro.informatik.uni-leipzig.de/oga020
 
 To know more about how to query the corpus with ANNIS 4,
-see the documentation in the folder [query]: https://github.com/
-OperaGraecaAdnotata/OGA/tree/main/query, where examples can be
-found. ANNIS 4 can also easily run on a [desktop computer](https://corpus-tools.org/annis/download.html): consider to use the
+see the documentation in the folder 
+[query](https://github.com/OperaGraecaAdnotata/OGA/tree/main/query), 
+where examples can be found. ANNIS 4 can also easily run on a 
+[desktop computer](https://corpus-tools.org/annis/download.html): consider to use the
 desktop version with the data (~21G) made available in Zenodo.
 
 An overview of the corpus can be read on the accompanying website at
