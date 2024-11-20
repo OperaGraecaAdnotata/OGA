@@ -9,7 +9,7 @@ of Ancient Greek texts with automatically generated annotations
 * number of tokens: **40,105,221**
 
 The Ancient Greek works comprised in OGA are listed in
-`query/cts_work_date.md` and come from the GitHub repositories:
+[query/cts_work_date.md](query/cts_work_date.md) and come from the GitHub repositories:
 
 * [Canonical Greek (release 0.0.11376425141)](https://github.com/PerseusDL/canonical-greekLit/releases/tag/0.0.11376425141)
 * [First1KGreek (release 1.1.11352615003)](https://github.com/OpenGreekAndLatin/First1KGreek/releases/tag/1.1.11352615003)
