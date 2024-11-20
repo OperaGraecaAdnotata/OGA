@@ -21,7 +21,7 @@ of all texts included in OGA is in
 [urn_cts/texts/urn_cts_plus_date_label.xml](https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/urn_cts_plus_date_label.xml).
 
 Because of the corpus large size,
-the actual corpus is made available on Zenodo at
+the actual corpus data is made available on Zenodo at
 
 * https://doi.org/10.5281/zenodo.8158675
 
