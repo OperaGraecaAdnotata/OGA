@@ -28,7 +28,8 @@ The data can be queried (also) through the ANNIS 4 search tool at:
 * https://annis.varro.informatik.uni-leipzig.de/oga020
 
 To know more about how to query the corpus with ANNIS 4,
-see the documentation in the folder [query](https://github.com/OperaGraecaAdnotata/OGA/tree/main/query), where examples can be
+see the documentation in the folder [query]: https://github.com/
+OperaGraecaAdnotata/OGA/tree/main/query, where examples can be
 found. ANNIS 4 can also easily run on a [desktop computer](https://corpus-tools.org/annis/download.html): consider to use the
 desktop version with the data (~21G) made available in Zenodo.
 
