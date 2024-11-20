@@ -15,19 +15,26 @@ The Ancient Greek works comprised in OGA are listed in
 * [First1KGreek (release 1.1.11352615003)](https://github.com/OpenGreekAndLatin/First1KGreek/releases/tag/1.1.11352615003)
 * [PatristicTextArchive (release 1.1.11363682704)](https://github.com/PatristicTextArchive/pta_data/releases/tag/1.1.11363682704)
 
+In general, OGA contains one edition for each work, with 90 exceptions
+documented in `urn_cts/texts/duplicates_tlg_pta.xml`. The list
+of all texts included in OGA is in `urn_cts/texts/urn_cts.xml`.
+
 Because of the corpus large size,
 the actual corpus data and its documentation
 are made available on Zenodo at
 
 * https://doi.org/10.5281/zenodo.8158675
 
-The data can be queried (also) through the Annis search tool at:
+The data can be queried (also) through the ANNIS 4 search tool at:
 
 * https://annis.varro.informatik.uni-leipzig.de/oga020
 
 To know more about how to query the corpus with Annis,
 see the documentation in the folder `query`, where examples can be
 found.
+
+ANNIS can also be easily run on a desktop computer: consider to use the
+desktop version with the data (~21G) made available in Zenodo.
 
 An overview of the corpus can be read on the accompanying website at
 
