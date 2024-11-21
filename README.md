@@ -8,7 +8,7 @@ of Ancient Greek texts with automatically generated annotations
 * number of base texts: **1,999**, each corresponding to an ancient work
 * number of tokens: **40,105,221**
 
-The Ancient Greek works comprised in OGA come from the GitHub repositories:
+The Ancient Greek works included in OGA come from the GitHub repositories:
 
 * [Canonical Greek (release 0.0.11376425141)](https://github.com/PerseusDL/canonical-greekLit/releases/tag/0.0.11376425141)
 * [First1KGreek (release 1.1.11352615003)](https://github.com/OpenGreekAndLatin/First1KGreek/releases/tag/1.1.11352615003)
@@ -20,7 +20,7 @@ documented in
 of all texts included in OGA is in 
 [urn_cts/texts/urn_cts_plus_date_label.xml](https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/urn_cts_plus_date_label.xml).
 
-Because of the corpus large size,
+Because of the large corpus size,
 the actual corpus data is made available on Zenodo at
 
 * https://doi.org/10.5281/zenodo.8158675
@@ -32,9 +32,9 @@ The data can be queried (also) through the ANNIS 4 search tool at:
 To know more about how to query the corpus with ANNIS 4,
 see the documentation in the folder 
 [query](https://github.com/OperaGraecaAdnotata/OGA/tree/main/query), 
-where examples can be found. ANNIS 4 can also easily run on a 
+where examples can be found. ANNIS 4 is also easily executable on a 
 [desktop computer](https://korpling.github.io/ANNIS/4/user-guide/installation/desktop.html): 
-consider to use the desktop version with the data (~21G) made available on Zenodo,
+consider using the desktop version with the data (~21G) made available on Zenodo,
 if you have enough space on your computer.
 
 An overview of the corpus can be read on the accompanying website at
@@ -59,7 +59,7 @@ The corpus can be queried by:
 6. author name
 7. work title
 8. alleged composition date for each work
-9. (experimental) IPA transcription of word form (the 5th BCE Attic one)
+9. (experimental) IPA transcription of a word form (the 5th-century BCE Attic one)
 
 The morphosyntactic annotation and lemmatization are the outputs of
 (i) a parser and (ii) lemmatizer trained on 1,2M+ tokens of AGDT data 
@@ -79,16 +79,16 @@ The annotations for CTS URN, CTS passage, author name, and work title are
 retrieved automatically from the original texts (and therefore they may
 contain errors and inconsistencies).
 
-The annotation for work composition dates has been done manually and 
-is work-in-progress 
+The annotation for work composition dates was done manually and 
+is a work in progress 
 (see `work_chronology/chronology_greek_works.xml`).
 
 The IPA transcription is based on a ByT5 model that achieved an accuracy
 of **0.83** (correct IPA transcriptions) on Greek and Latin data 
-from Wiktionary. The IPA transcription is the 5th BCE Attic one (see, for example,
+from Wiktionary. The IPA transcription is the 5th-century BCE Attic one (see, for example,
 [ἄξιοι](https://en.wiktionary.org/wiki/%E1%BC%84%CE%BE%CE%B9%CE%BF%CE%B9#Ancient_Greek)).
 
-The present repository is organized thus (further details within each folder):
+The present repository is organized as follows (further details within each folder):
 1. `abbreviations` contains a file useful for tokenization
 2. `annotation_example` contains an unzipped example of the
 annotation layers, which is useful for inspection
