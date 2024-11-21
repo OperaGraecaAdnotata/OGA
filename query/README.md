@@ -96,4 +96,4 @@ the 1st or 2nd half of the fist century BCE. Note that <code>#3</code> refers to
 
 ## ANNIS Interface
 
-![Annis int](./images/screenshot1.png)
+![Annis int](./images/screenshot1.png){width=100px}
