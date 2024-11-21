@@ -22,7 +22,7 @@ In ANNIS 4, annotations associated with single tokens (token-based) are simply
 searched using key/value pairs, such as `token="ἀθηναῖος"` or 
 `lemma="ἀθηναῖος"`. Metadata fields are also accessed through key/value pairs, 
 but are introduced by the operator `@*` (e.g., `@* urn_cts_author="tlg0010"`).
-Query examples are provided below as templates.
+For more clarification, query examples are provided below as templates.
 
 The following table lists all possible search keys and their values:
 
@@ -40,7 +40,7 @@ The following table lists all possible search keys and their values:
 |token-based|`case="n"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
 |token-based|`degree="m"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
 |token-based|`cts="1_2"`|CTS structure for passage; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md">values</a>|
-|token-based|`ipa01="/an.drá.si/"`| experimental IPA transcription (5th BCE Attic pronunciation)|
+|token-based|`ipa01="/an.drá.si/"`| experimental IPA transcription (5th BCE Attic pronunciation); see [ἄξιοι](https://en.wiktionary.org/wiki/%E1%BC%84%CE%BE%CE%B9%CE%BF%CE%B9#Ancient_Greek)|
 |text-based|`@* urn_cts="tlg0010.tlg001.perseus-grc2"`| this identifies an author, work and edition; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md"></a>|
 |text-based|`@* urn_cts_author="tlg0010"`| this identifies an author; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md"></a>|
 |text-based|`@* urn_cts_work="tlg001"`| this identifies a work; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md"></a>|
