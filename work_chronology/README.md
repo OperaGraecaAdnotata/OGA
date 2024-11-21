@@ -2,7 +2,8 @@
 
 This folder contains a file with the alleged composition dates of Greek 
 worksi in the ISO 8601 format, which has been used for annotation for OGA. 
-The dates have been manually annotated and are work-in-progress.
+The dates have been manually annotated by one annotator 
+and are work-in-progress.
 
 Since dates are added manually, BCE dates are annotated using the Em Dash (U+2014)
 instead of the Minus Sign (U+2212) to prevent confusion between the Minus Sign

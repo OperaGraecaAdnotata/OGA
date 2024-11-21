@@ -28,8 +28,8 @@ The following table lists all possible search keys and their values:
 
 |type of annotation|syntax|comment/values|
 |-----|-----|-----|
-|token-based|`token="Ἀθηναῖος"`|this is a word form|
-|token-based|`lemma="ἀθηναῖος"`|lemmas are lowercased in OGA v0.2.0|
+|token-based|`token="Ἀθηναῖος"`|this is a word form (UTF-8, NFC-normalized)|
+|token-based|`lemma="ἀθηναῖος"`|lemmas (UTF-8, NFC-normalized) are lowercased in OGA v0.2.0|
 |token-based|`pos="v"`|part of speech; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
 |token-based|`person="2"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
 |token-based|`number="s"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
