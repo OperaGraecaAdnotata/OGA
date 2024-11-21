@@ -65,11 +65,11 @@ into the label "m5_2" (i.e., 2nd half of the 5th century).
 If an alleged date range spans over different century halves 
 only the longer is kept (e.g., `+0096-01/+0116-12` corresponds to "p2_1"). 
 However, since some date ranges can span over a long period comprising many
-century halves with same temporal extension (i.e., 50 years), a value for
+century halves with the same temporal extension (i.e., 50 years), a value for
 `work_date` can look like `m9_1/m9_2/m8_1`. For this reason, it makes sense
 to query work dates using regular expressions, such as `/.*m9_2.*/`,
-which catches works with date label corrsponding to `m9_2`
-and works with date label *including* `m9_2`.
+which catches works with a date label corrsponding to `m9_2`
+and works with date labels *including* `m9_2`.
 
 
 ## Keys and Values
