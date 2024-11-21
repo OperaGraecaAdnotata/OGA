@@ -44,10 +44,10 @@ specify the CTS URN of a work as a field in the XPATH expression within
 
 ## Work Dates
 
-At the moment, ANNIS 4 has no support for numbers. This means that a work's
-composition date must be modeled as a string.
+At the moment, ANNIS 4 has no support for numbers. This means that, for now, 
+a work's composition date must be modeled as a string.
 For this reason, ISO 8601 format dates, which
-have been annotated manually and continue to be corrected
+have been annotated manually by one annotator and continue to be corrected
 (see [file](https://github.com/OperaGraecaAdnotata/OGA/blob/main/work_chronology/chronology_greek_works.xml)), 
 have been transformed into labels such as `m3_2`or `p2_1`.
 
@@ -59,7 +59,18 @@ refers to the century and the last one to the half.
 As is known, the composition date of an Ancient work is often uncertain. For
 this reason, the original 
 [ISO 8601 format dates](https://github.com/OperaGraecaAdnotata/OGA/blob/main/work_chronology/chronology_greek_works.xml)
-specify a range (alleged initial date and end date). 
+specify a range (alleged initial date and alleged end date). For example,
+Euripides' Cyclops has the date `-0411-01/-0405-12`, which has been converted
+into the label "m5_2" (i.e., 2nd half of the 5th century). 
+If an alleged date range spans over different century halves 
+only the longer is kept (e.g., `+0096-01/+0116-12` corresponds to "p2_1"). 
+However, since some date ranges can span over a long period comprising many
+century halves with same temporal extension (i.e., 50 years), a value for
+`work_date` can look like `m9_1/m9_2/m8_1`. For this reason, it makes sense
+to query work dates using regular expressions, such as `/.*m9_2.*/`,
+which catches works with date label corrsponding to `m9_2`
+and works with date label *including* `m9_2`.
+
 
 ## Keys and Values
 
