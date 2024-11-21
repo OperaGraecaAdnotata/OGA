@@ -56,7 +56,7 @@ have been transformed into labels such as `m3_2`or `p2_1`.
 (i.e., CE). The first number after "m" or "p" 
 refers to the century and the last one to the half.
 
-As is known, the composition date of an Ancient work is often uncertain. For
+As is known, the composition date of an ancient work is often uncertain. For
 this reason, the original 
 [ISO 8601 format dates](https://github.com/OperaGraecaAdnotata/OGA/blob/main/work_chronology/texts/chronology_greek_works.xml)
 specify a range (alleged initial date and alleged end date). For example,
