@@ -44,7 +44,7 @@ An overview of the corpus can be read on the accompanying website at
 The present repository contains a few
 useful manually annotated files used to create annotations in OGA. The present
 repository is meant to be the place to expand and discuss them in a collaborative
-way (Through a 
+way (through a 
 [GitHub Issue](https://github.com/OperaGraecaAdnotata/OGA/issues) or 
 [Discussion](https://github.com/OperaGraecaAdnotata/OGA/discussions)). 
 
