@@ -18,17 +18,15 @@ the annotation associated with all tokens of a texts (*text-based*,
 known also as metadata field). For example, the field `author`
 is the same for all tokens of a text and therefore is a metadata field. 
 
-In ANNIS 4, metadata fields are introduced by the operator `@*` 
-and more metadata fields
-are joined by "\_ident\_". On the contrary, 
-annotations associated with single tokens are simply
+In ANNIS 4, annotations associated with single tokens (token-based) are simply
 searched using key/value pairs, such as `token="ἀθηναῖος"` or 
-`lemma="ἀθηναῖος"` (see query examples below for more clarification).
+`lemma="ἀθηναῖος"`. Metadata fields are also accessed through key/value pairs, 
+but are introduced by the operator `@*` (e.g., `@* urn_cts_author="tlg0010"`).
+Query examples are provided below as templates.
 
-The following table lists all the possible search keys (to know their possible
-values, check the other files in this directory):
+The following table lists all possible search keys and their values:
 
-|type of annotation|syntax|comment|
+|type of annotation|syntax|comment/values|
 |-----|-----|-----|
 |token-based|`token="Ἀθηναῖος"`|this is a word form|
 |token-based|`lemma="ἀθηναῖος"`|lemmas are lowercased in OGA v0.2.0|
