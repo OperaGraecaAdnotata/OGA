@@ -3,12 +3,6 @@
 Morphology can be queried using the keys with the possible
 values shown in the table below. 
 
-## AQL example query
-
-|query|explanation|
-|-----|-----------|
-|pos="v" \_ident\_ tense="p"|search for a token that is a verb (and the same token is) in the present tense
-
 ## Keys and Values
 
 <table>
@@ -121,7 +115,7 @@ values shown in the table below.
 
 
   <tr>
-    <td rowspan="6">tense</td>
+    <td rowspan="7">tense</td>
     <td>p</td>
     <td>present</td>
 
