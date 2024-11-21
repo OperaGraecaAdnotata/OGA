@@ -96,4 +96,12 @@ the 1st or 2nd half of the fist century BCE. Note that <code>#3</code> refers to
 
 ## ANNIS Interface
 
-![Annis int](./images/screenshot1.png){width=100px}
+In the ANNIS interface, OGA appears divided into 5 subcorpora for performance reasons.
+All of them should be selected to query the whole corpus. After clicking on
+the "Search" button, the "Searching..." message appears, as shown in the below
+picture: it usually disappear in fractions of second/a few seconds, but depending on the
+complexity of the query,
+it could sometimes last for many seconds/minutes (especially if regular expressions are used). 
+(during the search time, users cannot further interact with Annis).
+
+![Annis int](./images/screenshot1.png)
