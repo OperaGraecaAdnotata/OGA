@@ -85,8 +85,8 @@ is work-in-progress
 
 The IPA transcription is based on a ByT5 model that achieved an accuracy
 of **0.83** (correct IPA transcriptions) on Greek and Latin data 
-from Wiktionary. The IPA transcription is the 5th BCE Attic one, like the one
-for [ἄξιοι](https://en.wiktionary.org/wiki/%E1%BC%84%CE%BE%CE%B9%CE%BF%CE%B9#Ancient_Greek).
+from Wiktionary. The IPA transcription is the 5th BCE Attic one (e.g., see
+[ἄξιοι](https://en.wiktionary.org/wiki/%E1%BC%84%CE%BE%CE%B9%CE%BF%CE%B9#Ancient_Greek)).
 
 The present repository is organized thus (further details within each folder):
 1. `abbreviations` contains a file useful for tokenization
