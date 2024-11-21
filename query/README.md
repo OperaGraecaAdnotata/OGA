@@ -17,6 +17,7 @@ the annotation associated with single tokens (*token-based*) and
 the annotation associated with all tokens of a texts (*text-based*, 
 known also as metadata field). For example, the field `author`
 is the same for all tokens of a text and therefore is a metadata field. 
+
 In ANNIS 4, metadata fields are introduced by the operator `@*` 
 and more metadata fields
 are joined by "_ident_". On the contrary, 
