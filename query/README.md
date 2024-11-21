@@ -1,17 +1,18 @@
 # Query the Corpus
 
-The corpus can be queried through the original XML files or Annis. 
+The annotations in OGA can be queried using the original PAULA XML files 
+or ANNIS 4. 
 In either case, one must know the labels used to encode annotations
 (for example, "v" stands for verbs and "n" for nouns). The files in this
 folder document all of them.
 
-# ANNIS Query Language
+# ANNIS 4
 
-Annis query language is documentated on https://korpling.github.io/ANNIS/4/user-guide/aql/index.html,
- where you can find explanations 
-for all operators. What is important to undestand for search in ANNIS 4
+Annis query language is documented 
+on https://korpling.github.io/ANNIS/4/user-guide/aql/index.html. 
+What is important to undestand for querying in ANNIS 4
 is that there are two
-kinds of annotation which two different kinds of syntax correspond to: 
+kinds of annotation which two kinds of syntax correspond to: 
 the annotation associated with single tokens (*token-based*) and 
 the annotation associated with all tokens of a texts (*text-based*, 
 known also as metadata field). For example, the field `author`
