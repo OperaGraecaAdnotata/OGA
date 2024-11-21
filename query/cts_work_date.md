@@ -1,6 +1,6 @@
 # CTS and Work Date Annotation
 
-The table below shows the values for the keys:
+The table [below](#keys-and-values) shows the values for the keys:
 
 * urn_cts
 * urn_cts_author
