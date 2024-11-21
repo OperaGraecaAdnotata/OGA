@@ -22,7 +22,7 @@ In ANNIS 4, annotations associated with single tokens (token-based) are simply
 searched using key/value pairs, such as `token="ἀθηναῖος"` or 
 `lemma="ἀθηναῖος"`. Metadata fields are also accessed through key/value pairs, 
 but are introduced by the operator `@*` (e.g., `@* urn_cts_author="tlg0010"`).
-For more clarification, query examples are provided below as templates.
+For more clarification, [query examples](#annis-query-examples) are provided below as templates.
 
 The following table lists all possible search keys and their values:
 
@@ -47,7 +47,7 @@ The following table lists all possible search keys and their values:
 |text-based|`@* urn_cts_edition="tlg001"`| this identifies an edition; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md"></a>|
 |text-based|`@* author="tlg0010"`| this identifies an author; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md"></a>|
 |text-based|`@* title="tlg001"`| this identifies a work; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md"></a>|
-|text-based|`@* work_date="m1_2"`| alleged work composition; for explanation, see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md">values</a>|
+|text-based|`@* work_date="m1_2"`| alleged work composition; for its logic, see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md">values</a>|
 
 # ANNIS Query Examples
 
