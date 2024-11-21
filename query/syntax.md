@@ -13,4 +13,4 @@ Note that the `_CO` and `_AP` suffixes have been deleted to reduce the number of
 possible labels. Moreover, the root of a syntactic tree is only one token (therefore,
 punctuation marks, as well as other nodes that in the original AGDT annotation scheme were
 dependents of the root, have been made dependent of the first node that depends on the root,
-which usually corresponds to the main verb of a sentence or a coordinate conjunction.)
+which usually corresponds to the main verb of a sentence or a coordinate conjunction).
