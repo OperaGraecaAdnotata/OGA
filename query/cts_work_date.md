@@ -12,11 +12,56 @@ The table [below](#keys-and-values) shows the values for the keys:
 * work_date
 
 For example, the values for `urn_cts`, `urn_cts_author`, `urn_cts_work`,
-and `urn_cts_edition` 
-for the work with CTS URN `pta0001.pta002.pta-grc1` are, respectively,
-`pta0001.pta002.pta-grc1`, `pta0001`, `pta002`, and `pta-grc1`.
+`urn_cts_edition`, `author`, and `title`
+for the work with CTS URN `tlg0615.tlg001.1st1K-grc1` are, respectively,
+`tlg0615.tlg001.1st1K-grc1`, `tlg0615`, `tlg001`, `1st1K-grc1`, `Aspasius`,
+and `In Ethica Nichomachea Commentaria` (check it
+in the [table](#keys-and-values)).
 
-# Keys and Values
+## CTS URN
+
+The metadata concerning CTS URNs (which include author names and work titles)
+have been retrieved automatically from the
+texts. This means that their values may contain 
+inconsistencies and errors, which can also be identified
+in the table [below](#keys-and-values).
+
+The field `cts` refers to a passage inside a work. In the 
+[table](#keys-and-values), the column `cts` tries to provide
+a summary of all possible values: for example, `1-2_1-8` means
+that the text has two main divisions (`_` identifies them) 
+and that the ranges for them are
+1-2 and 1-8, respectively. Therefore, a sound query could be `cts=1_7`.
+
+The values found in the column `cts` are sometimes a (long) list, if
+the range for a specific division does not consist of pure numbers.
+More in general, inconsistencies and errors are present since the
+original texts sometimes provide slightly different CTS URN
+implementation. For example, the texts from the PTA repository sometimes 
+specify the CTS URN of a work as a field in the XPATH expression within
+`<refsDecl n="CTS">`, and therefore this also appears in the values of the 
+`cts` key.
+
+## Work Dates
+
+At the moment, ANNIS 4 has no support for numbers. This means that a work's
+composition date must be modeled as a string.
+For this reason, ISO 8601 format dates, which
+have been annotated manually and continue to be corrected
+(see [file](https://github.com/OperaGraecaAdnotata/OGA/blob/main/work_chronology/chronology_greek_works.xml)), 
+have been transformed into labels such as `m3_2`or `p2_1`.
+
+`m3_2` means "2nd half of the 3rd century BCE", while `p2_1` "1st half of the
+2nd century CE". "m" stands for "minus" (i.e., BCE) and "p" for "plus" 
+(i.e., CE). The first number after "m" or "p" 
+refers to the century and the last one to the half.
+
+As is known, the composition date of an Ancient work is often uncertain. For
+this reason, the original 
+[ISO 8601 format dates](https://github.com/OperaGraecaAdnotata/OGA/blob/main/work_chronology/chronology_greek_works.xml)
+specify a range (alleged initial date and end date). 
+
+## Keys and Values
 
 <table>
   <thead>
