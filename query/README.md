@@ -12,7 +12,7 @@ Annis query language is documented
 on https://korpling.github.io/ANNIS/4/user-guide/aql/index.html. 
 What is important to undestand for querying in ANNIS 4
 is that there are two
-kinds of annotation which two kinds of syntax correspond to: 
+kinds of annotation that two kinds of syntax correspond to: 
 the annotation associated with single tokens (*token-based*) and 
 the annotation associated with all tokens of a texts (*text-based*, 
 known also as metadata field). For example, the field `author`
