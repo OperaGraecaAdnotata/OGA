@@ -39,7 +39,7 @@ The following table lists all possible search keys and their values:
 |token-based|`gender="m"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
 |token-based|`case="n"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
 |token-based|`degree="m"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
-|token-based|`cts="1_2"`|CTS structure for passage; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md">values</a>|
+|token-based|`cts="1_2"`|CTS structure for passage; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md#cts-urn">values</a>|
 |token-based|`ipa01="/an.drá.si/"`| experimental IPA transcription (5th BCE Attic pronunciation); see examples from Wiktionary, such as <a href="https://en.wiktionary.org/wiki/%E1%BC%84%CE%BE%CE%B9%CE%BF%CE%B9#Ancient_Greek">ἄξιοι</a>| 
 |text-based|`@* urn_cts="tlg0010.tlg001.perseus-grc2"`| this identifies an author, work and edition; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md">values</a>|
 |text-based|`@* urn_cts_author="tlg0010"`| this identifies an author; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md">values</a>|
