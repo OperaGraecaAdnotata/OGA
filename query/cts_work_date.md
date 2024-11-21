@@ -37,7 +37,7 @@ The values found in the column `cts` are sometimes a (long) list, if
 the range for a specific division does not consist of pure numbers.
 More in general, inconsistencies and errors are present since the
 original texts sometimes provide slightly different CTS URN
-implementation. For example, the texts from the PTA repository sometimes 
+implementations. For example, the texts from the PTA repository sometimes 
 specify the CTS URN of a work as a field in the XPATH expression within
 `<refsDecl n="CTS">`, and therefore this also appears in the values of the 
 `cts` key.
@@ -48,7 +48,7 @@ At the moment, ANNIS 4 has no support for numbers. This means that, for now,
 a work's composition date must be modeled as a string.
 For this reason, ISO 8601 format dates, which
 have been annotated manually by one annotator and continue to be corrected
-(see [file](https://github.com/OperaGraecaAdnotata/OGA/blob/main/work_chronology/chronology_greek_works.xml)), 
+(see [file](https://github.com/OperaGraecaAdnotata/OGA/blob/main/work_chronology/chronology_greek_works.xml), 
 have been transformed into labels such as `m3_2`or `p2_1`.
 
 `m3_2` means "2nd half of the 3rd century BCE", while `p2_1` "1st half of the
