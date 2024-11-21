@@ -6,7 +6,7 @@ In either case, one must know the labels used to encode annotations
 (for example, "v" stands for verbs and "n" for nouns). The files in this
 folder document all of them.
 
-# ANNIS 4
+## ANNIS 4
 
 Annis query language is documented 
 on https://korpling.github.io/ANNIS/4/user-guide/aql/index.html. 
