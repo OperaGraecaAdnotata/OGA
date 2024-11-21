@@ -89,7 +89,7 @@ used because the keys apply to the same token</td>
 <td>Search for a verb in the indicative mood that governs a noun that bears the OBJ syntactic function, and their
 linear distance is in the range 1-3 (tokens), and they belong to a work composed in
 the 1st or 2nd half of the fist century BCE. Note that <code>#3</code> refers to <code>pos="n"</code> and
-<code>#2</code> to <code>mood="i"</code>. <code>/.*(m1_1|m1_2).*/</code> is a <a href="https://korpling.github.io/ANNIS/4/user-guide/aql/regex.html">regular expression</a>. See to understand the label logic.</td>
+<code>#2</code> to <code>mood="i"</code>. <code>/.*(m1_1|m1_2).*/</code> is a <a href="https://korpling.github.io/ANNIS/4/user-guide/aql/regex.html">regular expression</a></td>
 </tr>
 </tbody>
 </table>
