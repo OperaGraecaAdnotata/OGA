@@ -63,7 +63,7 @@ The following are query examples that can be used as templates:
   <tbody>
 <tr>
 <td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=b30de80b-7d53-41d4-8304-487bf01dffa7#_q=dG9rPSLhvIjPh86xzrnOv-G9tiIgQCogd29ya19kYXRlPS8uKihwMV8xfHAxXzIpLiov&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&">tok="Ἀχαιοὶ" @* work_date=/.*(p1_1|p1_2).*/</a></td>
-<td>Search for the word form Ἀχαιοὶ in all texts written in the 1st and 2nd half of the 1st century CE</td>
+<td>Search for the word form Ἀχαιοὶ in all texts written in the 1st and 2nd half of the 1st century CE (note that a value included in `//` is a <a href="https://korpling.github.io/ANNIS/4/user-guide/aql/regex.html">regular expression</a>)</td>
 </tr>
 
 <tr>
@@ -88,23 +88,8 @@ used because the metadata fields apply to the same token</td>
 <td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=6ac1b972-334f-445d-be0c-19dabb8f38fb#_q=cG9zPSJ2IiBfaWRlbnRfIG1vb2Q9ImkiIC0-ZGVwW2RlcF9mbmM9Ik9CSiJdIHBvcz0ibiIgJiAjMyAuMSwzICMyIEAqIHdvcmtfZGF0ZT0vLioobTFfMXxtMV8yKS4qLwo&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&">pos="v" _ident_ mood="i" ->dep[dep_fnc="OBJ"] pos="n" & #3 .1,3 #2 @* work_date=/.*(m1_1|m1_2).*/</a></td>
 <td>Search for a verb in the indicative mood that governs a noun, and their
 linear distance is in the range 1-3 (tokens), and they belong to a work composed in
-the 1st or 2nd half of the fist century BCE</td>
+the 1st or 2nd half of the fist century BCE (note that `#3` refers to `pos="n"` and
+`#2` to `mood="i"`)</td>
 </tr>
 </tbody>
 </table>
-
-
-
-[lemma="ἀθηναῖος" @* work_date=/(m5_1|m5_2|m4_1|m4_2)/](https://annis.varro.informatik.uni-leipzig.de/?id=52281da9-9508-4ac2-be14-ce79c5731e2a#_q=bGVtbWE9IuG8gM64zrfOvc6x4b-Wzr_PgiIgQCogd29ya19kYXRlPS8obTVfMXxtNV8yfG00XzF8bTRfMikvCgo&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&)
-
-[lemma="ἀθηναῖος" @* work_date=/(p1_1|p1_2|p2_1|p2_2|p1_1|p1_2)/](https://annis.varro.informatik.uni-leipzig.de/?id=433e2997-85ed-49be-bbe1-858ff27c06d7#_q=bGVtbWE9IuG8gM64zrfOvc6x4b-Wzr_PgiIgQCogd29ya19kYXRlPS8ocDFfMXxwMV8yfHAyXzF8cDJfMnxwMV8xfHAxXzIpLwoK&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&)
-
-[lemma="ἀθηναῖος" @* author="Thucydides"](https://annis.varro.informatik.uni-leipzig.de/?id=79e496e6-79f3-4d6b-bd87-4d8dfc68402f#_q=bGVtbWE9IuG8gM64zrfOvc6x4b-Wzr_PgiIgQCogYXV0aG9yPSJUaHVjeWRpZGVzIgoK&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&)
-
-[pos="v" _ident_ cts=/3_.*/ @* author="Homer" _ident_ title="Iliad"](https://annis.varro.informatik.uni-leipzig.de/?id=d70ea7e5-fcbd-42fc-9c76-6c2eb45c0c40#_q=cG9zPSJ2IiBfaWRlbnRfIGN0cz0vM18uKi8gQCogYXV0aG9yPSJIb21lciIgX2lkZW50XyB0aXRsZT0iSWxpYWQiCg&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&)
-
-[pos="v" _ident_ cts=/3_.*/ @* urn_cts_author="tlg0012" _ident_ urn_cts_work="tlg001"
-](https://annis.varro.informatik.uni-leipzig.de/?id=92b6bc7a-2246-4a46-873a-e6fcf21f5d98#_q=cG9zPSJ2IiBfaWRlbnRfIGN0cz0vM18uKi8gQCogdXJuX2N0c19hdXRob3I9InRsZzAwMTIiIF9pZGVudF8gdXJuX2N0c193b3JrPSJ0bGcwMDEiCg&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&)
-
-[pos="v" _ident_ mood="i" ->dep[dep_fnc="OBJ"] pos="n" & #3 .1,3 #2 @* work_date=/(p1_1|p1_2)/
-](https://annis.varro.informatik.uni-leipzig.de/?id=fe33e671-1738-4ca0-bf84-d69f58c1a9b7#_q=cG9zPSJ2IiBfaWRlbnRfIG1vb2Q9ImkiIC0-ZGVwW2RlcF9mbmM9Ik9CSiJdIHBvcz0ibiIgJiAjMyAuMSwzICMyIEAqIHdvcmtfZGF0ZT0vKHAxXzF8cDFfMikvCg&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&)
