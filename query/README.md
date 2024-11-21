@@ -31,17 +31,23 @@ values, check the other files in this directory):
 |token-based|`token="Ἀθηναῖος"`|this is a word form|
 |token-based|`lemma="ἀθηναῖος"`|lemmas are lowercased in OGA v0.2.0|
 |token-based|`pos="v"`|part of speech|
-|token-based|`person="2"`|morphological feature|
-|token-based|`number="s"`|morphological feature|
-|token-based|`tense="p"`|morphological feature|
-|token-based|`mood="i"`|morphological feature|
-|token-based|`voice="a"`|morphological feature|
-|token-based|`gender="m"`|morphological feature|
-|token-based|`case="n"`|morphological feature|
-|token-based|`degree="m"`|morphological feature|
-|token-based|`cts="1_2"`|morphological feature|
-|token-based|`ipa01="/an.drá.si/"`| experimenntal IPA transcription (5th BCE Attic pronunciation)|
-|text-based|`@* urn_cts="tlg0010.tlg001.perseus-grc2"`| this identifies an author, work and edition see <a href=""></a>|
+|token-based|`person="2"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
+|token-based|`number="s"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
+|token-based|`tense="p"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
+|token-based|`mood="i"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
+|token-based|`voice="a"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
+|token-based|`gender="m"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
+|token-based|`case="n"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
+|token-based|`degree="m"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
+|token-based|`cts="1_2"`|CTS structure for passage; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md">values</a>|
+|token-based|`ipa01="/an.drá.si/"`| experimental IPA transcription (5th BCE Attic pronunciation)|
+|text-based|`@* urn_cts="tlg0010.tlg001.perseus-grc2"`| this identifies an author, work and edition; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md"></a>|
+|text-based|`@* urn_cts_author="tlg0010"`| this identifies an author; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md"></a>|
+|text-based|`@* urn_cts_work="tlg001"`| this identifies a work; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md"></a>|
+|text-based|`@* urn_cts_edition="tlg001"`| this identifies an edition; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md"></a>|
+|text-based|`@* author="tlg0010"`| this identifies an author; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md"></a>|
+|text-based|`@* title="tlg001"`| this identifies a work; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md"></a>|
+|text-based|`@* work_date="tlg001"`| this identifies an edition; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md"></a>|
 
 # ANNIS Query Examples
 
@@ -77,7 +83,7 @@ The following are query examples that can be used as templates:
 </tr>
 
 <tr>
-<td><a href="" >pos="v" _ident_ mood="i" ->dep[dep_fnc="OBJ"] pos="n" & #3 .1,3 #2 @* work_date=/.*(m1_1|m1_2).*/</a></td>
+<td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=a0734e4d-4d8b-43e8-9cd5-7ac238863f24#_q=cG9zPSJ2IiBfaWRlbnRfIG1vb2Q9ImkiIC0-ZGVwW2RlcF9mbmM9Ik9CSiJdIHBvcz0ibiIgJiAjMyAuMSwzICMyIEAqIHdvcmtfZGF0ZT0vKG0xXzF8bTFfMikvCg&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&" >pos="v" _ident_ mood="i" ->dep[dep_fnc="OBJ"] pos="n" & #3 .1,3 #2 @* work_date=/.*(m1_1|m1_2).*/</a></td>
 <td></td>
 </tr>
 
@@ -87,6 +93,8 @@ The following are query examples that can be used as templates:
 </tr>
 </tbody>
 </table>
+
+
 
 [lemma="ἀθηναῖος" @* work_date=/(m5_1|m5_2|m4_1|m4_2)/](https://annis.varro.informatik.uni-leipzig.de/?id=52281da9-9508-4ac2-be14-ce79c5731e2a#_q=bGVtbWE9IuG8gM64zrfOvc6x4b-Wzr_PgiIgQCogd29ya19kYXRlPS8obTVfMXxtNV8yfG00XzF8bTRfMikvCgo&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&)
 

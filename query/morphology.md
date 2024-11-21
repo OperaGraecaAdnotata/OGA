@@ -99,10 +99,7 @@ values shown in the table below.
     <td>third</td>
 
   </tr>
-  <tr>
-    <td>-</td>
-    <td>category does not apply</td>
-  </tr>
+
 
   <tr>
     <td rowspan="4">number</td>
@@ -119,10 +116,7 @@ values shown in the table below.
     <td>d</td>
     <td>dual</td>
   </tr>
-  <tr>
-    <td>-</td>
-    <td>category does not apply</td>
-  </tr>
+
 
 
 
@@ -158,10 +152,7 @@ values shown in the table below.
     <td>a</td>
     <td>aorist</td>
   </tr>
-  <tr>
-    <td>-</td>
-    <td>category does not apply</td>
-  </tr>
+
 
 
   <tr>
@@ -193,10 +184,7 @@ values shown in the table below.
     <td>g</td>
     <td>gerundive (very rarely used)</td>
   </tr>
-  <tr>
-    <td>-</td>
-    <td>category does not apply</td>
-  </tr>
+
 
   <tr>
     <td rowspan="5">voice</td>
@@ -215,10 +203,7 @@ values shown in the table below.
     <td>e</td>
     <td>medio-passive</td>
   </tr>
-  <tr>
-    <td>-</td>
-    <td>category does not apply</td>
-  </tr>
+
 
   <tr>
     <td rowspan="5">gender</td>
@@ -237,10 +222,7 @@ values shown in the table below.
     <td>c</td>
     <td>common (when there is no single gender; not used consistently)</td>
   </tr>
-  <tr>
-    <td>-</td>
-    <td>category does not apply</td>
-  </tr>
+
 
   <tr>
     <td rowspan="7">case</td>
@@ -267,10 +249,7 @@ values shown in the table below.
     <td>l</td>
     <td>locative</td>
   </tr>
-  <tr>
-    <td>-</td>
-    <td>category does not apply</td>
-  </tr>
+
 
   <tr>
     <td rowspan="3">degree</td>
@@ -281,10 +260,7 @@ values shown in the table below.
     <td>f</td>
     <td>superlative</td>
   </tr>
-  <tr>
-    <td>-</td>
-    <td>category does not apply (or positive degree)</td>
-  </tr>
+
 </table>
 
 

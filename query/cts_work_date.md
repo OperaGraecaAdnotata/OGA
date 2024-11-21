@@ -461,15 +461,15 @@ for the work with CTS URN `pta0001.pta002.pta-grc1` are, respectively,
       <td>Eusebius of Caesarea</td>
       <td>Contra Marcellum</td>
       <td>urn:cts:pta:pta0003.pta007.pta-grc1_1-2_1-4_1-31</td>
-      <td/>
+      <td>p4_1</td>
     </tr>
     <tr>
       <td>pta0003.pta009.pta-grc1</td>
       <td>Eusebius of Caesarea</td>
       <td>De ecclesiastica theologia</td>
-      <td>urn:cts:pta:pta0003.pta009.pta-grc1_1-3_praefatio,1,2,3,</br>
-      4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25_1-2</td>
-      <td/>
+      <td>urn:cts:pta:pta0003.pta009.pta-grc1_1-3_praefatio,1,2,3,4,5,6,7,8,<br/>
+9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25_1-2</td>
+      <td>p4_1</td>
     </tr>
     <tr>
       <td>pta0003.pta017.pta-grc1</td>
@@ -482,10 +482,9 @@ for the work with CTS URN `pta0001.pta002.pta-grc1` are, respectively,
       <td>pta0004.pta003.pta-grc1</td>
       <td>Theodoret of Cyrrhus</td>
       <td>Historia ecclesiastica</td>
-      <td>urn:cts:pta:pta0004.pta003.pta-grc1_1-5_pin,
-1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,2
-2,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40</td>
-      <td/>
+      <td>urn:cts:pta:pta0004.pta003.pta-grc1_1-5_pin,1,2,3,4,5,6,7,8,9,10,<br/>
+11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40</td>
+      <td>p5_1</td>
     </tr>
     <tr>
       <td>pta0005.pta001.pta-grc1</td>
@@ -513,21 +512,22 @@ for the work with CTS URN `pta0001.pta002.pta-grc1` are, respectively,
       <td>Origen</td>
       <td>Exhortatio ad martyrium</td>
       <td>urn:cts:pta:pta0007.pta007.pta-grc1_1-51</td>
-      <td/>
+      <td>p3_1</td>
     </tr>
     <tr>
       <td>pta0007.pta008.pta-grc1</td>
       <td>Origen</td>
       <td>De oratione</td>
       <td>1-34_1-1</td>
-      <td/>
+      <td>p3_1</td>
     </tr>
     <tr>
       <td>pta0012.pta001.pta-grc1</td>
       <td>Sozomen</td>
       <td>Historia ecclesiastica</td>
-      <td>urn:cts:pta:pta0012.pta001.pta-grc1_praefatio,1,2,3,4,5,6,7,8,9_1-17_1-6</td>
-      <td/>
+      <td>urn:cts:pta:pta0012.pta001.pta-grc1_praefatio,1,2,3,4,5,6,<br/>
+7,8,9_1-17_1-6</td>
+      <td>p5_1</td>
     </tr>
     <tr>
       <td>pta0013.pta003.pta-grc1</td>
@@ -548,14 +548,14 @@ for the work with CTS URN `pta0001.pta002.pta-grc1` are, respectively,
       <td>Athanasius of Alexandria</td>
       <td>De incarnatione</td>
       <td>urn:cts:pta:pta0022.pta002.pta-grc1_1-57</td>
-      <td/>
+      <td>p4_2</td>
     </tr>
     <tr>
       <td>pta0022.pta003.pta-grc1</td>
       <td>Athanasius of Alexandria</td>
       <td>De decretis Nicaenae synodi</td>
       <td>1-42_1-3</td>
-      <td/>
+      <td>p4_1</td>
     </tr>
     <tr>
       <td>pta0022.pta004.pta-grc1</td>
@@ -625,7 +625,7 @@ for the work with CTS URN `pta0001.pta002.pta-grc1` are, respectively,
       <td>Marcellus of Ancyra</td>
       <td>Fragmenta</td>
       <td>1-129</td>
-      <td/>
+      <td>p4_1</td>
     </tr>
     <tr>
       <td>pta0029.pta002.pta-grc1</td>
@@ -645,8 +645,11 @@ for the work with CTS URN `pta0001.pta002.pta-grc1` are, respectively,
       <td>pta0036.pta001.pta-grc1</td>
       <td>Anonymus of Cyzicus</td>
       <td>Historia ecclesiastica</td>
-      <td>praefatio,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38_praefatio,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38_1-20</td>
-      <td/>
+      <td>praefatio,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,<br/>
+21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38_praefatio,1,2,3,<br/>
+4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,<br/>
+29,30,31,32,33,34,35,36,37,38_1-20</td>
+      <td>p4_2</td>
     </tr>
     <tr>
       <td>pta0037.pta001.pta-grc1</td>
@@ -660,7 +663,7 @@ for the work with CTS URN `pta0001.pta002.pta-grc1` are, respectively,
       <td>Hermas</td>
       <td>Pastor</td>
       <td>visio,mandatum,similitudo_1-10_1-4_1-3ad4</td>
-      <td/>
+      <td>p2_2</td>
     </tr>
     <tr>
       <td>pta0039.pta001.pta-grc1</td>
@@ -681,7 +684,7 @@ for the work with CTS URN `pta0001.pta002.pta-grc1` are, respectively,
       <td>Anonymus (Author of Vita Cononis)</td>
       <td>Vita sancti Cononis Bidanae</td>
       <td>1-4_1-2_1-2_1-</td>
-      <td>m1_1</td>
+      <td>p6_1</td>
     </tr>
     <tr>
       <td>pta0100.pta001.pta-grc1</td>
@@ -758,182 +761,187 @@ for the work with CTS URN `pta0001.pta002.pta-grc1` are, respectively,
       <td>Bible</td>
       <td>Genesis</td>
       <td>urn:cts:pta:pta9999.pta001.pta-grc1_1-50_1-26</td>
-      <td/>
+      <td>m3_1</td>
     </tr>
     <tr>
       <td>pta9999.pta002.pta-grc1</td>
       <td>Bible</td>
       <td>Exodus</td>
       <td>urn:cts:pta:pta9999.pta002.pta-grc1_1-40_1-38</td>
-      <td/>
+      <td>m3_1</td>
     </tr>
     <tr>
       <td>pta9999.pta003.pta-grc1</td>
       <td>Bible</td>
       <td>Leviticus</td>
       <td>urn:cts:pta:pta9999.pta003.pta-grc1_1-27_1-34</td>
-      <td/>
+      <td>m3_1</td>
     </tr>
     <tr>
       <td>pta9999.pta004.pta-grc1</td>
       <td>Bible</td>
       <td>Numeri</td>
       <td>urn:cts:pta:pta9999.pta004.pta-grc1_1-36_1-13</td>
-      <td/>
+      <td>m3_1</td>
     </tr>
     <tr>
       <td>pta9999.pta005.pta-grc1</td>
       <td>Bible</td>
       <td>Deuteronomium</td>
       <td>urn:cts:pta:pta9999.pta005.pta-grc1_1-34_1-12</td>
-      <td/>
+      <td>m3_1</td>
     </tr>
     <tr>
       <td>pta9999.pta006.pta-grc1</td>
       <td>Bible</td>
       <td>Josue</td>
       <td>urn:cts:pta:pta9999.pta006.pta-grc1_1-24_1-33b</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta007.pta-grc1</td>
       <td>Bible</td>
       <td>Judices</td>
       <td>urn:cts:pta:pta9999.pta007.pta-grc1_1-21_1-25</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta008.pta-grc1</td>
       <td>Bible</td>
       <td>Ruth</td>
       <td>urn:cts:pta:pta9999.pta008.pta-grc1_1-4_1-22</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta009.pta-grc1</td>
       <td>Bible</td>
       <td>Regnorum I</td>
       <td>urn:cts:pta:pta9999.pta009.pta-grc1_1-31_1-13</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta010.pta-grc1</td>
       <td>Bible</td>
       <td>Regnorum II</td>
       <td>urn:cts:pta:pta9999.pta010.pta-grc1_1-24_1-25</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta011.pta-grc1</td>
       <td>Bible</td>
       <td>Regnorum III</td>
       <td>urn:cts:pta:pta9999.pta011.pta-grc1_1-22_1-54</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta012.pta-grc1</td>
       <td>Bible</td>
       <td>Regnorum IV</td>
       <td>urn:cts:pta:pta9999.pta012.pta-grc1_1-25_1-30</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta013.pta-grc1</td>
       <td>Bible</td>
       <td>Paralipomenon I</td>
       <td>urn:cts:pta:pta9999.pta013.pta-grc1_1-29_1-30</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta014.pta-grc1</td>
       <td>Bible</td>
       <td>Paralipomenon II</td>
       <td>urn:cts:pta:pta9999.pta014.pta-grc1_1-36_1-23</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta016.pta-grc1</td>
       <td>Bible</td>
       <td>Esdrae I</td>
       <td>urn:cts:pta:pta9999.pta016.pta-grc1_1-9_1-55</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta017.pta-grc1</td>
       <td>Bible</td>
       <td>Esdrae II</td>
       <td>urn:cts:pta:pta9999.pta017.pta-grc1_1-23_1-31</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta020.pta-grc1</td>
       <td>Bible</td>
       <td>Esther</td>
-      <td>urn:cts:pta:pta9999.pta020.pta-grc1_1-10_1a,1b,1c,1d,1e,1f,1g,1h,1i,1k,1l,1m,1n,1o,1p,1q,1r,1s,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,1,23,13a,13b,13c,13d,13e,13f,13g,17a,17b,17c,17d,17e,17f,17g,17h,17i,17k,17l,17m,17n,17o,17p,17q,17r,17s,17t,17u,17w,17x,17y,17z,2a,2b,12a,12b,12c,12d,12e,12f,12g,12h,12i,12k,12l,12m,12n,12o,12p,12q,12r,12s,12t,12u,12x,24,25,26,27,28,29,31,32,3a,3b,3c,3d,3e,3f,3g,3h,3i,3k,3l</td>
-      <td/>
+      <td>urn:cts:pta:pta9999.pta020.pta-grc1_1-10_1a,1b,1c,1d,1e,1f,1g,<br/>
+1h,1i,1k,1l,1m,1n,1o,1p,1q,1r,1s,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,<br/>
+18,19,20,21,22,1,23,13a,13b,13c,13d,13e,13f,13g,17a,17b,17c,17d,17e,17f,17g,<br/>
+17h,17i,17k,17l,17m,17n,17o,17p,17q,17r,17s,17t,17u,17w,17x,17y,17z,2a,<br/>
+2b,12a,12b,12c,12d,12e,12f,12g,12h,12i,12k,12l,12m,12n,12o,12p,12q,<br/>
+12r,12s,12t,12u,12x,24,25,26,27,28,29,31,32,3a,3b,3c,3d,3e,3f,3g,3h,3i,3k,3l</td>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta021.pta-grc1</td>
       <td>Bible</td>
       <td>Judith</td>
       <td>urn:cts:pta:pta9999.pta021.pta-grc1_1-16_1-25</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta022.pta-grc1</td>
       <td>Bible</td>
       <td>Tobias</td>
       <td>urn:cts:pta:pta9999.pta022.pta-grc1_1-14_1-15</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta023.pta-grc1</td>
       <td>Bible</td>
       <td>Machabaeorum I</td>
       <td>urn:cts:pta:pta9999.pta023.pta-grc1_1-16_1-24</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta024.pta-grc1</td>
       <td>Bible</td>
       <td>Machabaeorum II</td>
       <td>urn:cts:pta:pta9999.pta024.pta-grc1_1-15_1-39</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta025.pta-grc1</td>
       <td>Bible</td>
       <td>Machabaeorum III</td>
       <td>urn:cts:pta:pta9999.pta025.pta-grc1_1-7_1-23</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta026.pta-grc1</td>
       <td>Bible</td>
       <td>Machabaeorum IV</td>
       <td>urn:cts:pta:pta9999.pta026.pta-grc1_1-18_1-24</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta031.pta-grc1</td>
       <td>Bible</td>
       <td>Psalmi</td>
       <td>urn:cts:pta:pta9999.pta031.pta-grc1_1-151_1-7</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta032.pta-grc1</td>
       <td>Bible</td>
       <td>Odae</td>
       <td>urn:cts:pta:pta9999.pta032.pta-grc1_1-14_t,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,46,47,48,49,50,51</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta033.pta-grc1</td>
       <td>Bible</td>
       <td>Proverbia</td>
       <td>urn:cts:pta:pta9999.pta033.pta-grc1_1-31a_1-31</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta034.pta-grc1</td>
@@ -947,371 +955,371 @@ for the work with CTS URN `pta0001.pta002.pta-grc1` are, respectively,
       <td>Bible</td>
       <td>Canticum</td>
       <td>urn:cts:pta:pta9999.pta035.pta-grc1_1-8_1-14</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta036.pta-grc1</td>
       <td>Bible</td>
       <td>Job</td>
       <td>urn:cts:pta:pta9999.pta036.pta-grc1_1-42_1-17e</td>
-      <td/>
+      <td>m1_1</td>
     </tr>
     <tr>
       <td>pta9999.pta037.pta-grc1</td>
       <td>Bible</td>
       <td>Sapientia Salomonis</td>
       <td>urn:cts:pta:pta9999.pta037.pta-grc1_1-19_1-22</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta038.pta-grc1</td>
       <td>Bible</td>
       <td>Siracides</td>
       <td>urn:cts:pta:pta9999.pta038.pta-grc1_p,t,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51_t,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,27,28,29,30,31,32,33,34,35,26,36,37</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta039.pta-grc1</td>
       <td>Bible</td>
       <td>Psalmi Salomonis</td>
       <td>urn:cts:pta:pta9999.pta039.pta-grc1_1-18_1-12</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta040.pta-grc1</td>
       <td>Bible</td>
       <td>Osee</td>
       <td>urn:cts:pta:pta9999.pta040.pta-grc1_1-14_1-10</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta041.pta-grc1</td>
       <td>Bible</td>
       <td>Amos</td>
       <td>urn:cts:pta:pta9999.pta041.pta-grc1_1-9_1-15</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta042.pta-grc1</td>
       <td>Bible</td>
       <td>Michaeas</td>
       <td>urn:cts:pta:pta9999.pta042.pta-grc1_1-7_1-20</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta043.pta-grc1</td>
       <td>Bible</td>
       <td>Joel</td>
       <td>urn:cts:pta:pta9999.pta043.pta-grc1_1-4_1-21</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta044.pta-grc1</td>
       <td>Bible</td>
       <td>Abdias</td>
       <td>urn:cts:pta:pta9999.pta044.pta-grc1_1-21</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta045.pta-grc1</td>
       <td>Bible</td>
       <td>Jonas</td>
       <td>urn:cts:pta:pta9999.pta045.pta-grc1_1-4_1-11</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta046.pta-grc1</td>
       <td>Bible</td>
       <td>Nahum</td>
       <td>urn:cts:pta:pta9999.pta046.pta-grc1_1-3_1-19</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta047.pta-grc1</td>
       <td>Bible</td>
       <td>Habacuc</td>
       <td>urn:cts:pta:pta9999.pta047.pta-grc1_1-3_1-19</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta048.pta-grc1</td>
       <td>Bible</td>
       <td>Sophonias</td>
       <td>urn:cts:pta:pta9999.pta048.pta-grc1_1-3_1-20</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta049.pta-grc1</td>
       <td>Bible</td>
       <td>Aggaeus</td>
       <td>urn:cts:pta:pta9999.pta049.pta-grc1_1-2_1-23</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta050.pta-grc1</td>
       <td>Bible</td>
       <td>Zacharias</td>
       <td>urn:cts:pta:pta9999.pta050.pta-grc1_1-14_1-21</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta051.pta-grc1</td>
       <td>Bible</td>
       <td>Malachias</td>
       <td>urn:cts:pta:pta9999.pta051.pta-grc1_1-3_1-24</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta052.pta-grc1</td>
       <td>Bible</td>
       <td>Isaias</td>
       <td>urn:cts:pta:pta9999.pta052.pta-grc1_1-66_1-24</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta053.pta-grc1</td>
       <td>Bible</td>
       <td>Jeremias</td>
       <td>urn:cts:pta:pta9999.pta053.pta-grc1_1-52_1-34</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta054.pta-grc1</td>
       <td>Bible</td>
       <td>Baruch</td>
       <td>urn:cts:pta:pta9999.pta054.pta-grc1_1-5_1-9</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta055.pta-grc1</td>
       <td>Bible</td>
       <td>Threni seu Lamentationes</td>
       <td>urn:cts:pta:pta9999.pta055.pta-grc1_1-5_t,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,25,27,28,30,31,32,33,34,35,37,39,40,41,43,44,46,47,48,49,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta056.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Jeremiae</td>
       <td>urn:cts:pta:pta9999.pta056.pta-grc1_1-72</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta059.pta-grc1</td>
       <td>Bible</td>
       <td>Ezechiel</td>
       <td>urn:cts:pta:pta9999.pta059.pta-grc1_1-48_1-35</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta060.pta-grc1</td>
       <td>Bible</td>
       <td>Susanna</td>
       <td>urn:cts:pta:pta9999.pta060.pta-grc1_1-64</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta061.pta-grc1</td>
       <td>Bible</td>
       <td>Daniel</td>
       <td>urn:cts:pta:pta9999.pta061.pta-grc1_1-12_1-13</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta062.pta-grc1</td>
       <td>Bible</td>
       <td>Bel et Draco</td>
       <td>urn:cts:pta:pta9999.pta062.pta-grc1_1-42</td>
-      <td/>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta063.pta-grc1</td>
       <td>Bible</td>
       <td>Evangelium secundum Matthaeum</td>
       <td>urn:cts:pta:pta9999.pta063.pta-grc1_1-28_1-20</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>pta9999.pta064.pta-grc1</td>
       <td>Bible</td>
       <td>Evangelium secundum Marcum</td>
       <td>urn:cts:pta:pta9999.pta064.pta-grc1_1-16_1-20</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>pta9999.pta065.pta-grc1</td>
       <td>Bible</td>
       <td>Evangelium secundum Lucam</td>
       <td>urn:cts:pta:pta9999.pta065.pta-grc1_1-24_1-53</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>pta9999.pta066.pta-grc1</td>
       <td>Bible</td>
       <td>Evangelium secundum Ioannem</td>
       <td>urn:cts:pta:pta9999.pta066.pta-grc1_1-21_1-25</td>
-      <td/>
+      <td>p1_2/p2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta067.pta-grc1</td>
       <td>Bible</td>
       <td>Acta apostolorum</td>
       <td>urn:cts:pta:pta9999.pta067.pta-grc1_1-28_1-31</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>pta9999.pta068.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Pauli ad Romanos</td>
       <td>urn:cts:pta:pta9999.pta068.pta-grc1_1-16_1-24</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>pta9999.pta069.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Pauli ad Corinthios I</td>
       <td>urn:cts:pta:pta9999.pta069.pta-grc1_1-16_1-24</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>pta9999.pta070.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Pauli ad Corinthios II</td>
       <td>urn:cts:pta:pta9999.pta070.pta-grc1_1-13_1-13</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>pta9999.pta071.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Pauli ad Galatas</td>
       <td>urn:cts:pta:pta9999.pta071.pta-grc1_1-6_1-18</td>
-      <td/>
+      <td>p1_1</td>
     </tr>
     <tr>
       <td>pta9999.pta072.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Pauli ad Ephesios</td>
       <td>urn:cts:pta:pta9999.pta072.pta-grc1_1-6_1-24</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>pta9999.pta073.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Pauli ad Philippenses</td>
       <td>urn:cts:pta:pta9999.pta073.pta-grc1_1-4_1-23</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>pta9999.pta074.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Pauli ad Colossenses</td>
       <td>urn:cts:pta:pta9999.pta074.pta-grc1_1-4_1-18</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>pta9999.pta075.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Pauli ad Thessalonicenses I</td>
       <td>urn:cts:pta:pta9999.pta075.pta-grc1_1-5_1-28</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>pta9999.pta076.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Pauli ad Thessalonicenses II</td>
       <td>urn:cts:pta:pta9999.pta076.pta-grc1_1-3_1-18</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>pta9999.pta077.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Pauli ad Timotheum I</td>
       <td>urn:cts:pta:pta9999.pta077.pta-grc1_1-6_1-21</td>
-      <td/>
+      <td>p2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta078.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Pauli ad Timotheum II</td>
       <td>urn:cts:pta:pta9999.pta078.pta-grc1_1-4_1-22</td>
-      <td/>
+      <td>p2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta079.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Pauli ad Titum</td>
       <td>urn:cts:pta:pta9999.pta079.pta-grc1_1-3_1-15</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>pta9999.pta080.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Pauli ad Philemonem</td>
       <td>urn:cts:pta:pta9999.pta080.pta-grc1_1-1_1-25</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>pta9999.pta081.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Pauli ad Hebraeos</td>
       <td>urn:cts:pta:pta9999.pta081.pta-grc1_1-13_1-25</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>pta9999.pta082.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Iacobi</td>
       <td>urn:cts:pta:pta9999.pta082.pta-grc1_1-5_1-20</td>
-      <td/>
+      <td>p1_2/p2_1/p2_2/p3_1/p3_2/p4_1/p4_2</td>
     </tr>
     <tr>
       <td>pta9999.pta083.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Petri I</td>
       <td>urn:cts:pta:pta9999.pta083.pta-grc1_1-5_1-14</td>
-      <td/>
+      <td>p1_2/p2_1/p2_2/p3_1/p3_2/p4_1/p4_2</td>
     </tr>
     <tr>
       <td>pta9999.pta084.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Petri II</td>
       <td>urn:cts:pta:pta9999.pta084.pta-grc1_1-3_1-18</td>
-      <td/>
+      <td>p2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta085.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Ioannis I</td>
       <td>urn:cts:pta:pta9999.pta085.pta-grc1_1-5_1-21</td>
-      <td/>
+      <td>p2_1</td>
     </tr>
     <tr>
       <td>pta9999.pta086.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Ioannis II</td>
       <td>urn:cts:pta:pta9999.pta086.pta-grc1_1-1_1-13</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>pta9999.pta087.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Ioannis III</td>
       <td>urn:cts:pta:pta9999.pta087.pta-grc1_1-1_1-15</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>pta9999.pta088.pta-grc1</td>
       <td>Bible</td>
       <td>Epistula Iuda</td>
       <td>urn:cts:pta:pta9999.pta088.pta-grc1_1-25</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>pta9999.pta089.pta-grc1</td>
       <td>Bible</td>
       <td>Apocalypsis Ioannis</td>
       <td>urn:cts:pta:pta9999.pta089.pta-grc1_1-22_1-21</td>
-      <td/>
+      <td>p1_2</td>
     </tr>
     <tr>
       <td>stoa0033a.tlg028.1st1K-grc1</td>
@@ -4685,7 +4693,7 @@ for the work with CTS URN `pta0001.pta002.pta-grc1` are, respectively,
       <td>Galen</td>
       <td>De semine</td>
       <td>1-2_1-6</td>
-      <td/>
+      <td>p2_2</td>
     </tr>
     <tr>
       <td>tlg0057.tlg022.1st1K-grc1</td>
@@ -14020,3 +14028,4 @@ for the work with CTS URN `pta0001.pta002.pta-grc1` are, respectively,
     </tr>
   </tbody>
 </table>
+
