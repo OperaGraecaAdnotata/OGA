@@ -45,7 +45,7 @@ The following table lists all possible search keys and their values:
 |text-based|`@* urn_cts_author="tlg0010"`| this identifies an author; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md">values</a>|
 |text-based|`@* urn_cts_work="tlg001"`| this identifies a work; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md">values</a>|
 |text-based|`@* urn_cts_edition="tlg001"`| this identifies an edition; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md">values</a>|
-|text-based|`@* author="tlg0010"`| this identifies an author; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md"></a>|
+|text-based|`@* author="tlg0010"`| this identifies an author; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md"><a>|
 |text-based|`@* title="tlg001"`| this identifies a work; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md">values</a>|
 |text-based|`@* work_date="m1_2"`| alleged work composition; for its logic, see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md">values</a>|
 
@@ -68,8 +68,8 @@ The following are query examples that can be used as templates:
 
 <tr>
 <td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=d70ea7e5-fcbd-42fc-9c76-6c2eb45c0c40#_q=cG9zPSJ2IiBfaWRlbnRfIGN0cz0vM18uKi8gQCogYXV0aG9yPSJIb21lciIgX2lkZW50XyB0aXRsZT0iSWxpYWQiCg&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&">pos="v" _ident_ cts=/3_.*/ @* author="Homer" _ident_ title="Iliad"</a></td>
-<td>Find all verbs in the 3th Book of Homer's Iliad. Note that "\_ident\_" is
-used because the metadata fields apply to the *same token*</td>
+<td>Find all verbs in the 3th Book of Homer's Iliad. Note that "_ident_" is
+used because the metadata fields apply to the same token</td>
 </tr>
 
 
@@ -80,7 +80,7 @@ used because the metadata fields apply to the *same token*</td>
 
 <tr>
 <td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=6f569a32-aa01-4d81-b3f9-72787aa13b07#_q=bGVtbWE9Is-Hz4HPjM69zr_PgiIgQCogYXV0aG9yPSJCaWJsZSI&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&">lemma="χρόνος" @* author="Bible"</a></td>
-<td>Same as before, but the Bible texts come from a different edition (check <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/urn_cts_plus_date_label.xml">the CTS URNs</a>)</td>
+<td>Same as above, but the Bible texts come from a different edition (check full metadata for a text <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/urn_cts_plus_date_label.xml">here</a>)</td>
 </tr>
 
 <tr>
