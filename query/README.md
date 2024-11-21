@@ -32,7 +32,7 @@ values, check the other files in this directory):
 |-----|-----|-----|
 |token-based|`token="Ἀθηναῖος"`|this is a word form|
 |token-based|`lemma="ἀθηναῖος"`|lemmas are lowercased in OGA v0.2.0|
-|token-based|`pos="v"`|part of speech|
+|token-based|`pos="v"`|part of speech; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
 |token-based|`person="2"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
 |token-based|`number="s"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
 |token-based|`tense="p"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
