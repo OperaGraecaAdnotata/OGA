@@ -64,8 +64,8 @@ Euripides' Cyclops has the date `-0411-01/-0405-12`, which has been converted
 into the label "m5_2" (i.e., 2nd half of the 5th century BCE).
 
 If an alleged date range spans over different century halves (this usually
-means a very uncertain date)
-only the longer is kept (e.g., `+0096-01/+0116-12` corresponds to "p2_1").
+means a very uncertain date),
+only the longer half is kept (e.g., `+0096-01/+0116-12` corresponds to "p2_1").
 Since some date ranges can span over a long period comprising many
 century halves with the same temporal extension (i.e., 50 years), a value for
 `work_date` can look like `m9_1/m9_2/m8_1`. For this reason, it makes sense
