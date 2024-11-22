@@ -76,7 +76,7 @@ The final scores for the models are:
 |-----|-----|----|----|----|----|----|
 |96.41|91.90|94.77|91.56|82.60|77.10|91.41|
 
-The annotations for CTS URN, CTS passage, author name, and work title are
+The annotations for CTS URN, CTS passage, author name, and work title were
 retrieved automatically from the original texts (and therefore they may
 contain errors and inconsistencies).
 
