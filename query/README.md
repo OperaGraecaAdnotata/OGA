@@ -14,7 +14,7 @@ What is important to undestand for querying in ANNIS 4
 is that there are two
 kinds of annotation that two kinds of syntax correspond to: 
 the annotation associated with single tokens (*token-based*) and 
-the annotation associated with all tokens of a texts (*text-based*, 
+the annotation associated with all tokens of a text (*text-based*, 
 known also as metadata field). For example, the field `author`
 is the same for all tokens of a text and therefore is a metadata field. 
 
