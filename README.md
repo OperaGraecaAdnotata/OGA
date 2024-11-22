@@ -60,7 +60,7 @@ The corpus can be queried by:
 6. author name
 7. work title
 8. alleged composition date for each work
-9. (experimental) IPA transcription of a word form (the 5th-century BCE Attic one)
+9. (experimental) IPA transcription of word forms (the 5th-century BCE Attic ones)
 
 The morphosyntactic annotation and lemmatization are the outputs of
 (i) a parser and (ii) lemmatizer trained on 1,2M+ tokens of AGDT data 
