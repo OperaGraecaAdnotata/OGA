@@ -16,9 +16,9 @@ The Ancient Greek works included in OGA come from the GitHub repositories:
 
 In general, OGA contains one edition for each work, with 90 exceptions
 documented in 
-[urn_cts/texts/duplicates_tlg_pta.xml](../urn_cts/texts/duplicates_tlg_pta.xml). The list
+[urn_cts/texts/duplicates_tlg_pta.xml](./urn_cts/texts/duplicates_tlg_pta.xml). The list
 of all texts included in OGA is in 
-[urn_cts/texts/urn_cts_plus_date_label.xml](../urn_cts/texts/urn_cts_plus_date_label.xml).
+[urn_cts/texts/urn_cts_plus_date_label.xml](./urn_cts/texts/urn_cts_plus_date_label.xml).
 
 Because of the large corpus size,
 the actual corpus data is made available on Zenodo at
