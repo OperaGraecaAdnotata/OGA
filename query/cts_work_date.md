@@ -21,7 +21,7 @@ in the [table](#keys-and-values)).
 ## CTS URN
 
 The metadata concerning CTS URNs (which include author names and work titles)
-have been retrieved automatically from the
+were retrieved automatically from the
 texts. This means that their values may contain 
 inconsistencies and errors, which can also be identified
 in the table [below](#keys-and-values).
