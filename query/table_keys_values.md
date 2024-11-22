@@ -1456,7 +1456,7 @@
       <td>Euripides</td>
       <td>Iphigenia in Tauris</td>
       <td>1-1499</td>
-      <td>m5_2m5_2</td>
+      <td>m5_2</td>
     </tr>
     <tr>
       <td>tlg0006.tlg014.perseus-grc2</td>
@@ -5243,7 +5243,7 @@
       <td>Plato</td>
       <td>Phaedo</td>
       <td>57-118</td>
-      <td>m4_1m4_1</td>
+      <td>m4_1</td>
     </tr>
     <tr>
       <td>tlg0059.tlg005.perseus-grc2</td>
@@ -8071,7 +8071,7 @@
       <td>Septuaginta</td>
       <td>Bel et Draco (translatio Graeca)</td>
       <td>1-1_1-42</td>
-      <td>m2_1m2_1</td>
+      <td>m2_1</td>
     </tr>
     <tr>
       <td>tlg0527.tlg059.1st1K-grc1</td>
@@ -9527,7 +9527,7 @@
       <td>Hippocrates</td>
       <td>De corde</td>
       <td>1-12</td>
-      <td>m3_1/m3_2/m2_1/m2_2/m1_1m3_1/m3_2/m2_1/m2_2/m1_1</td>
+      <td>m3_1/m3_2/m2_1/m2_2/m1_1</td>
     </tr>
     <tr>
       <td>tlg0627.tlg046.1st1K-grc1</td>
@@ -11949,7 +11949,7 @@
       <td>Origen</td>
       <td>Excerpta in Psalmos [Dub.]</td>
       <td>9-150_8-3</td>
-      <td>p3_1p3_1</td>
+      <td>p3_1</td>
     </tr>
     <tr>
       <td>tlg2042.tlg075.1st1K-grc1</td>
@@ -13643,7 +13643,7 @@
       <td>Catenae (Novum Testamentum)</td>
       <td>Catena In Epistulam II Ad Timotheum (E Cod. Paris. Coislin. 204)</td>
       <td>hyp, toc, praef, 1, 2, 3, 4, 5, 6, 7, 8, 9</td>
-      <td>p6_2p6_2</td>
+      <td>p6_2</td>
     </tr>
     <tr>
       <td>tlg4102.tlg036.1st1K-grc1</td>
