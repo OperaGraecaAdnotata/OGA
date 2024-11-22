@@ -1,6 +1,6 @@
 # CTS and Work Date Annotation
 
-The table [below](#keys-and-values) shows the values for the keys:
+The table [below](./table_keys_values.xml) shows the values for the keys:
 
 * urn_cts
 * urn_cts_author
@@ -16,7 +16,7 @@ For example, the values for `urn_cts`, `urn_cts_author`, `urn_cts_work`,
 for the work with CTS URN `tlg0615.tlg001.1st1K-grc1` are, respectively,
 `tlg0615.tlg001.1st1K-grc1`, `tlg0615`, `tlg001`, `1st1K-grc1`, `Aspasius`,
 and `In Ethica Nichomachea Commentaria` (check it
-in the [table](#keys-and-values)).
+in the [table](./table_keys_values.xml)).
 
 ## CTS URN
 
@@ -24,10 +24,10 @@ The metadata concerning CTS URNs (which include author names and work titles)
 were retrieved automatically from the
 texts. This means that their values may contain
 inconsistencies and errors, which can also be identified
-in the table [below](#keys-and-values).
+in the table [below](./table_keys_values.xml).
 
 The field `cts` refers to a passage inside a work. In the
-[table](#keys-and-values), the column `cts` tries to provide
+[table](./table_keys_values.xml), the column `cts` tries to provide
 a summary of all possible values: for example, `1-2_1-8` means
 that the text has two main divisions (`_` identifies them)
 and that the ranges for them are
