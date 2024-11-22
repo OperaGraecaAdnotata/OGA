@@ -86,9 +86,10 @@ used because the keys apply to the same token</td>
 
 <tr>
 <td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=6ac1b972-334f-445d-be0c-19dabb8f38fb#_q=cG9zPSJ2IiBfaWRlbnRfIG1vb2Q9ImkiIC0-ZGVwW2RlcF9mbmM9Ik9CSiJdIHBvcz0ibiIgJiAjMyAuMSwzICMyIEAqIHdvcmtfZGF0ZT0vLioobTFfMXxtMV8yKS4qLwo&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&">pos="v" _ident_ mood="i" ->dep[dep_fnc="OBJ"] pos="n" & #3 .1,3 #2 @* work_date=/.*(m1_1|m1_2).*/</a></td>
-<td>Search for a verb in the indicative mood that governs a noun that bears the OBJ syntactic function, and their
-linear distance is in the range 1-3 (tokens), and they belong to a work composed in
-the 1st or 2nd half of the fist century BCE. Note that <code>#3</code> refers to <code>pos="n"</code> and
+<td>Search for a verb in the indicative mood that governs a noun that bears the OBJ syntactic function, and the noun is before the verb within the range of 3 tokens,
+and they belong to a work composed in
+the 1st or 2nd half of the fist century BCE.
+Note that <code>#3</code> refers to <code>pos="n"</code> and
 <code>#2</code> to <code>mood="i"</code>. <code>/.*(m1_1|m1_2).*/</code> is a <a href="https://korpling.github.io/ANNIS/4/user-guide/aql/regex.html">regular expression</a></td>
 </tr>
 </tbody>
