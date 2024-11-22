@@ -107,6 +107,9 @@ it could sometimes last for many seconds/minutes
 (especially if regular expressions are used).
 During the search time, users cannot further
 interact with Annis and should wait
-until the results are returned.
+until the results are returned 
+(when this happens, 
+the "Searching..." message is substituted with the number of matches and
+the Search button can be used again).
 
 ![Annis int](./images/screenshot1.png)
