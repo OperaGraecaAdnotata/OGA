@@ -107,7 +107,8 @@ it could sometimes last for many seconds/minutes
 (especially if regular expressions are used).
 
 During the search time, users cannot further
-interact with Annis and should wait
+interact with Annis (the Search button cannot be clicked again,
+as shown in the picture below) and should wait
 until the results are returned 
 (when this happens, 
 the "Searching..." message is substituted with the number of matches and
