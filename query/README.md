@@ -97,13 +97,16 @@ Note that <code>#3</code> refers to <code>pos="n"</code> and
 
 ## ANNIS Interface
 
-In the ANNIS interface, OGA appears divided into 5 subcorpora for performance reasons.
+In the ANNIS interface, OGA appears divided into 5 subcorpora
+for performance reasons.
 All of them should be selected to query the whole corpus. After clicking on
 the "Search" button, the "Searching..." message appears, as shown in the
 picture below: it usually disappear in a few seconds, 
 but depending on the complexity of the query,
-it could sometimes last for many seconds/minutes (especially if regular expressions are used).
-During the search time, users cannot further interact with Annis and should wait
+it could sometimes last for many seconds/minutes
+especially if regular expressions are used).
+During the search time, users cannot further
+interact with Annis and should wait
 until the results are returned.
 
 ![Annis int](./images/screenshot1.png)
