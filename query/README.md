@@ -80,7 +80,7 @@ used because the keys apply to the same token</td>
 
 <tr>
 <td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=6f569a32-aa01-4d81-b3f9-72787aa13b07#_q=bGVtbWE9Is-Hz4HPjM69zr_PgiIgQCogYXV0aG9yPSJCaWJsZSI&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&">lemma="χρόνος" @* author="Bible"</a></td>
-<td>Same as above, but the Bible texts come from a different edition (check full metadata for a text <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/urn_cts_plus_date_label.xml">here</a>)</td>
+<td>Same as above, but the Bible texts come from a different edition (check full metadata for a text <a href="../urn_cts/texts/urn_cts_plus_date_label.xml">here</a>)</td>
 </tr>
 
 
