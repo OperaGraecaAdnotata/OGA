@@ -32,7 +32,7 @@ The data can be queried (also) through the ANNIS 4 search tool at:
 
 To know more about how to query the corpus with ANNIS 4,
 see the documentation in the folder 
-[query](../query), 
+[query](./query), 
 where examples can be found. ANNIS 4 is also easily executable on a 
 [desktop computer](https://korpling.github.io/ANNIS/4/user-guide/installation/desktop.html): 
 consider using the desktop version with the data (~21G) made available on Zenodo,
