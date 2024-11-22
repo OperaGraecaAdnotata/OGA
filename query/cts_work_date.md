@@ -47,8 +47,8 @@ specify the CTS URN of a work as a field in the XPATH expression within
 At the moment, ANNIS 4 has no support for numbers. This means that, for now, 
 a work's composition date must be modeled as a string.
 For this reason, ISO 8601 format dates, which
-have been annotated manually by one annotator and continue to be corrected
-(see [file](https://github.com/OperaGraecaAdnotata/OGA/blob/main/work_chronology/texts/chronology_greek_works.xml)), 
+were annotated manually by one annotator and continue to be corrected
+(see [file](../work_chronology/texts/chronology_greek_works.xml)), 
 have been transformed into labels such as `m3_2`or `p2_1`.
 
 `m3_2` means "2nd half of the 3rd century BCE", while `p2_1` "1st half of the
@@ -58,7 +58,7 @@ refers to the century and the last one to the half.
 
 As is known, the composition date of an ancient work is often uncertain. For
 this reason, the original 
-[ISO 8601 format dates](https://github.com/OperaGraecaAdnotata/OGA/blob/main/work_chronology/texts/chronology_greek_works.xml)
+[ISO 8601 format dates](../work_chronology/texts/chronology_greek_works.xml)
 specify a range (alleged initial date and alleged end date). For example,
 Euripides' Cyclops has the date `-0411-01/-0405-12`, which has been converted
 into the label "m5_2" (i.e., 2nd half of the 5th century). 
