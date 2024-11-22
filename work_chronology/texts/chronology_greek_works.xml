@@ -335,20 +335,7 @@
     <comment_on_chronology>None</comment_on_chronology>
     <formatted_work_date>—0413-01/—0413-12</formatted_work_date>
   </record>
-  <record>
-    <id>25</id>
-    <urn_cts>tlg0006.tlg013</urn_cts>
-    <title_labels>Iphigenia in Tauris_Iphigenia Taurica</title_labels>
-    <title_from_print_edition>Ἰφιγένεια ἐν Ταύροις</title_from_print_edition>
-    <print_edition>Euripides. Euripidis Fabulae, Vol. II. Murray, Gilbert, editor. Oxford: Clarendon Press, 1913. (Reprinted 1921-1962)</print_edition>
-    <author>Euripides</author>
-    <estimated_work_date>412 BC</estimated_work_date>
-    <is_temporary_work_date>No</is_temporary_work_date>
-    <date_source>A guide to Ancient Greek Drama, 2nd Edition, Wiley-Blackwell, 2017</date_source>
-    <date_source_link>https://onlinelibrary.wiley.com/doi/book/10.1002/9780470776209</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>—0413-01/—0413-12</formatted_work_date>
-  </record>
+
   <record>
     <id>26</id>
     <urn_cts>tlg0006.tlg015</urn_cts>
@@ -6005,20 +5992,7 @@
     <comment_on_chronology>Waterfield mentions that Gorgias and Meno precede Phaedo.</comment_on_chronology>
     <formatted_work_date>—0382-01/—0374-12</formatted_work_date>
   </record>
-  <record>
-    <id>430</id>
-    <urn_cts>tlg0059.tlg004</urn_cts>
-    <title_labels>Phaedo</title_labels>
-    <title_from_print_edition>Phaedo</title_from_print_edition>
-    <print_edition>Plato, creator. Platonis Opera Tomvs I Tetralogia I-II, Burnet, John, 1863-1928, editor. Oxford University Press. 1900-06.</print_edition>
-    <author>Plato</author>
-    <estimated_work_date>383 BC - 375 BC</estimated_work_date>
-    <is_temporary_work_date>No</is_temporary_work_date>
-    <date_source>Waterfield, Robin, Plato of Athens: A Life in Philosophy (New York, 2023; online edn, Oxford Academic, 20 Apr. 2023)</date_source>
-    <date_source_link>https://doi.org/10.1093/oso/9780197564752.001.0001</date_source_link>
-    <comment_on_chronology>Most recent work written on Plato.</comment_on_chronology>
-    <formatted_work_date>—0382-01/—0374-12</formatted_work_date>
-  </record>
+
   <record>
     <id>431</id>
     <urn_cts>tlg0059.tlg030</urn_cts>
@@ -14224,20 +14198,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <comment_on_chronology>Origenes wrote these works during his time in Caesarea according to Markschies.</comment_on_chronology>
     <formatted_work_date>+0208-01/+0220-12</formatted_work_date>
   </record>
-  <record>
-    <id>1017</id>
-    <urn_cts>tlg2042.tlg074</urn_cts>
-    <title_labels>Excerpta in Psalmos [Dub.]</title_labels>
-    <title_from_print_edition>Excerpta in Psalmos [Dub.]</title_from_print_edition>
-    <print_edition>Origenes. Origenis Opera Omnia, Volume 7 (Patrologia Graeca, Tomus 17). La Rue, Charles de, editor; La Rue, Charles Vincent de, editor. Paris: J. P. Migne, 1857.</print_edition>
-    <author>Origen</author>
-    <estimated_work_date>220 AD-254 AD</estimated_work_date>
-    <is_temporary_work_date>No</is_temporary_work_date>
-    <date_source>Baltes, M. (., Lakmann, M. (., &amp; Markschies, C. (. (2006). Origenes. In Brill's New Pauly Online. Brill</date_source>
-    <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e900698</date_source_link>
-    <comment_on_chronology>Origenes wrote these works during his time in Caesarea according to Markschies.</comment_on_chronology>
-    <formatted_work_date>+0208-01/+0220-12</formatted_work_date>
-  </record>
+
   <record>
     <id>1018</id>
     <urn_cts>tlg2042.tlg075</urn_cts>
@@ -17990,20 +17951,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <comment_on_chronology>None</comment_on_chronology>
     <formatted_work_date>—0414-01/—0403-12</formatted_work_date>
   </record>
-  <record>
-    <id>1286</id>
-    <urn_cts>tlg0527.tlg058</urn_cts>
-    <title_labels>Bel et Draco (translatio Graeca)</title_labels>
-    <title_from_print_edition>Bel et Draco (translatio Graeca)</title_from_print_edition>
-    <print_edition>Septuaginta. The Old Testament in Greek According to the Septuagint. Volume 3: Hosea-4 Maccabees, Psalms of Solomon, Enoch, The Odes. Swete, Henry Barclay, editor. Cambridge: Cambridge University Press, 1905</print_edition>
-    <author>Septuaginta</author>
-    <estimated_work_date>199 BC- 100 BC</estimated_work_date>
-    <is_temporary_work_date>No</is_temporary_work_date>
-    <date_source>Wandrey, I. (. (2006). Septuagint. In Brill's New Pauly Online. Brill</date_source>
-    <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e1109300</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>—0199-01/—0100-12</formatted_work_date>
-  </record>
+
   <record>
     <id>1287</id>
     <urn_cts>tlg0530.tlg006</urn_cts>
@@ -18886,20 +18834,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <comment_on_chronology>None</comment_on_chronology>
     <formatted_work_date>—0449-01/—0400-12</formatted_work_date>
   </record>
-  <record>
-    <id>1350</id>
-    <urn_cts>tlg0627.tlg045</urn_cts>
-    <title_labels>De corde</title_labels>
-    <title_from_print_edition>De corde</title_from_print_edition>
-    <print_edition>Hippocrates. Oeuvres complètes d'Hippocrate, Vol. 9. Littré, Émile, editor. Paris: Baillière, 1861</print_edition>
-    <author>Hippocrates</author>
-    <estimated_work_date>450 BC-400 BC</estimated_work_date>
-    <is_temporary_work_date>Yes</is_temporary_work_date>
-    <date_source>Patzek, B. (., Stein-Hölkeskamp, E. (., Folkerts, M. (., Potter, P. (. O., Gundert, B. (. O., Welwei, K. (., &amp; Günther, L. (. (2006). Hippocrates. In Brill's New Pauly Online. Brill</date_source>
-    <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e514560</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>—0322-01/—0032-12</formatted_work_date>
-  </record>
+
   <record>
     <id>1351</id>
     <urn_cts>tlg0627.tlg046</urn_cts>
@@ -22778,20 +22713,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <comment_on_chronology>None</comment_on_chronology>
     <formatted_work_date>+0501-01/+0600-12</formatted_work_date>
   </record>
-  <record>
-    <id>1628</id>
-    <urn_cts>tlg4102.tlg035</urn_cts>
-    <title_labels>Catena In Epistulam II Ad Timotheum (E Cod. Paris. Coislin. 204)</title_labels>
-    <title_from_print_edition>Catena In Epistulam II Ad Timotheum (E Cod. Paris. Coislin. 204)</title_from_print_edition>
-    <print_edition>Catenae (Novum Testamentum). Catenae Graecorum Patrum in Novum Testamentum, Vol 7. Cramer, John Anthony, editor. Oxford: Oxford University Pres, 1843.</print_edition>
-    <author>Catenae (Novum Testamentum)</author>
-    <estimated_work_date>6th century AD</estimated_work_date>
-    <is_temporary_work_date>No</is_temporary_work_date>
-    <date_source>Ego, B. (., &amp; Rist, J. (. (2006). Exegesis. In Brill's New Pauly Online. Brill</date_source>
-    <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e407830</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>+0501-01/+0600-12</formatted_work_date>
-  </record>
+
   <record>
     <id>1629</id>
     <urn_cts>tlg4102.tlg036</urn_cts>
