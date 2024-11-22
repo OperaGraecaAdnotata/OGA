@@ -16,9 +16,9 @@ The Ancient Greek works included in OGA come from the GitHub repositories:
 
 In general, OGA contains one edition for each work, with 90 exceptions
 documented in 
-[urn_cts/texts/duplicates_tlg_pta.xml](https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/duplicates_tlg_pta.xml). The list
+[urn_cts/texts/duplicates_tlg_pta.xml](../urn_cts/texts/duplicates_tlg_pta.xml). The list
 of all texts included in OGA is in 
-[urn_cts/texts/urn_cts_plus_date_label.xml](https://github.com/OperaGraecaAdnotata/OGA/blob/main/urn_cts/texts/urn_cts_plus_date_label.xml).
+[urn_cts/texts/urn_cts_plus_date_label.xml](../urn_cts/texts/urn_cts_plus_date_label.xml).
 
 Because of the large corpus size,
 the actual corpus data is made available on Zenodo at
@@ -32,7 +32,7 @@ The data can be queried (also) through the ANNIS 4 search tool at:
 
 To know more about how to query the corpus with ANNIS 4,
 see the documentation in the folder 
-[query](https://github.com/OperaGraecaAdnotata/OGA/tree/main/query), 
+[query](../query), 
 where examples can be found. ANNIS 4 is also easily executable on a 
 [desktop computer](https://korpling.github.io/ANNIS/4/user-guide/installation/desktop.html): 
 consider using the desktop version with the data (~21G) made available on Zenodo,
@@ -82,7 +82,7 @@ contain errors and inconsistencies).
 
 The annotation for work composition dates was done manually and 
 is a work in progress 
-(see `work_chronology/chronology_greek_works.xml`).
+(see [chronology_greek_works.xml](../work_chronology/chronology_greek_works.xml)).
 
 The IPA transcription is based on a ByT5 model that achieved an accuracy
 of **0.83** (correct IPA transcriptions) on Greek and Latin data 
