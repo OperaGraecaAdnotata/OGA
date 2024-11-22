@@ -105,6 +105,7 @@ picture below: it usually disappear in a few seconds,
 but depending on the complexity of the query,
 it could sometimes last for many seconds/minutes
 (especially if regular expressions are used).
+
 During the search time, users cannot further
 interact with Annis and should wait
 until the results are returned 
