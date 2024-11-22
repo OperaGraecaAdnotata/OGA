@@ -30,24 +30,30 @@ The following table lists all possible search keys and their values:
 |-----|-----|-----|
 |token-based|`token="Ἀθηναῖος"`|this is a word form (UTF-8, NFC-normalized)|
 |token-based|`lemma="ἀθηναῖος"`|lemmas (UTF-8, NFC-normalized) are lowercased in OGA v0.2.0|
-|token-based|`pos="v"`|part of speech; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
-|token-based|`person="2"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
-|token-based|`number="s"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
-|token-based|`tense="p"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
-|token-based|`mood="i"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
-|token-based|`voice="a"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
-|token-based|`gender="m"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
-|token-based|`case="n"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
-|token-based|`degree="m"`|morphological feature; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/morphology.md">values</a>|
-|token-based|`cts="1_2"`|CTS structure for passage; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md#cts-urn">values</a>|
+|token-based|`pos="v"`|part of speech; see <a href="./morphology.md">values</a>|
+|token-based|`person="2"`|morphological feature; see <a href="./morphology.md">values</a>|
+|token-based|`number="s"`|morphological feature; see <a href="./morphology.md">values</a>|
+|token-based|`tense="p"`|morphological feature; see <a href="./morphology.md">values</a>|
+|token-based|`mood="i"`|morphological feature; see <a href="./morphology.md">values</a>|
+|token-based|`voice="a"`|morphological feature; see <a href="./morphology.md">values</a>|
+|token-based|`gender="m"`|morphological feature; see <a href="./morphology.md">values</a>|
+|token-based|`case="n"`|morphological feature; see <a href="./morphology.md">values</a>|
+|token-based|`degree="m"`|morphological feature; see <a href="./morphology.md">values</a>|
+|token-based|`cts="1_2"`|CTS structure for passage; see <a href="./cts_work_date.md#cts-urn">values</a>|
 |token-based|`ipa01="/an.drá.si/"`| experimental IPA transcription (5th BCE Attic pronunciation); see examples from Wiktionary, such as <a href="https://en.wiktionary.org/wiki/%E1%BC%84%CE%BE%CE%B9%CE%BF%CE%B9#Ancient_Greek">ἄξιοι</a>| 
-|text-based|`@* urn_cts="tlg0010.tlg001.perseus-grc2"`| this identifies an author, work and edition; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md">values</a>|
-|text-based|`@* urn_cts_author="tlg0010"`| this identifies an author; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md">values</a>|
-|text-based|`@* urn_cts_work="tlg001"`| this identifies a work; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md">values</a>|
-|text-based|`@* urn_cts_edition="perseus-grc2"`| this identifies an edition; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md">values</a>|
-|text-based|`@* author="tlg0010"`| this identifies an author; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md">values<a>|
-|text-based|`@* title="tlg001"`| this identifies a work; see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md">values</a>|
-|text-based|`@* work_date="m1_2"`| alleged work composition; for its logic, see <a href="https://github.com/OperaGraecaAdnotata/OGA/blob/main/query/cts_work_date.md#work-dates">values</a>|
+|text-based|`@* urn_cts="tlg0010.tlg001.perseus-grc2"`| this identifies an author, work and edition; see <a href="./cts_work_date.md">values</a>|
+|text-based|`@* urn_cts_author="tlg0010"`| this identifies an author;
+see <a href="./cts_work_date.md">values</a>|
+|text-based|`@* urn_cts_work="tlg001"`| this identifies a work;
+see <a href="./cts_work_date.md">values</a>|
+|text-based|`@* urn_cts_edition="perseus-grc2"`| this identifies an edition;
+see <a href="./cts_work_date.md">values</a>|
+|text-based|`@* author="tlg0010"`| this identifies an author;
+see <a href="./cts_work_date.md">values<a>|
+|text-based|`@* title="tlg001"`| this identifies a work;
+see <a href="./cts_work_date.md">values</a>|
+|text-based|`@* work_date="m1_2"`| alleged work composition; for its logic,
+see <a href="./cts_work_date.md#work-dates">values</a>|
 
 # ANNIS Query Examples
 
