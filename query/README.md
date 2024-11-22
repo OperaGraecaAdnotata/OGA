@@ -4,7 +4,7 @@ The annotations in OGA can be queried using the original PAULA XML files
 or ANNIS 4. 
 In either case, one must know the labels used to encode annotations
 (for example, `v` stands for verbs and `n` for nouns). The files in this
-folder document all of them.
+folder document the admissible keys/values.
 
 ## ANNIS 4
 
