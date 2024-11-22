@@ -82,7 +82,7 @@ contain errors and inconsistencies).
 
 The annotation for work composition dates was done manually and 
 is a work in progress 
-(see [chronology_greek_works.xml](../work_chronology/chronology_greek_works.xml)).
+(see [chronology_greek_works.xml](./work_chronology/chronology_greek_works.xml)).
 
 The IPA transcription is based on a ByT5 model that achieved an accuracy
 of **0.83** (correct IPA transcriptions) on Greek and Latin data 
