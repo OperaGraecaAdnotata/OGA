@@ -49,7 +49,7 @@ The following table lists all possible search keys and their values:
 |text-based|`@* title="tlg001"`| this identifies a work; see <a href="./cts_work_date.md">values</a>|
 |text-based|`@* work_date="m1_2"`| alleged work composition; for its logic, see <a href="./cts_work_date.md#work-dates">values</a>|
 
-# ANNIS Query Examples
+## ANNIS Query Examples
 
 The following are query examples that can be used as templates:
 
