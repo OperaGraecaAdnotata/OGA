@@ -1,6 +1,6 @@
 # Syntactic Annotation
 
-The syntax has been annotated following the guidelines:
+The syntax was annotated following the guidelines:
 
 * https://github.com/PerseusDL/treebank_data/blob/master/v1/greek/docs/guidelines.pdf
 * https://github.com/PerseusDL/treebank_data/blob/master/AGDT2/guidelines/Greek_guidelines.md

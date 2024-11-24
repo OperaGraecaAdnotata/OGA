@@ -20,7 +20,7 @@ in the [table](./table_keys_values.md)).
 
 ## CTS URN
 
-The metadata concerning CTS URNs (which include author names and work titles)
+The metadata concerning CTS URNs (including author names and work titles)
 were retrieved automatically from the
 texts. This means that their values may contain
 inconsistencies and errors, which can also be identified
@@ -28,7 +28,7 @@ in the [table](./table_keys_values.md).
 
 The field `cts` refers to a passage inside a work. In the
 [table](./table_keys_values.md), the column `cts` tries to provide
-a summary of all possible values: for example, `1-2_1-8` means
+a summary of all admissible values: for example, `1-2_1-8` means
 that the text has two main divisions (`_` identifies them)
 and that the ranges for them are
 1-2 and 1-8, respectively. Therefore, a sound query could be `cts=1_7`.
