@@ -101,7 +101,7 @@ In the ANNIS interface, OGA appears divided into 5 subcorpora
 for performance reasons.
 All of them should be selected to query the whole corpus. After clicking on
 the "Search" button, the "Searching..." message appears, as shown in the
-picture below: it usually disappear in a few seconds, 
+picture below: it usually disappears in a few seconds, 
 but depending on the complexity of the query,
 it could sometimes last for many seconds/minutes
 (especially if regular expressions are used).

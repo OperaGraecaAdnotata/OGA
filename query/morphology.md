@@ -1,6 +1,6 @@
 # Morphological Annotation
 
-Morphology can be queried using the keys with the possible
+Morphology can be queried using the keys with the admissible
 values shown in the table below. 
 
 ## Keys and Values
