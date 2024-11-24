@@ -15,7 +15,7 @@ The Ancient Greek works included in OGA come from the GitHub repositories:
 * [PatristicTextArchive (release 1.1.11363682704)](https://github.com/PatristicTextArchive/pta_data/releases/tag/1.1.11363682704)
 
 In general, OGA contains one edition for each work
-(the duplicates in canonical-greekLit and First1KGreek have been discarded),
+(the duplicates in canonical-greekLit and First1KGreek were discarded),
 with 90 exceptions
 coming from PatristicTextArchive and documented in 
 [urn_cts/texts/duplicates_tlg_pta.xml](./urn_cts/texts/duplicates_tlg_pta.xml). The list
