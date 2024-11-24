@@ -8581,7 +8581,7 @@
       <td>tlg0551.tlg002.perseus-grc2</td>
       <td>Appianus of Alexandria</td>
       <td>Kings</td>
-      <td/>
+      <td>1-13</td>
       <td>p2_2</td>
     </tr>
     <tr>
