@@ -128,10 +128,11 @@ Direct citation of the corpus is:
 
 ```
 Giuseppe G. A. Celano. 2024. Opera Graeca Adnotata (v0.2.0). Zenodo.
-https://doi.org/10.5281/zenodo.8158675
+https://doi.org/10.5281/zenodo.14206061
 ```
+
 ```
-@misc{celanoOGA010,
+@misc{celanoOGA020,
 author =    {Giuseppe G. A. Celano},
 title =     {Opera Graeca Adnotata},
 year =      {2024},
