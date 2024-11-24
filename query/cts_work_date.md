@@ -60,7 +60,7 @@ As is known, the composition date of an ancient work is often uncertain. For
 this reason, the original 
 [ISO 8601 format dates](../work_chronology/texts/chronology_greek_works.xml)
 specify a range (alleged initial date and alleged end date). For example,
-Euripides' Cyclops has the date `-0411-01/-0405-12`, which has been converted
+Euripides' Cyclops has the date `-0411-01/-0405-12`, which was converted
 into the label "m5_2" (i.e., 2nd half of the 5th century BCE).
 
 If an alleged date range spans over different century halves (this usually
