@@ -10,12 +10,14 @@ of Ancient Greek texts with automatically generated annotations
 
 The Ancient Greek works included in OGA come from the GitHub repositories:
 
-* [Canonical Greek (release 0.0.11376425141)](https://github.com/PerseusDL/canonical-greekLit/releases/tag/0.0.11376425141)
+* [canonical-greekLit (release 0.0.11376425141)](https://github.com/PerseusDL/canonical-greekLit/releases/tag/0.0.11376425141)
 * [First1KGreek (release 1.1.11352615003)](https://github.com/OpenGreekAndLatin/First1KGreek/releases/tag/1.1.11352615003)
 * [PatristicTextArchive (release 1.1.11363682704)](https://github.com/PatristicTextArchive/pta_data/releases/tag/1.1.11363682704)
 
-In general, OGA contains one edition for each work, with 90 exceptions
-documented in 
+In general, OGA contains one edition for each work
+(the duplicates in canonical-greekLit and First1KGreek have been discarded),
+with 90 exceptions
+coming from PatristicTextArchive and documented in 
 [urn_cts/texts/duplicates_tlg_pta.xml](./urn_cts/texts/duplicates_tlg_pta.xml). The list
 of all texts included in OGA is in 
 [urn_cts/texts/urn_cts_plus_date_label.xml](./urn_cts/texts/urn_cts_plus_date_label.xml).
