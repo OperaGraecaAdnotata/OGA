@@ -247,11 +247,11 @@ values shown in the table below.
 
   <tr>
     <td rowspan="2">degree</td>
-    <td>m</td>
+    <td>c</td>
     <td>comparative</td>
   </tr>
   <tr>
-    <td>f</td>
+    <td>s</td>
     <td>superlative</td>
   </tr>
 
