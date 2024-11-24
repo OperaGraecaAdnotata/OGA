@@ -25,7 +25,7 @@ of all texts included in OGA is in
 Because of the large corpus size,
 the actual corpus data is made available on Zenodo at
 
-* https://doi.org/10.5281/zenodo.8158675
+* https://doi.org/10.5281/zenodo.14206061
 
 The data can be queried (also) through the ANNIS 4 search tool at:
 
@@ -127,18 +127,18 @@ Giuseppe G. A. Celano. Opera Graeca Adnotata: Building a 34M+ Token Multilayer C
 Direct citation of the corpus is: 
 
 ```
-Giuseppe G. A. Celano. 2023. Opera Graeca Adnotata (v0.2.0). Zenodo.
+Giuseppe G. A. Celano. 2024. Opera Graeca Adnotata (v0.2.0). Zenodo.
 https://doi.org/10.5281/zenodo.8158675
 ```
 ```
 @misc{celanoOGA010,
 author =    {Giuseppe G. A. Celano},
 title =     {Opera Graeca Adnotata},
-year =      {2023},
+year =      {2024},
 publisher = {Zenodo},
 version =   {v0.2.0},
-doi =       {10.5281/zenodo.8158675},
-url =       {https://doi.org/10.5281/zenodo.8158675}
+doi =       {10.5281/zenodo.14206061},
+url =       {https://doi.org/10.5281/zenodo.14206061}
 }
 ```
 ## Contact
