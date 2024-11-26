@@ -92,6 +92,15 @@ the 1st or 2nd half of the fist century BCE.
 Note that <code>#3</code> refers to <code>pos="n"</code> and
 <code>#2</code> to <code>mood="i"</code>. <code>/.*(m1_1|m1_2).*/</code> is a <a href="https://korpling.github.io/ANNIS/4/user-guide/aql/regex.html">regular expression</a></td>
 </tr>
+
+<tr>
+<td><a href="https://annis.varro.informatik.uni-leipzig.de/?id=cf58cb8d-16fe-4218-ade4-25190282e58f#_q=cG9zPSJ2IiAmIHBvcz0ibiIgJiBwb3M9ImEiICYgIzEgLT5kZXBbZGVwX2ZuYz0iT0JKIl0gIzIgJiAjMiAtPmRlcFtkZXBfZm5jPSJBVFIiXSAjMyAmICMxIC4gIzIgJiAjMyAuICMx&ql=aql&_c=b2dhX3YwLjIuMF81LG9nYV92MC4yLjBfMyxvZ2FfdjAuMi4wXzQsb2dhX3YwLjIuMF8xLG9nYV92MC4yLjBfMg&cl=5&cr=5&s=0&l=10&">pos="v" & pos="n" & pos="a" & #1 ->dep[dep_fnc="OBJ"] #2 & #2 ->dep[dep_fnc="ATR"] #3 & #1 . #2 & #3 . #1</a></td>
+<td>Search for a verb that governs a noun, which, in turn, governs an adjective. The verb
+precedes the noun and the adjective precedes the verb</td>
+</tr>
+
+
+
 </tbody>
 </table>
 
