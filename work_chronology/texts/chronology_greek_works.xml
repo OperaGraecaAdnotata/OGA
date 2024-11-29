@@ -17878,7 +17878,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Fortenbaugh, W. W., &amp; Harmon, R. (. (2006). Theophrastus. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e1209710</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Fortenbaugh mentions that there is no consensus regarding the date of Theophrastus' works, therefore his estimated lifespan is used as a relative date.</comment_on_chronology>
     <formatted_work_date>—0370-01/—0285-12</formatted_work_date>
   </record>
   <record>
@@ -17892,7 +17892,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Fortenbaugh, W. W., &amp; Harmon, R. (. (2006). Theophrastus. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e1209710</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Fortenbaugh mentions that there is no consensus regarding the date of Theophrastus' works, therefore his estimated lifespan is used as a relative date.</comment_on_chronology>
     <formatted_work_date>—0370-01/—0285-12</formatted_work_date>
   </record>
   <record>
@@ -17906,7 +17906,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Fortenbaugh, W. W., &amp; Harmon, R. (. (2006). Theophrastus. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e1209710</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Fortenbaugh mentions that there is no consensus regarding the date of Theophrastus' works, therefore his estimated lifespan is used as a relative date.</comment_on_chronology>
     <formatted_work_date>—0370-01/—0285-12</formatted_work_date>
   </record>
   <record>
@@ -17916,12 +17916,12 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <title_from_print_edition>Περὶ τῶν ἀρεσκόντων τοῖς φιλοσόφοις φυσικῶν δογμάτων</title_from_print_edition>
     <print_edition>Plutarch. Plutarchi Chaeronensis Moralia, Vol V. Vernardakēs, Grēgorios N., editor. Leipzig: Teubner, 1888.</print_edition>
     <author>Pseudo-Plutarch</author>
-    <estimated_work_date>2nd Century AD (101-200)</estimated_work_date>
+    <estimated_work_date>45 AD-125 AD</estimated_work_date>
     <is_temporary_work_date>Yes</is_temporary_work_date>
     <date_source>Cobet, J. (., Pelling, C. B. R. (., Baltes, M. (., Olshausen, E. (., Harmon, R. (., Hünemörder, C. (., &amp; Saffrey, H. D. (. (2006). Plutarchus. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e928690</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>+0101-01/+0200-12</formatted_work_date>
+    <comment_on_chronology>As the chronology for this work is not certain, Plutarch's lifespan has been used as a relative date.</comment_on_chronology>
+    <formatted_work_date>+0045-01/+0125-12</formatted_work_date>
   </record>
   <record>
     <id>1284</id>
@@ -17934,7 +17934,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>Yes</is_temporary_work_date>
     <date_source>Radt, S., &amp; Elvers, K. (. (2006). Strabo. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_brill130030</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>As the date of this work is uncertain, a specific date of the later period of Strabo has been used.</comment_on_chronology>
     <formatted_work_date>+0018-01/+0024-12</formatted_work_date>
   </record>
   <record>
@@ -17944,12 +17944,12 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <title_from_print_edition>Fragmenta</title_from_print_edition>
     <print_edition>Critias. Die Fragmente der Vorsokratiker, Vol. 2. Diels, Hermann, editor. Berlin: Weidmann, 1922.</print_edition>
     <author>Critias</author>
-    <estimated_work_date>415 BC-404 BC</estimated_work_date>
+    <estimated_work_date>460 BC-404 BC</estimated_work_date>
     <is_temporary_work_date>Yes</is_temporary_work_date>
     <date_source>Zimmermann, B. (. (2006). Critias. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e623290</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>—0414-01/—0403-12</formatted_work_date>
+    <comment_on_chronology>As the date for this work is uncertain, Critias' lifespan has been used as a reference instead.</comment_on_chronology>
+    <formatted_work_date>—0459-01/—0403-12</formatted_work_date>
   </record>
 
   <record>
