@@ -19126,7 +19126,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>Yes</is_temporary_work_date>
     <date_source>Döring, K. (. (2006). Cebes. In Brill's New Pauly Online. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/1574-9347_bnp_e611460</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>According to Döring, this dialogue falsely attributed to Cebes was probably composed during the 1st century AD.</comment_on_chronology>
     <formatted_work_date>+0001-01/+0100-12</formatted_work_date>
   </record>
   <record>
@@ -19136,12 +19136,12 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <title_from_print_edition>Fragmenta</title_from_print_edition>
     <print_edition>Dialexeis. Die Fragmente der Vorsokratiker, Vol. 2. Diels, Hermann, editor. Berlin: Weidmann, 1922.</print_edition>
     <author>Dialexeis</author>
-    <estimated_work_date>500 BC-400 BC</estimated_work_date>
+    <estimated_work_date>600 BC-400 BC</estimated_work_date>
     <is_temporary_work_date>Yes</is_temporary_work_date>
     <date_source>Landfester, M. (2011). Presocratics (Presocratic philosophers). In Brill's New Pauly Supplements I Online – Volume 2. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/2214-8647_bnps2_COM_0184</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>—0499-01/—0400-12</formatted_work_date>
+    <comment_on_chronology>The term "presocratic"in itself is problematic. Therefore, the temporal range of these works cannot be established with accuracy, but can be assumed to contain philosophers active around 200 years before Socrates.</comment_on_chronology>
+    <formatted_work_date>—0599-01/—0400-12</formatted_work_date>
   </record>
   <record>
     <id>1373</id>
@@ -19154,7 +19154,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Dorotheus, Wikipedia</date_source>
     <date_source_link>https://en.wikipedia.org/wiki/Dorotheus_of_Sidon</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>Dorotheus is believed to have flourished in the late 1st century AD, hence the date.</comment_on_chronology>
     <formatted_work_date>+0075-01/+0100-12</formatted_work_date>
   </record>
   <record>
@@ -19168,7 +19168,7 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Landfester, M. (2011). Euripides. In Brill's New Pauly Supplements I Online – Volume 2. Brill</date_source>
     <date_source_link>https://doi.org/10.1163/2214-8647_bnps2_COM_0087</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
+    <comment_on_chronology>This date is based on the estimated lifespan of Euripides.</comment_on_chronology>
     <formatted_work_date>—0484-01/—0405-12</formatted_work_date>
   </record>
   <record>
@@ -19178,12 +19178,12 @@ Paul A. Vander Waerdt, Diogenes of Babylon: The Stoic Sage in the City of Fools,
     <title_from_print_edition>Fragmenta Synodicae Epistulae.</title_from_print_edition>
     <print_edition>Irenaeus. Reliquiae Sacrae, Vol. 2. Routh, Martin Joseph, editor. Oxford: Oxford University Press, 1846.</print_edition>
     <author>Irenaeus, Saint, Bishop of Lyon</author>
-    <estimated_work_date>130 AD-202 AD</estimated_work_date>
+    <estimated_work_date>122 AD-202 AD</estimated_work_date>
     <is_temporary_work_date>No</is_temporary_work_date>
     <date_source>Saint Irenaeus, Wikipedia</date_source>
     <date_source_link>https://en.wikipedia.org/wiki/Irenaeus</date_source_link>
-    <comment_on_chronology>None</comment_on_chronology>
-    <formatted_work_date>+0130-01/+0202-12</formatted_work_date>
+    <comment_on_chronology>This chronology has been established based on the estimated lifespan of Irenaeus.</comment_on_chronology>
+    <formatted_work_date>+0122-01/+0202-12</formatted_work_date>
   </record>
   <record>
     <id>1376</id>
