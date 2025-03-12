@@ -169,3 +169,7 @@ This work is licensed under a <a rel="license"
 href="http://creativecommons.org/licenses/by-sa/4.0/">
 Creative Commons Attribution-ShareAlike 4.0 International License</a> (for more
 details, look also at the repositories of the original texts mentioned above).
+
+<p>&nbsp;</p>
+
+<img src="https://github.com/OperaGraecaAdnotata/OGA/blob/main/images/bookgpu.jpeg" width=100% height=100%>
