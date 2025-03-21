@@ -172,4 +172,4 @@ details, look also at the repositories of the original texts mentioned above).
 
 <p>&nbsp;</p>
 
-<img src="https://github.com/OperaGraecaAdnotata/OGA/blob/main/images/bookgpu.jpeg" width=100% height=100%>
+<img src="/images/bookgpu.jpeg" width=100% height=100%>
