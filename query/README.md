@@ -19,7 +19,7 @@ known also as metadata field). For example, the field `author`
 is the same for all tokens of a text and therefore is a metadata field. 
 
 In ANNIS 4, annotations associated with single tokens (token-based) are simply
-searched using key/value pairs, such as `token="ἀθηναῖος"` or 
+searched using key/value pairs, such as `tok="ἀθηναῖος"` or 
 `lemma="ἀθηναῖος"`. Metadata fields are also accessed through key/value pairs, 
 but are introduced by the operator `@*` (e.g., `@* urn_cts_author="tlg0010"`).
 For more clarification, [query examples](#annis-query-examples) are provided below as templates.
@@ -28,7 +28,7 @@ The following table lists all possible search keys and their values:
 
 |type of annotation|syntax|comment/values|
 |-----|-----|-----|
-|token-based|`token="Ἀθηναῖος"`|this is a word form (UTF-8, NFC-normalized)|
+|token-based|`tok="Ἀθηναῖος"`|this is a word form (UTF-8, NFC-normalized)|
 |token-based|`lemma="ἀθηναῖος"`|lemmas (UTF-8, NFC-normalized) are lowercased in OGA v0.2.0|
 |token-based|`pos="v"`|part of speech; see <a href="./morphology.md">values</a>|
 |token-based|`person="2"`|morphological feature; see <a href="./morphology.md">values</a>|
