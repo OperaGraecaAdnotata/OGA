@@ -173,5 +173,3 @@ details, look also at the repositories of the original texts mentioned above).
 <p>&nbsp;</p>
 
 ![Annis image](./images/bookgpu.jpeg)
-
-<img src="/images/bookgpu.jpeg" width=100% height=100%>
